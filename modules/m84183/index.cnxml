@@ -1,0 +1,443 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Nanofluid enhanced oil recovery</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m84183</md:content-id>
+  <md:title>Nanofluid enhanced oil recovery</md:title>
+  <md:abstract/>
+  <md:uuid>2f16e66f-2c5f-4b44-aa4e-598b6964a07f</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm329409904"><title>Introduction</title><para id="eip-189">Nanoparticles (NPs) are a unique class of materials with a size range of 1-100 nanometer (nm). NPs are categorized according to their size, morphology, and chemical structures. Based on physicochemical properties, they are classified into metal, carbon-based, semiconductor, ceramic, lipid-based, quantum dots (QDs), and polymeric NPs. Among these well-known NPs, metal-based and ceramic NPs exhibited the best physicochemical performance in EOR methods. Their derivatives have gained considerable interest in enhanced oil recovery (EOR) due to their extraordinary mechanical, chemical, and physical properties, ever since the first utilization of surface-modified nanoparticles in the year 2002. This chapter comprehensively reviews the flooding of metal and non-metal nanoparticles as a novel chemical EOR technique to ender more than 50% unrecoverable trapped oil after pushing primary and secondary oil recoveries. Moreover, the emerging advances regarding the use of these materials on EOR methods to overcome strong chemical bonding between rock-fluid and fluid-fluid interfaces are summarized.</para></section>
+
+<section id="eip-987"><title>Significant advancements of NPs in chemical EOR methods</title><para id="eip-9">In the last 10 years, various nanoparticles (metal and non-metal oxide) in the form of nanofluids, nanocatalyst, and nanoemulsion have been proposed for increased oil sweep efficiencies. Their excellent properties such as particle size, shape, physiochemical stability, cost-effectiveness and eco-friendly processes have given fresh impetus to ongoing field-test applications for the future. In terms of nanoparticle application, they can be utilized as an emulsifier, catalyser, and an effective agent in fluid for various EOR methods such as water, foam, polymer, surfactant, and thermal flooding. (Guo et al., Son et al.) Without a doubt, state-of-the-art additives such as nanomaterials along with polymers, and surfactants are extremely useful in maximising oil recovery. (Kmetz et al., Zhang et al.) Therefore, compared to secondary and tertiary recoveries, applying engineered nanoparticles has several advantages when sweeping inaccessible oil in reserves.</para><para id="eip-712">Their fascinating properties result in several key advantages in comparison to conventional EOR methods: </para><list id="eip-632" list-type="enumerated" number-style="arabic"><item>They effectively reduce interfacial tension and improved contact angle while reducing interfacial tension, which can, for instance, provide excellent modification on rock wettability (oil-wet to water-wet); </item>
+<item>easily spontaneous oil displacement by changing gravity drainage between pores, pore-throats;</item>
+
+<item>increased sweep efficiency and a gravity reduction within the pores by diffusion mechanisms;</item> 
+<item>increase the mobility ratio by reducing the oil viscosity;</item>
+<item>generating disjoint pressure for oil displacement through porous media. (Monfared et al.)</item>
+</list><para id="eip-865">By considering the effect of NPs, we summarize the main effects on EOR flooding as demonstrated in recently published articles.</para></section>
+
+<section id="eip-72"><title>An example of wettability alteration</title><para id="eip-493">It has been reported that altering rock wettability can play a pivotal role in increasing oil production. Rock wettability alteration is a key strategy, consisting of controlling the relative permeability, residual oil distribution, and capillary pressure in pore and pore-throats. It has been stated that having a host rock with relatively water-wet and neutral-wet is the best situation in the oil reserves. Typically, polymer, surfactant, and alkaline-surfactant-polymer were designed within water flooding to improve spontaneous imbibition.</para><para id="eip-640">It has been claimed in colloidal materials that adding NPs leads to significant changes in interfacial tension and surface tension at fluid-fluid and rock-fluid interfaces due to changes in the entropy of NPs (<link target-id="import-auto-idm386728816"/>). For instance, the large quantities of NPs lead to a wedge-film structure at the fluid (oil)/solid(rock) interface due to the physicochemical interaction by the NPs (<link target-id="import-auto-idm1060681472"/>).  Therefore, focusing on the surface-interface mechanisms of NPs resulting in the successful design of an NPs-chemical EOR operation.</para><figure id="import-auto-idm386728816"><media id="import-auto-idm375155520" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-e25a.png" width="400" print-width="4in"/>
+        </media>
+      
+<caption>chematic of oil-solid interaction mechanism in the presence of nanofluids, generating a wedge film via the diffusion of nanoparticles between rock-fluid interface. Reproduced with permission from K.-L. Liu, K. Kondiparty, A. D. Nikolov, and D. Wasan, <emphasis effect="italics">Langmuir</emphasis>, 2012, <emphasis effect="bold">28</emphasis>, 16274. Copyright: The Authors. Published by American Chemical Society (2014). </caption></figure><figure id="import-auto-idm1060681472"><media id="import-auto-idm1423604624" alt="">
+          <image mime-type="image/png" src="../../media/Picture 33.png" width="400" print-width="4in"/>
+        </media>
+       <caption>Nanoparticle sweeping mechanisms through the micromodel pores (a) after saline injection and (b) nanofluid injection. Reproduced with permission from K.-L. Liu, K. Kondiparty, A. D. Nikolov, and D. Wasan, <emphasis effect="italics">Langmuir</emphasis>, 2012, <emphasis effect="bold">28</emphasis>, 16274. Copyright: The Authors. Published by American Chemical Society (2014).</caption></figure></section>
+
+
+<section id="eip-915"><title>Examples of NPs adsortion on host rock</title><para id="eip-303">As the above content shows, changing the rock wettability with nanostructures is a topic of great interest for oil recovery. More examples have been shown to improve the understanding of this topic. Li examined the use of different hydrophilic and hydrophobic SiO<sub>2</sub> NPs by assessing oil recovery values of Berea sandstone core plugs. They summarized the adsorption isotherms, spontaneous imbibition, contact angle measurements, and strengths and weakness of SiO<sub>2</sub> NPs. Using explanatory data from two NPs with different functionalities, it was shown that hydrophilic SiO<sub>2</sub> makes the core relatively water-wet, whilst using hydrophobic SiO<sub>2</sub> does not cause a change in the wettability of origin rock.  They conclude that such hydrophilic NPs (with low contact angle, 10-20°) have a high tendency to adsorb on the rock surface, highlighting their use in the application within sandstone oil reservoirs. Using NPs to change the rock wettability of the carbonated reservoirs has also been strongly recommended by literature. For example, researchers analyzed Al<sub>2</sub>O<sub>3</sub>, TiO<sub>2</sub>, and SiO<sub>2</sub> NPs and found that the rate of adsorption increased significantly when compared to systems without NPs.</para></section>
+
+<section id="import-auto-idm1074368224"><title>pH value</title><para id="import-auto-idm1156009440">Applying nanomaterials in the oil reserves has several advantages and disadvantages compared with the conventional chemical substances. One of the major issues is their pH-responsive properties in harsh reservoir media, which, since 20 years ago, have not been properly addressed. Changing the pH of NPs not only affects their aggregation in the pores and pore-throats but also owes to pore-plugging in the oil formation. The surface of NPs using surfactant as well as adding functionalized groups is two useful approaches which can help researchers and engineers in resolving this issue. It has been reported that higher oil recovery can be made possible by optimization of the stability of NPs in the reservoir of varying pH, as evaluated by isoelectric point (IEP). If the hydration repulsion between NPs in aqueous electrolyte suspension is high, the IEP value of a nanofluid is near zero and the particles tend to cluster and create an unstable fluid.  While the optimum values will be obtained through high IEP values with ultra-stable nanofluids. It is noted that the lowest and highest stabilities within solutions are when ζ values are above or below 30 mV (±30 mV), respectively. pH profiles in different reservoirs with lower/higher concentration depend on the amount of monovalent and divalent cations such as Mg<sup>2+</sup>, Ca<sup>2+</sup>, and Cl<sup>-</sup> in harsh conditions, in which the presence of ions can generally promote adsorption of NPs with ions on the substrate.  Furthermore, shape, surface area, pore-volume, pore size, and NPs functionality are the main factors that cause increments in fluid stability.</para><para id="import-auto-idm1061678080">An in-depth understanding of pH-responsive nanomaterial is required before implementing any chemical EOR flooding in the oil reserves. Most NPs are influenced by inorganic salts in an aqueous solution. They have a high tendency to agglomerate and deposit in the presence of different ions which leads to both changes in IFT and wettability. Nonetheless, it is expected that the performance of NPs should be improved by surface functionalization during synthesizing or surface modification by surfactant, polymers, and ultrasonic vibration.  By applying ultra-stable NPs, interfacial tension will decrease, and oil sweep efficiency improve due to surface chemistry compatibility and stability on the bulk surface of NPs.</para><para id="import-auto-idm1033491856">successfully stabilized NPs with high thermal stability in electrolyte solutions were recently synthesized in foam and Pickering emulsion. One well-known instance is the stabilized anisotropic particles, which exhibits highly stabilized Pickering emulsion.  A significant change in reserved oil bank occurs when using surface-modified NPs during foam and Pickering emulsion flooding in the aqueous electrolyte solutions. For instance, upon surface modification of sphere silica NPs with polyethylene glycol (PEG, <link target-id="import-auto-idm1059177840X"/>), dramatic stabilized water/CO<sub>2</sub> emulsion and homogenous foam fronts were observed during Pickering emulsion and foam flooding, respectively.</para><figure id="import-auto-idm1059177840X"><media id="import-auto-idm1099094144X" alt="">
+          <image mime-type="image/png" src="../../media/PEG.png" width="200" print-width="2in"/>
+        </media>
+      <caption>Structure of polyethylene glycol (PEG). </caption></figure><para id="eip-250">Much like silica particles, other NPs such as cellulose (a plant-based material, see <link target-id="import-auto-idm1059177840"/>) also undergo significant stability within electrolyte solutions in EOR scenarios. Surface modified nanocellulose (NC) have been evaluated in order to improve the viscous properties of nanofluids. NC is a material composed of nanosized cellulose fibrils with a high aspect ratio (width = 5–20 nm, length = micrometers). This approach opened several exciting avenues for utilizing green nanomaterials that have shown to be effective in decreasing FT to 10<sup>−1</sup> mN/m. By changing the pH value, weak interactions amongst NPs and rock formation occurs. These weak interactions between NPs and mono/divalent ions (i.e., Na<sup>+</sup>, Mg<sup>2+</sup>, Ca<sup>2+</sup>, Fe<sup>2+</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, and SO<sub>4</sub><sup>2-</sup>) lead to positive formation wettability alteration (oil-wet to water-wet) and further oil mobility.</para><figure id="import-auto-idm1059177840"><media id="import-auto-idm1099094144" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-9417.png" width="300" print-width="3in"/>
+        </media>
+      <caption>Structure of cellulose. </caption></figure></section><section id="eip-476"><title>Effect of pH on deposition of clay NPs</title><para id="eip-702"><link target-id="import-auto-idm1055809280"/> shows the effect of pH on aggregation and stabilization of NPs. For instance, nano clay demonstrates great promise in changing the pH value. However, the chemistry of these layer-based NPs may not be tuned for different EOR scenarios. The hydration process is the main issue in these NPs which generates hydroxylation and protonation amongst cation and anion sites. <link target-id="import-auto-idm1055809280"/>c shows the sensitivity of NPs to the positive charge (H<sup>+</sup> ions) which led to aggregation at low pH value; however, deposition of clay NPs was significantly reduced at higher pH value.</para><figure id="import-auto-idm1055809280"><media id="import-auto-idm1005183040" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-ad71.png" width="500" print-width="5in"/>
+        </media>
+      <caption>Schematic model of polymer aggregation onto surfaces in the presence of NPs onto different surfaces: (a) decreasing pH caused NPs aggregation, (b) at low pH, more deposition on positively charged edge sites on kaolinite or metal oxide impurities on sand, and (c) particle filtration by deposition of aggregates formed at low pH, and by deposition and mechanical filtration by clay aggregates at low pH. Reproduced with permission from H.-J, Kim, T. Phenrat, R. D. Tilton, and G. V. Lowry, <emphasis effect="italics">J. Colloid Interface Sci.</emphasis>, 2012, <emphasis effect="bold">370</emphasis>, 1. Copyright: Elsevier (2012). </caption></figure><para id="eip-980">Recently, the effect of pH on long-term stability and aggregation of polyelectrolytes coated nano zero-valent iron (nZVI, Fe<sup>0</sup>) onto kaolinite and sand surfaces has been investigated. It was observed that a decrease in NPs stability occurred with decreasing pH. Moreover, the presence of divalent ion concentration caused greater deposition onto clay minerals than silica surfaces.
+Another type of clay NPs is montmorillonite that was recently assessed as an emulsion droplet stabilizer in an electrolyte solution. They proposed that each emulsion bubble was wrapped in multiple montmorillonite plate-sized NPs in order to stabilize them.
+</para></section>
+
+
+
+
+<section id="eip-428"><title>Impact of temperature on NPs</title><para id="eip-820">Chemical flooding continually deforms under HPHT condition and high salinity. These are the main issues for application of NPs, polymers, or surfactants in the oil formations. They should be considered before flooding to prevent phase segregation and molecular aggregation. </para></section><section id="eip-778">
+
+<title>Impact of salinity on NPs</title><para id="eip-175">Formation rock and water formation are the main source of salinity in the reserves. Rock formation is due to the accumulation of electrolytes in the rock over millions of years within the reservoirs. The salinity of the rock formation has a significant effect on the success of any chemical floods; especially nanofluid. Therefore, applying a compatible geological test before implementing nanofluids would have an added benefit for successful chemical flooding. On the other hand, the reservoir’s fluid chemistry is another challenging parameter. For instance, the presence of various divalent (Ca<sup>2+</sup>, Mg<sup>2+</sup>) and monovalent (K<sup>+</sup>, Na<sup>+</sup>) cations withing nanofluid decreases the repulsive forces resulting in agglomeration of the NPs, which also occurs in polymer and surfactant molecules. Currently, there is no ultra-stable nanofluid system, so researchers are trying to improve fluid stability. Polyelectrolyte nanofluid system is available in the presence of KCl and NaCl to retain electrostatic repulsion forces between NPs and polymer in the high salinity mediums. As well as looking for a stabilized system, researchers found other existing polyelectrolyte systems such as polystyrene sulfonate (<link target-id="import-auto-idm384996368"/>a) and vinyl pyrrodine (<link target-id="import-auto-idm384996368"/>b) can be used to help NPs stabilized.</para><figure id="cute-dfgvefddog"><media id="import-auto-idm1sdfvdv022128" alt="">
+          <image mime-type="image/png" src="../../media/Picture 24.png" width="250" print-width="2.5in"/>
+        </media>
+      <caption>Structures of (a) polystyrene sulfonate and (b) vinyl pyrrodine.</caption></figure>
+
+
+
+
+
+</section>
+
+
+<section id="import-auto-idm390990112">
+      <title>Effect of NPs surface modification</title><para id="eip-551">The particle-particle interaction and dispersion of nanoparticles in the base fluid is a great challenge in terms of applicability. Generally, two strategies have been suggested to dominate NPs dispersion in the fluid. One approach is covalent bonding using tune surface functional groups (ligands) such as silane, carboxylic, and amine. The second strategy is tailoring NPs to ligands such as surfactants, polymers, dendrimers, biomolecule, and small molecules that generate a steric stabilization effect between the NPs. However, in acidic or basic solution NPs are unable to remain stabilized when lower steric interactions are present. As opposed to neutral solutions, where this is not an issue and high NPs stability exists at lower steric interactions.</para><para id="import-auto-idm386384144">Systematic studies have shown that functionalized NPs can reach a higher stability with ultra-low IFT, and contact angle to apply in foam and Pickering emulsion EOR methods.  A Pickering emulsion is an emulsion that is stabilized by solid particles (for example colloidal silica) which adsorb onto the interface between the two phases. Various metal and non-metal NPs such as silicon dioxide (SiO<sub>2</sub>), zirconium dioxide (ZrO<sub>2</sub>), titanium dioxide (TiO<sub>2</sub>), magnesium oxide (MgO), aluminium oxide (Al<sub>2</sub>O<sub>3</sub>), copper dioxide (CuO), iron oxide (Fe<sub>2</sub>O<sub>3</sub>, Fe<sub>3</sub>O<sub>4</sub>), cerium dioxide (CeO<sub>2</sub>), tin oxide (SnO<sub>2</sub>), zinc oxide (ZnO), cobalt ferrite (CoFe<sub>2</sub>O<sub>4</sub>), and Janus NPs have been modified and used for oil recovery. Janus particles are special types of nanoparticles or microparticles whose surfaces have two or more distinct physical properties. For example, in order to synthesize a Janus zirconium phosphate NPs, the NPs surface was modified with octadecyl isocyanate and applied in EOR emulsion method. Janus zirconium phosphate NPs generates a fine emulsion with high oil recovery. In addition, adding alkyl polyglycerol-side (APG) surfactant to zirconium phosphate nanofluid facilitate a positive synergistic effect, enhancing oil recovery and in turn, successful Pickering emulsion flooding.</para><section id="eip-613"><title>Controling viscosity</title><para id="eip-584">Stable nanofluids are useful chemicals in reducing oil viscosity in heavy and extra-heavy oil reserves. One well-known example is ferrofluid, which showed excellent oil push up. Ferrofluid is composed of a nanoscale ferromagnetic fluid that becomes strongly magnetized via a magnetic field. Significant viscosity reduction of oil occurred by adding ferrofluid along with heat. Besides, ferrofluid leads to an increase in fluid viscosity displacement upon decreasing the oil viscosity. Both of these factors are the main driving forces behind the increase in mobility ratio and oil recovery. Another example of NPs demonstrating significant oil sweep efficiency is a SiO<sub>2</sub> NPs within a 300-ppm polymer solution with brine. It generated high oil mobilization within reservoirs due to the addition of NPs to the polymer solution which can be attributed to varying monomer arrangement, intermolecular interactions, and “log-jammed” of SiO<sub>2</sub> at the pore throat. Besides SiO<sub>2</sub> NPs, other metal oxides like NiO<sub>2</sub> NPs within xanthan gum (<link target-id="import-auto-idm343230416"/>) solution and oleic acid were also used to improve viscosity and stability in EOR process.<sup/></para><figure id="import-auto-idm343230416"><media id="import-auto-idm334864304" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-3e49.png" width="350" print-width="3.5in"/>
+        </media>
+      <caption>Structure of the polysaccharide xanthan gum. </caption></figure>
+
+
+</section>
+
+
+
+<section id="eip-128"><title>Impact of NPs on asphaltenes adsorption</title><para id="eip-645">Over the past decade, heavy and extra-heavy oil, contain asphaltene (<link target-id="import-auto-idm370533424"/>) and resin, has been a major impetus for wide-ranging studies to decrease the strength of interactions between oil molecules and rock surfaces. With growing evidence of the effects of the nanoparticles on increased oil sweeping efficiencies, some NPs can be used as an emerging platform in heavy oil (extra oil-wet) conditions. For instance, ZrO<sub>2</sub> nanofluids in the presence of non-ionic surfactants have been shown to be appropriate for carbonated heavy oil reservoirs. In this case, surface alteration from oil-wet to water-wet was observed; however, it was shown that the wettability alteration requires at least two days, while the maximum rate of oil recovery occurred shortly after contact between the nanofluids and rock interface. A high affinity of rock, in order to change the rock surface to the super-hydrophilic condition, was also observed. Furthermore, ZrO<sub>2</sub>-based nanofluid shows a suitable effect as a wettability modifier which can result in considerable oil sweeping in fractured and low-permeability carbonate reservoirs.
+Utilizing SiO<sub>2</sub> in the presence of asphaltene aggregates, Is owed to their adsorption on the NPs surface. Adsorption of NPs on NPs surfaces has motivated research teams to work on novel NPs in this field. 
+</para><figure id="import-auto-idm370533424"><media id="import-auto-idm1132017696" alt="">
+          <image mime-type="image/png" src="../../media/Picture 28.png" width="300" print-width="3in"/>
+        </media>
+      <caption>Proposed representative structure of asphaltene. </caption></figure><para id="import-auto-idm381852688">Besides, coating highly polar asphaltene aggregates on SiO<sub>2</sub> NPs within the polymer is a way to improve the oil sweep efficiency in different pH values. For instance, adding NPs to long-chained polymer molecules in waterflooding leads to significant front displacement in the presence of asphaltene aggregates.</para></section>
+
+
+
+
+<section id="eip-938"><title>Nanoparticle classification</title><section id="import-auto-idm326018960">
+        <title>Metal-oxide NPs</title><para id="import-auto-idm329077200">Experimental studies have demonstrated the importance of metal NPs for EOR in foam and Pickering emulsion.  They have been studied extensively during the past 20 years because NPs possess unique physicochemical properties. Metal oxide NPs such as Al<sub>2</sub>O<sub>3</sub>, MgO, and Si<sub/>O<sub>2</sub> have a pH-responsive and magnetic-responsive property (<link target-id="eip-606"/>). Due to these advanced properties, they can be used as a unique agent to modify the rock wettability, reduce oil viscosity, reduce fine migration, and improve oil sweep efficiency in the reserve. Free movement of metal NPs in the formation is crucial in the system. However, the mechanism of NPs movement is less considered. <link target-id="import-auto-idm382756768"/> shows the feasible NPs movement amongst rock formation. NPs adsorption and retention are essential for easy movement of NPs under harsh conditions (high salinity, high pressure, and high temperature).</para><figure id="import-auto-idm382756768"><media id="import-auto-idm370300544" alt="">
+            <image mime-type="image/png" src="../../media/Picture 9-112c.png" width="550" print-width="5.5in"/>
+          </media>
+        <caption>Schematic of NP interactions with rock through porous media.</caption></figure><table id="eip-606" summary="Table 1. The main types of metal oxide NPs in EOR flooding"><tgroup cols="6"><tbody>
+  <row>
+    <entry><emphasis effect="bold">Nanoparticles</emphasis></entry>
+    <entry><emphasis effect="bold">Oil type</emphasis></entry>
+    <entry><emphasis effect="bold">Sand type</emphasis></entry>
+    <entry><emphasis effect="bold">Main EOR mechanism</emphasis></entry>
+    <entry><emphasis effect="bold">Oil recovery (%)</emphasis></entry>
+    
+  </row>
+  <row>
+    <entry>ZrO<sub>2</sub>/water</entry>
+    <entry>Heavy oil</entry>
+    <entry>Carbonated</entry>
+    <entry>Aging time, type of nonionic surfactants</entry>
+    <entry>40%</entry>
+  </row>
+  <row>
+    <entry>SnO<sub>2</sub>/brine</entry>
+    <entry>Heavy oil</entry>
+    <entry>Carbonated</entry>
+    <entry>NP type, concentration, and wettability alteration</entry>
+    <entry>39-61%</entry>
+  </row>
+  <row>
+    <entry>CoFe<sub>2</sub>O<sub>4</sub></entry>
+    <entry>Medium oil</entry>
+    <entry>Sandstone</entry>
+    <entry>reduce the oil viscosity</entry>
+    <entry>20-30%</entry>
+  </row>
+  <row>
+    <entry>Al<sub>2</sub>O<sub>3</sub>, SiO<sub>2</sub>, NiO, TiO<sub>2</sub>/brine</entry>
+    <entry>Heavy oil</entry>
+    <entry>Sandstone</entry>
+    <entry>NPs type</entry>
+    <entry>17-24%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub>/brine</entry>
+    <entry>Medium crude oil</entry>
+    <entry>Sandstone</entry>
+    <entry>NP type and concentration</entry>
+    <entry>SiO<sub>2</sub> (9–14%) + Al<sub>2</sub>O<sub>3</sub> (8−5%)</entry>
+  </row>
+  <row>
+    <entry>Fe<sub>2</sub>O<sub>3</sub> + Al<sub>2</sub>O<sub>3</sub> + SiO<sub>2</sub>/brine</entry>
+    <entry>Mineral oil</entry>
+    <entry>Sandstone</entry>
+    <entry>Injection mode and salinity</entry>
+    <entry>1-10%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>/brine</entry>
+    <entry>Light oil</entry>
+    <entry>Sandstone</entry>
+    <entry>Permeability, NP concentration and pore volume</entry>
+    <entry>6-15%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>/brine</entry>
+    <entry>Parafinic oil</entry>
+    <entry>Sandstone</entry>
+    <entry>Time-length of flooding</entry>
+    <entry>8%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>/brine</entry>
+    <entry>Light oil</entry>
+    <entry>Micromodel</entry>
+    <entry>NP concentration, two phase flow behavior, emulsions and adsorption</entry>
+    <entry>N/A</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>/brine</entry>
+    <entry>Light oil</entry>
+    <entry>Sandstone</entry>
+    <entry>NPs concentration</entry>
+    <entry>4-5.5%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>/brine</entry>
+    <entry>Light oil</entry>
+    <entry>Sandstone</entry>
+    <entry>NP type and concentration</entry>
+    <entry>5-15%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>/brine</entry>
+    <entry>Light oil</entry>
+    <entry>Micromodel</entry>
+    <entry>Ageing time</entry>
+    <entry>16-17%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>/biosurfactant/water</entry>
+    <entry>Heavy oil</entry>
+    <entry>Micromodel</entry>
+    <entry>NP concentration, shale orientation,length, distance, injection pressure</entry>
+    <entry>28-40%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>/brine</entry>
+    <entry>Heavy oil</entry>
+    <entry>Sandstone</entry>
+    <entry>NP concentration</entry>
+    <entry>9-26%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub>,TiO<sub>2</sub>/brine</entry>
+    <entry>Light oil</entry>
+    <entry>Sandstone</entry>
+    <entry>NPs type</entry>
+    <entry>7-11%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>/brine</entry>
+    <entry>Light oil</entry>
+    <entry>Micromodel</entry>
+    <entry>NP size, permeability, injection rate,rock wettability, temperature</entry>
+    <entry>~9%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>/brine</entry>
+    <entry>Mineral oil</entry>
+    <entry>Sandstone</entry>
+    <entry>Permeability and NP concentration</entry>
+    <entry>1-10%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>,NiO, Fe<sub>3</sub>O<sub>4</sub>/solution</entry>
+    <entry>Asphaltene + toluene</entry>
+    <entry>Micromodel</entry>
+    <entry>NP type and concentration</entry>
+    <entry>SiO<sub>2</sub> (23%), NiO (15%), Fe<sub>3</sub>O<sub>4</sub>(8%)</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>/brine</entry>
+    <entry>Light oil</entry>
+    <entry>Sandstone</entry>
+    <entry>NP size and concentration</entry>
+    <entry>5-10%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub>/brine</entry>
+    <entry>Mineral oil</entry>
+    <entry>Sandstone</entry>
+    <entry>NP size and concentration</entry>
+    <entry>9-19%</entry>
+  </row>
+  <row>
+    <entry>SiO<sub>2</sub></entry>
+    <entry>Medium crude oil</entry>
+    <entry>Sandstone</entry>
+    <entry>Base fluid and NP type</entry>
+    <entry>13-24%</entry>
+  </row>
+  <row>
+    <entry>TiO<sub>2</sub>/brine</entry>
+    <entry>Medium crude oil</entry>
+    <entry>Sandstone</entry>
+    <entry>NPs concentration</entry>
+    <entry>10-14%</entry>
+  </row>
+  <row>
+    <entry>CuO, NiO, Fe<sub>2</sub>O<sub>3</sub>/brine</entry>
+    <entry>Medium crude oil</entry>
+    <entry>Carbonated</entry>
+    <entry>NPs type</entry>
+    <entry>Fe<sub>2</sub>O<sub>3</sub> (9%) + NiO (8%) + CuO (14%)</entry>
+  </row>
+  <row>
+    <entry>Fe<sub>2</sub>O<sub>3</sub> + Al<sub>2</sub>O<sub>3</sub> + SiO<sub>2</sub>/brine</entry>
+    <entry>Minaeral oil</entry>
+    <entry>Sandstone</entry>
+    <entry>Concentration</entry>
+    <entry>9-21%</entry>
+  </row>
+</tbody>
+
+
+
+</tgroup>
+<caption>Summary of types of metal oxide NPs used in EOR flooding. </caption></table><para id="import-auto-idm1030420032">Researchers have mainly focused on ceramic NPs like Al<sub>2</sub>O<sub>3</sub> and Si<sub/>O<sub>2</sub> to assess their potential properties after pressure decline in the reservoirs. Researcher’s literatures reveal that the applicability of Al<sub>2</sub>O<sub>3</sub> NPs in sandstone reservoirs are much greater than in carbonated formations. It has seen improved oil recovery upon adding 500 ppm Al<sub>2</sub>O<sub>3</sub> NPs with surfactant solution which has led to changes in rock wettability from oil-wet to water-wet and increased the nanofluid viscosity in sandstone reservoirs.  Furthermore, recently, engineers have compared the efficiency of Al<sub>2</sub>O<sub>3</sub>, titanium dioxide (TiO<sub>2</sub>), and silicon dioxide (SiO<sub>2</sub>) on limestone sample at 26, 40, 50, and 60 °C. They have found 8.2%, 27.8%, 43.4% oil recovery for Al<sub>2</sub>O<sub>3</sub>, TiO<sub>2</sub>, and SiO<sub>2</sub>, respectively. They have confirmed the lowest and highest wettability alteration for Al<sub>2</sub>O<sub>3</sub> and Si<sub/>O<sub>2</sub> on the carbonated (limestone) formation. Besides, they found NPs can continue to change the contact angle for Al<sub>2</sub>O<sub>3</sub>,TiO<sub>2</sub>,SiO<sub>2</sub> by 71±2°, 57±2°, and 26±2° on the limestone core plugs. Researchers expectations have risen sharply with the use of relatively unknown nanogel within Al<sub>2</sub>O<sub>3</sub> solutions. Nanogel is a filler used with (Al<sub>2</sub>O<sub>3</sub> NPs) to show signs of rheology improvement which led to higher oil recovery in high permeability heterogeneous reservoirs.</para><para id="import-auto-idm378947808">Researchers estimated significant wettability alteration across the oil formation to be dependent on the NP properties such as functionality and concentration. For example, the silane is an efficient functionalized group used by scientists in order to stabilize nanofluid. It sticks on the NPs bulk surface featuring -OH group and triggers maximum NPs stability within the fluid. However, we will still require NPs stabilization to use them in the presence of brine for the foreseeable future. The polysilicon NPs (lipohydrophilic, hydrolipopholic and medium-wet NPs) will give this notice ahead of SiO<sub>2</sub> to be utilized in different EOR methods such as foam and emulsion.</para></section>
+
+
+<section id="eip-113"><title>Metal NPs in polymer solution</title><para id="eip-459">Recent addition of polymer to nanofluid marks a major step toward increased pseudoplasticity behaviour in nanofluid. For example, adding partially hydrolyzed polyacrylamide (HPAM) to SiO<sub>2</sub> NPs improve both shear resistance and stability at high temperatures.  Researchers are working on the polymer with minimal sensitivity towards cost and loss for the oil reserves. However, synthesizing polymer with higher stability still proves challenging. Hopefully, many approaches such as the mixing of two di-block copolymers with hydrophobic monomers will help nanofluid to use polymers in the formation. Blending two block copolymers can help avoid aggregation and micellization, as the desired polymers for EOR application. By considering the aggregation number, monomer size, and response to external stimulus features, their applicability is closer in the reservoirs.  Researchers have found for polymer to mix polyvinylpyrrolidone (<link target-id="import-auto-idm346327568"/>) with metal NPs (Al<sub>2</sub>O<sub>3</sub>, MgO, SiO<sub>2</sub>, TiO<sub>2</sub>) for high wettability alteration and oil recovery (11%). Moreover, oil saturation was reduced by 20% after addition of 600 ppm hydrolyzed polyacrylamide (HPAM) to SiO<sub>2</sub> NPs.</para><figure id="import-auto-idm346327568"><media id="import-auto-idm1033395168" alt="">
+            <image mime-type="image/png" src="../../media/Picture 34.png" width="100" print-width="1in"/>
+          </media>
+        <caption>Structure of polyvinylpyrrolidone. </caption></figure><para id="import-auto-idm1172018752">Furthermore, applying synthetic polymer such as polydimethylsiloxane (PDMS, <link target-id="import-auto-idm1043075840"/>) with 1 wt.% CuO NPs in CO<sub>2</sub> injection makes a proper system with higher viscosity for heavy oil transport (API gravity 15) in sandstone reservoirs. The key observation made in this research is that using NPs (CuO-CO<sub>2</sub>) with polymer rises the viscosity 140 times more than compared to just CO<sub>2</sub> injection. The final oil recovery reached 71% using polymer and CuO-CO<sub>2</sub>NPs.</para><figure id="import-auto-idm1043075840"><media id="import-auto-idm1086621120" alt="">
+            <image mime-type="image/png" src="../../media/Picture 35.png" width="300" print-width="3in"/>
+          </media>
+        <caption>Structure of polydimethylsiloxane (PDMS). </caption></figure></section>
+
+
+<section id="eip-989"><title>Metal NPs in surfactant solution</title><para id="eip-30">A surfactant is an amphiphilic molecule composed of the hydrophilic head and hydrophobic tail. There is a range of surfactant types (both natural and synthetic) that can be applied, depending on the type of reservoir being treated, i.e., cationic, anionic, non-ionic, bio-surfactant, and zwitterionic. For EOR in sandstone reservoirs, anionic surfactants are preferred with varying head groups: sulfonate (R-SO<sub>3</sub><sup>-</sup>), phosphate (R-O-PO<sub>3</sub><sup>2-</sup>), sulfate (R-O-SO<sub>3</sub><sup>-</sup>), and carboxylate (R-CO<sub>2</sub>-). The sulfonate group has been shown to improve the thermal stability of the surfactant at reservoir temperature (60 - 200 °C), as well as reducing the interfacial tension (IFT), altering the rock wettability, and having a lower tendency to adsorb on the surface of sandstone reservoirs. By contrast, phosphate and sulfated groups have been shown to give low IFTs and have better performance at lower temperatures, while carboxylated groups have been developed to improve the surfactant stability at high temperatures and high salinity. Most metal NPs that have used with surfactant solutions are Al<sub>2</sub>O<sub>3</sub>, MgO, CuO, Fe<sub>2</sub>O<sub>3</sub>/Fe<sub>3</sub>O<sub>4</sub>, NiO, and Ni<sub>2</sub>O<sub>3</sub>.  When in surfactant solutions, these metal NPs have a strong effect on the decrease in IFT and altering surface wettability in chemical EOR scenarios, such as the foam and emulsion. For example, very strong foam front and viscosity have been reported upon the addition of partially hydrophobic SiO<sub>2</sub> NPs to sodium dodecylbenzene sulfonate (SDBS, <link target-id="import-auto-idm1043069232"/>).</para><figure id="import-auto-idm1043069232"><media id="import-auto-idm379833744" alt="">
+            <image mime-type="image/png" src="../../media/Picture 37.png" width="250" print-width="2.5in"/>
+          </media>
+        <caption>Structure of sodium dodecylbenzenesulfonate (SDBS). </caption></figure><section id="eip-985"><title>Foam displacement with metal NPs</title><para id="eip-186">Fluid displacement is “hard” geological work, where more than 60% of oil remains unproduced because of the declination in natural forces and pressure. Enhancing oil displacement with chemicals, especially foam, where an appropriate surfactant is selected, is shown to be a potential remedy to these problems. Foam is a dispersion of a high volume of gas (99 wt.%, N<sub>2</sub>, CO<sub>2</sub>, and air) into a small amount of liquid (1 wt.%). Gas purging and entrapment in surfactant solution leads to the adsorption of surfactant molecules into the gas-liquid interface. As a result, this generates a continuous foam bubble with a thin-stable liquid/gas interface called lamellae. The effectiveness of foam in porous media is much more than water and gas. This leads to reduced gas relative permeability by bubble trapping and causes an increase in the gas viscosity which provides stable and robust foam. Furthermore, foam can potentially help to improve oil sweep efficiency and reduce gas mobility by forcing more gas from a small to a highly penetrable area. The foam performance can be increased by choosing appropriate surfactant and NPs with unique functionality. The majority of reported cases have shown the foam system without any pore plugging. <link target-id="import-auto-idm374578032"/> shows the possible mechanisms using hydrophilic nanoparticles arrangement at the interfaces by using a surfactant in foam generation.</para><figure id="import-auto-idm374578032"><media id="import-auto-idm1008002896" alt="">
+            <image mime-type="image/png" src="../../media/Picture 10-b366.png" width="550" print-width="5.5in"/>
+          </media>
+        <caption>Schematic illustration of possible approaches in hydrophilic nanoparticles in foam generation: (a) stabilization of gas bubbles with colloidal particles; (b) the adsorption mechanism at the gas–liquid interface; (c) tuning the properties of various particles (such as Al<sub>2</sub>O<sub>3</sub>, ZrO<sub>2</sub>, Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>, and SiO<sub>2</sub>) by using surfactant to illustrate the foaming process. Reproduced with permission from U. T. Gonzenbach, A. R. Studart, E. Tervoort, and L. J. Gauckler, <emphasis effect="italics">Angew. Chem.</emphasis>, 2006, <emphasis effect="bold">45</emphasis>, 21.  Copyright: Wiley-VCH (2006). </caption></figure></section>
+
+
+
+</section>
+      <section id="import-auto-idm1013514112"><title>Carbon nanomaterials</title><para id="import-auto-idm344264352">Carbon nanostructures are made up of a few hundred carbon atoms in a range size of 1 to 100 nm.  Most carbon-based nanostructures have a large surface area to volume ratios compare with metal NPs. Carbon nanotubes (CNTs), carbon-onion, graphene oxide, activated carbon, fullerene, and carbon black are the main types of carbon nanostructures. The properties of each nanocarbon are different because of molecular interactions between carbon atoms. Nanocarbons are using in electronic, biomedicine, catalysis, cosmetics, sensor, gas separation, and oil and gas industry. The large surface area to volume ratios and surface functionality of carbon nanomaterial allows them to act as a foam and emulsion agent in EOR methods. A carbon nanotube has a unique superoleophilicity and can be used as an emulsion stabilizer in oil/water emulsion application. Furthermore, scientists discovered that, while the carbon nanotube (CNTs) grafts on graphene aerogel surface, the emulsion shows much more superhydrophobicity and oleophobicity.</para><figure id="cutdfgre-dog"><media id="importsfvgrgerdvdfv33" alt="">
+            <image mime-type="image/PNG" src="oil-emulsion-pnga-.png " width="550" print-width="5.5in"/>
+          </media>
+<caption>Schematic shows the mechanism of oil stabilization using graphene nanosheets and carbon black NPs over oil droplet. Reproduced with permission from M. A. Creighton, Y. Ohata, J. Miyawaki, A. Bose, and R. H. Hurt, <emphasis effect="italics">Langmuir</emphasis>, 2014, <emphasis effect="bold">30</emphasis>, 3687. Copyright: The Authors. Published by American Chemical Society (2014).</caption></figure><para id="eip-212">The key feature in carbon nanotubes seems to be their ability to "tunning" the pore size and pore channel. Previous research has shown that a hybrid of silica NPs and carbon nanotube had a beneficial impact to on the stabilization of emulsion by controlling the concentration and type of NPs. Graphene, a two-dimensional nanomaterial, is another type of carbon nanomaterial that can be utilized in EOR as an emulsion stabilizer (<link target-id="cute-dog"/> ). Recently, modified graphene oxide increased oil recovery ratio a by 15.2%, via a strong elasticity force created by graphene, resulting in changes in the oil/water interactions at the interface. Moreover, when the researchers applied the amphiphilic graphene sheet to the emulsion, they found that dissociation of the carboxylic group due to changes in the pH value, resulted in a tunable amphiphilicity. Carbon nanomaterials in an emulsion, but on the other hand, they are highly particle geometry-based which results in changes in the unique properties of emulsion such as minimizing interfacial tension in foam and emulsion. Therefore, for a successful foam or emulsion EOR flooding, consideration of particle size and emulsion size is necessary, as well as under harsh reservoir conditions. However, highly stabilized and efficient emulsion as they may appear in the presence of CNTs or graphene oxide, increases the cost of oil production and new synthesize procedures should be considered. In other research, a highly stabilized emulsion system was generated using 300 ppm graphene oxide (GO)/polyacrylamide suspensions over the course of 28 days. Furthermore, to increase oil recovery, CNTs/SiO<sub>2</sub> was flooded on carbonated and sandstone reservoirs which led to a reduction in IFT value and improvement in rock wettability.</para><figure id="cute-dog"><media id="importsdvfd2fdvdfv33" alt="">
+            <image mime-type="image/PNG" src="../../media/oil-emulsion-new 2.png" width="500" print-width="5in"/>
+          </media>
+<caption>Graphene oxide at gas-fluid, fluid-fluid, and solid-fluid interfaces. Reproduced with permission from J. Kim, L. J. Cote, F. Kim, W. Yuan, K. R. Shull and J. Huang, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 2010, <emphasis effect="bold">132</emphasis>, 23. Copyright: The Authors. Published by American Chemical Society (2010).</caption></figure><para id="import-auto-idm1094859392">Carbon black is another form of carbon nanomaterials that is mainly applied in paints, inks, and plastics industries. It has been reported that the modified surface of carbon-black can lead to an improvement in the fluid rheology and stabilize fluid in the reserves. link target-id="import-auto-idm360073488"/&gt; shows the structure of ethylenediamine and acrylamide on carbon black surfaces. The surface of CB covalently modified with ethylenediamine (EDA, <link target-id="import-auto-idm360073488"/>a) and acrylamide (AM, <link target-id="import-auto-idm360073488"/>b) to make stable CB-EDA-AM complex in harsh condition.</para><figure id="import-auto-idm360073488"><media id="import-auto-idm1013492672" alt="">
+            <image mime-type="image/png" src="../../media/Picture 32.png" width="350" print-width="3.5in"/>
+          </media>
+        <caption>Structures of (a) ethylenediamine (EDA) and (b) acrylamide (AM). </caption></figure></section><section id="import-auto-idm1131209056"><title>Quantum dot (QD) NPs</title><para id="import-auto-idm380816112">One of the most popular nanoparticles, sized between 2 to 10 nm (10 to 50 atoms in diameter) is quantum dots (QDs, <link target-id="cutedfbgrf-dog"/>). They consist of a rod, core, core/shell and cadmium-free QDs. The main method used to assess their size is via photon energy. Their small size allows them to become suspended within a fluid, which may prove useful in different applications such as EOR process. Haruna et al. demonstrated that by adding QDs to HPAM solution, the fluid rheology decreases. However, they are good co-agent, compatible with other substances in fluid transport. The main disadvantage is their sensitivity to brine solution which is yet to be addressed. Some strategies have been proposed to stabilize QDs into solutions. For instance, adding oleic acid to cadmium selenide (CdSe) which leads to higher fluid stability (0.55 M ionic strength and 1 M NaCl). In other research, stabilized carbon QDs were used in carbonated reservoirs in harsh (120,000 ppm TDS) and HPHT conditions (100 °C). However, at the time of writing this, it looks very unlikely that those QDs will apply, due to formation jamming and damage by NPs aggregation in real reservoir conditions.</para><figure id="cutedfbgrf-dog"><media id="dogpic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="Schematic-representation-of-various-quantum-dots-QDs-A-Different-types-of-QDs-and.png " width="500" print-width="5in"/>
+  </media>
+  
+<caption>Different types of QDs Larger QDs. The particle with 2–3 nm diameter emits short wavelengths with blue and green colour. Moreover, the QDs of 5–6 nm diameter emit longer wavelengths with an orange or red. Reproduced with permission from Y. R. Saadat, N. Saeidi, S. Z. Vahed, A. Barzegari, and J. Barar, <emphasis effect="italics">BioImpacts</emphasis>, 2015, <emphasis effect="bold">5</emphasis>, 1. Copyright: Tabriz University of Medical Sciences (2015). </caption></figure></section></section>
+
+
+
+<section id="import-auto-idm386774784">
+        <title>Oil tracer technology</title><para id="eip-356">Following earlier assessments, we deduced that a sustained decrease in conventional oil production is becoming increasingly likely before 2030.  This information was provided without considering tight oil reservoirs due to them being classified as unconventional oil resources. By including tight oil reservoirs, the portion of oil banks drastically changes these results. Researchers and engineers are still working on being able to assess oil traces in the formations using advanced technologies. A large portion of these reserves can be explored and recovered by available technologies.  Although, we have had to use other technologies to in reservoirs that are hard to be assessed by in the presence of oil.</para><para id="import-auto-idm1058001808">Applying tracer technology using fluorescent nanoparticle is likely to trigger much exploration in tight and small oilfields. Tracing initiated by evaluation of real-time monitoring on the connectivity of the pores. Florescent detectors, pyrene tetrasulfonic acid (PTSA, <link target-id="import-auto-idm1046554816"/>), fluorobenzoic acid (FBA, <link target-id="import-auto-idm1006236256"/>), and methyl, ethyl, isopropyl, and n-propyl acetates (<link target-id="import-auto-idm1118950496"/>) are common tracers used in hydrocarbon reservoirs. Furthermore, this novel technology is being applied by a group of researchers as a powerful sensor to detect the number of hazardous gases such as H<sub>2</sub>S and CO<sub>2</sub> in the reserves.</para><figure id="import-auto-idm1046554816"><media id="import-auto-idm392864304" alt="">
+            <image mime-type="image/png" src="../../media/Picture 13-5ca6.png" width="250" print-width="2.5in"/>
+          </media>
+        <caption>Structure of pyrene tetrasulfonic acid (PTSA). </caption></figure><figure id="import-auto-idm1006236256"><media id="import-auto-idm361026976" alt="">
+            <image mime-type="image/png" src="../../media/Picture 15.png" width="75" print-width="0.75in"/>
+          </media>
+        <caption>Structure of fluorobenzoic acid (FBA). </caption></figure><figure id="import-auto-idm1118950496"><media id="import-auto-idm1074259888" alt="">
+            <image mime-type="image/png" src="../../media/Picture 18.png" width="550" print-width="5.5in"/>
+          </media>
+        <caption>Structures of (a) methyl acetate, (b) ethyl acetate, (c) isopropyl acetate, and (d) <emphasis effect="italics">n</emphasis>-propyl acetate. </caption></figure><para id="import-auto-idm1160083232">There have been reports of Fe<sub>2</sub>O<sub>3</sub>, Fe<sub>3</sub>O<sub>4</sub>, and cobalt ferrite (CoFe<sub>2</sub>O<sub>4</sub>) NPs (smart ferrofluids)  being utilized as a magnetic reservoir tracer. These types of NPs are able to reduce the amount of water cut and oil viscosity within steam-assisted gravity drainage (SAGD; "Sag-D"). SAGD is an EOR method used in heavy and extra heavy oil reservoirs.</para></section>
+    </section>
+    <section id="import-auto-idm368613920"><title>Pickering emulsion</title><para id="import-auto-idm336923808">The emulsion consists of a fine dispersion of droplets following the agitation of two or more immiscible fluids. Pickering emulsion is another type of emulsion with adsorbed solid particles over droplets. Solid particles are within the range of 1-100 nm. It is commonly used for Pickering emulsion that NPs adsorbs at the interfaces for better stability against bubble coalescence (<link target-id="import-auto-idm359294000"/>). Solid NPs are different types of solid minerals, synthetic polymers, polysaccharides, and proteins. For instance, to retain oil stability from water, nanomaterials like SiO<sub>2</sub> NPs are added (<link target-id="import-auto-idm359294000"/>). They can be used in many applications such as food, cosmetics, biomedicine, and EOR. They are classified by oil-in-water (o/w), water-in-oil (w/o), and multiple phases. Their high resistance to emulsion droplet coalescence leads to improved rheology of displacing fluid in reservoirs. Their behaviour is regulated by the size and morphology of solid particles over each droplet.</para><figure id="import-auto-idm359294000"><media id="import-auto-idm1009431376" alt="">
+          <image mime-type="image/png" src="../../media/Picture 21-6ed9.png" width="500" print-width="5in"/>
+        </media>
+      <caption>Comparison of a classical oil-in-water (o/w), and water-in-oil (w/o) Pickering emulsion. Reproduced with permission from Y. Chevalier and M.-A. Bolzinger, <emphasis effect="italics">Colloids Surf. A</emphasis>, 2013, <emphasis effect="bold">439</emphasis>, 23. Copyright: Elsevier (2013). </caption></figure><para id="import-auto-idm326196384">Furthermore, many types of water-soluble polymers and surfactants such as polyacrylamide (PAM, <link target-id="import-auto-idm353050704"/>a), hydrolyzed polyacrylamide (HPAM), xanthan gum (<link target-id="import-auto-idm343230416"/>), polyacrylic acid (<link target-id="import-auto-idm353050704"/>b), cellulose (<link target-id="import-auto-idm1059177840"/>), and starch (<link target-id="import-auto-idm353050704"/>c) along with some NPs such as (clay, SiO<sub>2</sub>, CuO) were used under HPHT conditions. Adding polymers and surfactants to the Pickering emulsion, bringing about optimum rheology, higher stability, and controls sedimentation.  In another example, researchers have succeeded in synthesizing a highly stabilized CNTs/SiO<sub>2</sub> nanohybrid in harsh conditions.</para><figure id="import-auto-idm353050704"><media id="import-auto-idm383666416" alt="">
+          <image mime-type="image/png" src="../../media/Picture 25.png" width="550" print-width="5.5in"/>
+        </media>
+      <caption>Structures of (a) polyacrylamide (PAM), (b) polyacrylic acid, and (c) starch.</caption></figure><para id="import-auto-idm1058393056">Besides, the addition of surfactants such as hexadecyltrimethylammonium bromide (CTAB, <link target-id="import-auto-idm1132684784"/>) and palmitic acid (<link target-id="import-auto-idm359663664"/>) to SiO<sub>2</sub> NPs generated a strong steric hindrance between NPs, consequently leading to higher emulsion stability. (Santini et al.)</para><figure id="import-auto-idm1132684784"><media id="import-auto-idm1006654240" alt="">
+          <image mime-type="image/png" src="../../media/Picture 26.png" width="300" print-width="3in"/>
+        </media>
+      <caption>Structure of hexadecyltrimethylammonium bromide (CTAB). </caption></figure><figure id="import-auto-idm359663664"><media id="import-auto-idm1423659952" alt="">
+          <image mime-type="image/png" src="../../media/Picture 27.png" width="300" print-width="3in"/>
+        </media>
+      <caption>Structure of palmitic acid. </caption></figure><para id="import-auto-idm377232896">Incorporation of SiO<sub>2</sub> NPs, polystyrene, and polyacrylamide in Pickering emulsion resulted in strong adsorption of NPs and long-term stability at oil-water interface (<link target-id="cutdfvrfdrve-dog"/>).  On the other hand, demulsification in heavy oil reservoirs and bitumen extraction from oil sands has drawn a great deal of attention as a flexible approach to reduce oil viscosity and increase oil mobility.</para><figure id="cutdfvrfdrve-dog"><media id="dodfvdfgpic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/Pickering emulsion.PNG" width="500" print-width="5in"/>
+          </media><caption>(a) the Cryo-SEM image of hydrophilic SiO<sub>2</sub> NPs stabilized by Pickering emulsions,(b) depicts how polystyrene paicles coated by bacteria cellulose nanofibers, (c) shows polyacrylamide (PAAm) particles coated by functionalized montmorillonite, and (d) shows a pH-sensitive encapsulates covered by SiO<sub>2</sub> NPs. Adapted from (a) S. Sihler, A. Schrade, Z. Cao, and U. Ziener, <emphasis effect="italics">Langmuir</emphasis>, 2015, <emphasis effect="bold">31</emphasis>, 10392, (b) I. Kalashnikova, H. Bizot, P. Bertoncini, B. Cathala, and I. Capron, <emphasis effect="italics">Soft Matter</emphasis>, 2013, <emphasis effect="bold">9</emphasis>, 952, (c) D. J. Voorn, W. Ming, and A. M. van Herk, <emphasis effect="italics">Macromolecules</emphasis>, 2006, <emphasis effect="bold">39</emphasis>, 2137, and (d) M. F. Haase, D. Grigoriev, H. Moehwald, B. Tiersch, and D. G. Shchukin, <emphasis effect="italics">J. Phys. Chem. C</emphasis>, 2010, <emphasis effect="bold">114</emphasis>, 17304. </caption></figure></section><section id="import-auto-idm1004153520">
+      <title>Bibliography</title>
+      <list id="import-auto-idm1057697968" list-type="bulleted"><item>B. P. Binks and A. Rocher, <emphasis effect="italics">J. Colloid Interface Sci.</emphasis>, 2009, <emphasis effect="bold">335</emphasis>, 94. </item>
+        <item>T. Capek, <emphasis effect="italics">Adv. Colloid Interface Sci.</emphasis>, 2004, <emphasis effect="bold">110</emphasis>, 49. </item>
+        <item>G. Cheraghian, S. Kiani, N. N. Nassar, S. Alexander, and A. R. Barron, <emphasis effect="italics">Ind. Eng. Chem. Res.</emphasis>, 2017, <emphasis effect="bold">56</emphasis>, 8528. </item>
+        <item>Y. Chevalier and M.-A. Bolzinger, <emphasis effect="italics">Colloids Surf. A</emphasis>, 2013, <emphasis effect="bold">439</emphasis>, 23. </item>
+        <item>F. B. Cortés, J. M. Mejía, M. A. Ruiz, P. Benjumea, and D. B. Riffel, <emphasis effect="italics">Energy Fuels</emphasis>, 2012, <emphasis effect="bold">26</emphasis>, 1725. </item>
+        <item>H. Cubillos, E. Yuste, M. Bozorgzadeh, J. Montes, H. Mayorga, S. Bonilla, G. Quintanilla, P. Lezana, A. Panadero, and P. Romero, <emphasis effect="italics">EUROPEC 2015, Madrid, Spain</emphasis>, 2015, SPE-174397-MS. </item>
+        <item>M. A. Creighton, Y. Ohata, J. Miyawaki, A. Bose, and R. H. Hurt, <emphasis effect="italics">Langmuir</emphasis>, 2014, <emphasis effect="bold">30</emphasis>, 3687. </item>
+        <item>H. Ehtesabi, M. M. Ahadian, and V. Taghikhani, <emphasis effect="italics">Energy Fuels</emphasis>, 2014, <emphasis effect="bold">29</emphasis>, 1. </item>
+<item>A. E. Bayat, R. Junin, A. Samsuri, A. Piroozian, and H. Hokmabadi, <emphasis effect="italics">Energy Fuels</emphasis>, 2014, <emphasis effect="bold">28</emphasis>, 6255. </item>
+        <item>U. T. Gonzenbach, A. R. Studart, E. Tervoort, and L. J. Gauckler, <emphasis effect="italics">Angew. Chem.</emphasis>, 2006, <emphasis effect="bold">45</emphasis>, 21. </item>
+        <item>F. Guo and S. Aryana, <emphasis effect="italics">Fuel</emphasis>, 2016, <emphasis effect="bold">186</emphasis>, 430. </item>
+        <item>M. F. Haase, D. Grigoriev, H. Moehwald, B. Tiersch, and D. G. Shchukin, <emphasis effect="italics">J. Phys. Chem. C</emphasis>, 2010, <emphasis effect="bold">114</emphasis>, 17304. </item>
+        <item>Y. Hamedi-Shokrlu and T.  Babadagli, <emphasis effect="italics">Ind. Eng. Chem. Res.</emphasis>, 2014, <emphasis effect="bold">53</emphasis>, 8464. </item>
+
+<item>M. A. Haruna, Z. Hu, H. Gao, H. J. Gardy, J. S. M. Magami, and D. Wen, <emphasis effect="italics"> Fuel </emphasis>, 2019, <emphasis effect="bold">248</emphasis>, 205. </item>
+
+        <item>L. He, F. Lin, X. Li, H. Sui, and Z. Xu, <emphasis effect="italics">Chem. Soc. Rev.</emphasis>, 2015, <emphasis effect="bold">44</emphasis>, 5446. </item>
+       
+
+ <item>N. Hosseinpour, A. A. Khodadadi, A. Bahramian, and Y. Mortazavi, <emphasis effect="italics">Langmuir</emphasis>, 2013, <emphasis effect="bold">29</emphasis>, 14135.</item>
+
+        <item>M. Jafarnezhad, M. S. Giri, and M. Alizadeh, <emphasis effect="italics">Energ. Source. Part A</emphasis>, 2017, <emphasis effect="bold">39</emphasis>, 121. </item>
+        <item>I. Kalashnikova, H. Bizot, P. Bertoncini, B. Cathala, and I. Capron, <emphasis effect="italics">Soft Matter</emphasis>, 2013, <emphasis effect="bold">9</emphasis>, 952.</item>
+       
+ <item>M. Karimi, R. S. Al-Maamari, S. Ayatollahi, and S. Mehranbod, <emphasis effect="italics">Energy Fuels</emphasis>, 2016, <emphasis effect="bold">30</emphasis>, 819. </item>
+
+        <item>S. Kiani, M. M. Zadeh, S. Khodabakhshi, A. Rashidi, and J. Moghadasi, <emphasis effect="italics">Energy Fuels</emphasis>, 2016, <emphasis effect="bold">30</emphasis>, 3791. </item>
+
+        <item>S. Kiani, A. Samimi, S. Khodabakhshi, and A. Rashidi, <emphasis effect="italics">Monatsh. für Chemie-Chem. </emphasis>, 2016, <emphasis effect="bold">147 (4)</emphasis>, 1153-1159. </item>
+
+        <item>H.-J. Kim, T. Phenrat, R. D. Tilton, and G. V. Lowry, <emphasis effect="italics">J. Colloid Interface Sci.</emphasis>, 2012, <emphasis effect="bold">370</emphasis>, 1. </item>
+
+        <item>J. Kim, L. J. Cote, F. Kim, W. Yuan, K. R. Shull and J. Huang, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 2010, <emphasis effect="bold">132</emphasis>, 23, 8180-8186. </item>
+
+        <item>A. A. Kmetz, M. D. Becker, B. A. Lyon, E. Foster, Z. Xue, K. P. Johnston, L. M. Abriola, and K. D. Pennell, <emphasis effect="italics">Energy Fuels</emphasis>, 2016, <emphasis effect="bold">30</emphasis>, 1915. </item>
+
+        <item>N. Kothari, B. Raina, K. B. Chandak, V. Iyer, and H. P. Mahajan, <emphasis effect="italics">SPE EUROPEC/EAGE Annual Conference and Exhibition, Barcelona, Spain</emphasis>, 2010, SPE-131272-MS.</item>
+
+        <item>K. Kondiparty, A. Nikolov, S. Wu, and D. Wasan, <emphasis effect="italics">Langmuir</emphasis>, 2011, <emphasis effect="bold">27</emphasis>, 3324.</item>
+
+        <item>S. K. Kumar, N. Jouault, B. Benicewicz, and T. Neely, <emphasis effect="italics">Macromolecules</emphasis>, 2013, <emphasis effect="bold">46</emphasis>, 319. </item>
+
+        <item>J. Liang, N. Du, S. Song, and W. Hou, <emphasis effect="italics">Colloids Surf. A</emphasis>, 2015, <emphasis effect="bold">466</emphasis>, 197. </item>
+
+        <item>X. Li, Y. Xue, M. Zou, D. Zhang, A. Cao, and H. Duan, <emphasis effect="italics">ACS Appl. Mater. Interfaces</emphasis>, 2016, <emphasis effect="bold">8</emphasis>, 12337. </item>
+
+        <item>J. Lin, B. Hao, G. Cao, J. Wang, Y. Feng, X. Tan, and W. Wang, <emphasis effect="italics">J. Petrol. Sci. Eng.</emphasis>, 2014, <emphasis effect="bold">122</emphasis>, 354. </item>
+
+        <item>K.-L. Liu, K. Kondiparty, A. D. Nikolov, and D. Wasan, <emphasis effect="italics">Langmuir</emphasis>, 2012, <emphasis effect="bold">28</emphasis>, 16274.</item>
+
+        <item>Q. Lv, Z. Li, B. Li, S. Li, and Q. Sun, <emphasis effect="italics">Ind. Eng. Chem. Res.</emphasis>, 2015, <emphasis effect="bold">54</emphasis>, 9468.</item>
+
+        <item>R. N. Moghaddam, A. Bahramian, Z. Fakhroueian, A. Karimi, and S. Arya, <emphasis effect="italics">Energy Fuels</emphasis>, 2015, <emphasis effect="bold">29</emphasis>, 2111. </item>
+
+        <item>A. D. Monfared, M. H. Ghazanfari, M. Jamialahmadi, and A. Helalizadeh, <emphasis effect="italics">Energy Fuels</emphasis>, 2016, <emphasis effect="bold">30</emphasis>, 3947. </item>
+
+        <item>H. R. Nares, P. Schachat, M. A. Ramirez-Garnica, M. Cabrera, and L. Noe-Valencia, <emphasis effect="italics">Latin American &amp; Caribbean Petroleum Engineering Conference, Buenos Aires, Argentina</emphasis>, 2007, SPE-107837-MS. </item>
+
+        <item>N. C. Ogolo, O. A. Olafuyi, and M. Onyekonwu. M, <emphasis effect="italics">SPE Saudi Arabia Section Technical Symposium and Exhibition, Al-Khobar</emphasis>, 2012, SPE-160847.</item>
+
+        <item>M. O. Onyekonwu and N. A. Ogolo, <emphasis effect="italics">Nigeria Annual International Conference and Exhibition, Tinapa - Calabar, Nigeria</emphasis>, 2010, SPE-140744-MS. </item>
+
+        <item>T. Phenrat, H.-J. Kim, F. Fagerlund, T. Illangasekare, R. D. Tilton, and G. V. Lowry, <emphasis effect="italics">Environ. Sci. Technol.</emphasis>, 2009, <emphasis effect="bold">43</emphasis>, 5079. </item>
+
+        <item>A. Pochert, S. Ziller, S. Kapetanovic, G. Neusser, C. Kranz, and M. Lindén, <emphasis effect="italics">New J. Chem.</emphasis>, 2016, <emphasis effect="bold">40</emphasis>, 4217. </item>
+
+        <item>W. Pu, C. Yuan, W. Hu, T. Tan, J. Hui, S. Zhao, S. Wang, and Y. Tang, <emphasis effect="italics">RSC Adv.</emphasis>, 2016, <emphasis effect="bold">6</emphasis>, 50640. </item>
+
+        <item>F. Rao and Q. Liu, <emphasis effect="italics">Energy Fuels</emphasis>, 2013, <emphasis effect="bold">27</emphasis>, 7199. </item>
+
+        <item>A. Roustaei and H. Bagherzadeh, <emphasis effect="italics">J. Petrol. Explor. Prod. Technol.</emphasis>, 2015, <emphasis effect="bold">5</emphasis>, 27. </item>
+
+        <item>Y. R. Saadat, N. Saeidi, S. Z. Vahed, A. Barzegari, and J. Barar, <emphasis effect="italics">BioImpacts</emphasis>, 2015, <emphasis effect="bold">5</emphasis>, 1. </item>
+
+        <item>E. Santini, E. Guzmán, M. Ferrari, and L. Liggieri, <emphasis effect="italics">Colloids Surf. A</emphasis>, 2014, <emphasis effect="bold">460</emphasis>, 333. </item>
+
+        <item>S. Sihler, A. Schrade, Z. Cao, and U. Ziener, <emphasis effect="italics">Langmuir</emphasis>, 2015, <emphasis effect="bold">31</emphasis>, 10392. </item>
+
+        <item>H. A. Son, S. K. Choi, E. S. Jeong, B. Kim, H. T. Kim, W. M. Sung, and J. W. Kim, <emphasis effect="italics">Langmuir</emphasis>, 2016, <emphasis effect="bold">32</emphasis>, 8909. </item>
+
+        <item>B. Suleimanov, F. Ismailov, and E. Veliyev, <emphasis effect="italics">J. Petrol. Sci. Eng.</emphasis>, 2011, <emphasis effect="bold">78</emphasis>, 431. </item>
+
+        <item>Q. Sun, Z. Li, S. Li, L. Jiang, J. Wang, and P. Wang, <emphasis effect="italics">Energy Fuels</emphasis>, 2014, <emphasis effect="bold">28</emphasis>, 2384. </item>
+
+        <item>F. Tu, B. J. Park, and D. Lee, <emphasis effect="italics">Langmuir</emphasis>, 2013, <emphasis effect="bold">29</emphasis>, 12679. </item>
+
+        <item>D. J. Voorn, W. Ming, and A. M. van Herk, <emphasis effect="italics">Macromolecules</emphasis>, 2006, <emphasis effect="bold">39</emphasis>, 2137. </item>
+
+        <item>K. Y. Yoon, H. A. Son, S. K. Choi, J. W. Kim, W. M. Sung, and H. T. Kim, <emphasis effect="italics">Energy Fuels</emphasis>, 2016, <emphasis effect="bold">30</emphasis>, 2628. </item>
+
+        <item>H. Yu, Y. He, P. Li, S. Li, T. Zhang, E. Rodriguez-Pin, S. Du, S. Wang, S. Cheng, and C. W. Bielawski, <emphasis effect="italics">Sci. Rep.</emphasis>, 2015, <emphasis effect="bold">5</emphasis>, 8702. </item>
+
+        <item>J. Wang, G. Liu, L. Wang, C. Li, J. Xu, and D. Sun, <emphasis effect="italics">Colloids Surf. A</emphasis>, 2010, <emphasis effect="bold">353</emphasis>, 117. </item>
+
+        <item>D. B. Wright, J. P. Patterson, A. Pitto-Barry, A. Lu, N. Kirby, N. C. Gianneschi, C. Chassenieux, O. Colombani, amnd R. K. O’Reilly, <emphasis effect="italics">Macromolecules</emphasis>, 2015, <emphasis effect="bold">48</emphasis>, 6516. </item>
+
+        <item>K. Xu, P. Zhu, C. Huh, and M. T. Balhoff, <emphasis effect="italics">Langmuir</emphasis>, 2015, <emphasis effect="bold">31</emphasis>, 13673. </item>
+
+        <item>H. Zhang, A. Nikolov, and D. Wasan, <emphasis effect="italics">Energy Fuels</emphasis>, 2014, <emphasis effect="bold">28</emphasis>, 3002. </item>
+
+
+        <item>D. Zhu, L. Wei, B. Wang, and Y. Feng, <emphasis effect="italics">Energies</emphasis>, 2014, <emphasis effect="bold">7</emphasis>, 3858. </item>
+
+        <item>H. Zhu, D. Chen, N. Li, Q. Xu, H. Li, J. He, and J. Lu, <emphasis effect="italics">Adv. Func. Mater.</emphasis>, 2015, <emphasis effect="bold">25</emphasis>, 597. </item>
+      </list></section></content>
+</document>

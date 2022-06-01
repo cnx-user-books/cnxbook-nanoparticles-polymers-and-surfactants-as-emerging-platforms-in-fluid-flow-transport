@@ -1,0 +1,456 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Polymer enhanced oil recovery</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m84184</md:content-id>
+  <md:title>Polymer enhanced oil recovery</md:title>
+  <md:abstract/>
+  <md:uuid>293bec51-71bc-495f-8e00-6025db41334e</md:uuid>
+</metadata>
+
+<content>
+    <section id="eip-923"><title>Introduction</title><para id="eip-413">The production of heavy oil using a polymer is highly plausible process in fossil reserves. For an economical EOR method, polymers that are sufficiently stable, cost-effective, and able to increase displacing fluid rheology are required. In this chapter, we show that different types of polymers can change the displaced oil mobility by increasing the viscosity of displacing fluid. representing the optimum polymer properties and the main factor in successful flooding in oil reserves.</para></section>
+
+
+
+<section id="eip-223"><title>Polymer flooding</title><section id="eip-117"><title>What is polymer?</title><para id="eip-0">A polymer is a large molecule structure composed of many smaller repeating chemical subunits, known as monomers. In Greek <emphasis effect="bold"> poly</emphasis> means “many” and <emphasis effect="bold"> mer</emphasis> is “unit”. They are categorized into two groups of natural and synthetic polymers. The first being synthetic, such as hydrolyzed polyacrylamide (HPAM, <link target-id="culklte-dog"/>), the most frequently used polymer in reservoirs, and the second is a biopolymer, which consists of biomaterials such as non-ionic xanthan gum (<link target-id="cute-dog"/>). Over 80% of real polymer floodings used HPAM. The main advantage of HPAM is its cost-effectiveness, good adsorption on the rock substrate, and high fluid viscosity in the reservoirs.
+ Furthermore, they can be classified into two groups based on their thermal response properties, thermoplastic and thermosetting polymers. Thermoviscosifying polymers (TVPs) are a class of novel synthetic polymers which stabilize at high temperatures and high salinity. Compared to other water-soluble polymers, TVPs create better fluid viscosity and elastic modulus at high temperatures. Therefore, they are useful chemicals to be used in the reserves. For example, polyacrylamide, as a TVP, can be stabilized at higher temperatures within electrolyte solutions via the sulphation method.</para><figure id="culklte-dog"><media id="dogdsferfrefgfvsdcdefpic" alt="dfbnknkvf">
+    <image mime-type="image/jpeg" src="../../media/HPAM.PNG" width="225" print-width="2.25in"/>
+        </media>
+      <caption>The structure of hydrolyzed polyacrylamide (HPAM).   </caption></figure>
+
+
+
+<figure id="cute-dog"><media id="dogpiddfvfdfvfdc" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/zantham.PNG" width="500" print-width="3.75in"/>
+        </media><caption>The chemical structure of Xanthan gum.  </caption></figure>
+
+
+
+
+
+</section>
+<section id="eip-59"><title>What a polymer solution does in the pore spaces?</title><para id="eip-852">The addition of polymer to fluid solution leads to enhanced fluid viscosity. By increasing the viscosity of displacing fluid, rock permeability reduces, and fluid mobility can be better controlled. Designing polymers with optimum molecular weight is a critical factor in achieving successful oil recovery, for if they are too large in size, they block the pores. For instance, the experiments have generally shown pore plugging will occur when the size of the polymer exceeds one-fifth of the pore throat size in the oil formation. Very few numbers of solubilizing polymers can be used in the reservoirs, which significantly affects both sweep efficiency and the mobility ratio.</para></section><section id="eip-873"><title>An optimal composition</title><para id="eip-564">A suitable polymer in a harsh environment has two remarkable properties: (a) good viscosity with minimal adsorption on the rock substrate and (b) good thermal stability in contact with salt water at a higher temperature. During the past 50 years, various polymer structures have been developed as an EOR agent for oil recovery. (<link target-id="cute-drfrefreg"/>) However, the majority of polymers cannot be used in harsh environments due to their structural properties. First of all, the backbone (carbon chain) structure has a critical role in the thermal stability of polymers. Lacking -O- bonding in the backbone increases the success rate of polymer flooding. (<link target-id="cute-drfrefreg"/>) Typically, the risk of thermal degradation (above 80 <sup>o</sup>C) is enormous when a -O- bond is in the backbone. For instance, sodium alginate, xanthan gum, carboxymethyl cellulose, and polyoxyethylene have shown lower thermal stability at high temperatures due to the presence of -O- bonding in their backbone. Secondly, the presence of negatively ionic hydrophilic groups leads to less adsorption of polymer on the rock surface. HPAM, polyvinyl, polyacrylamide and sodium polyacrylate are some examples of polymers with low thermal degradation and high stability. Good fluid viscosity with minimal adsorption on the substrate was observed after adding -COO in a hydrophilic group, however -COO group is mainly salt-dependent (divalent cations such as Mg<sup>2+</sup> and Ca<sup>2+</sup>). To increase polymer stability, using -OH or -CONH<sub>2</sub> bondings in the hydrophilic group decreases repulsion forces amongst chain links even after the addition of divalent cations. Therefore, future synthesis should focus on optimizing polymers using -COO, -OH, and -CONH<sub>2</sub> to improve the water viscosity and in turn, improve oil mobility in real reservoirs.</para>
+
+<figure id="cute-drfrefreg"><media id="impordfbdfd339331968" alt="">
+          <image mime-type="image/png" src="../../media/MOLECULE.png" width="550" print-width="5.5in"/>
+        </media>
+      <caption>Polymer flooding across the wellbore. Reproduced with permission from A. M. Firozjaii and H. R. Saghafi, <emphasis effect="italics">Petroleum</emphasis>, 2019, DOI:10.1016/j.petlm.2019.09.003.</caption></figure><para id="eip-426"><link target-id="eip-991"/> shows successful polymer flooding using different amounts of HPAM. The oil production rate grows with increasing HPAM concentration. However, the fact is that the oil recovery factor depends on many factors such as rock geology, permeability, salinity, and fluid viscosity.</para><table id="eip-991" summary="Experimental polymer flooding in heavy oil reservoirs.">
+<tgroup cols="7"><tbody>
+  <row>
+    <entry><emphasis effect="bold">Polymer type</emphasis></entry>
+    <entry><emphasis effect="bold">Polymer concentration(ppm)</emphasis></entry>
+    <entry><emphasis effect="bold">Polymer viscosity (cp)</emphasis></entry>
+    <entry><emphasis effect="bold">Oil viscosity (cp)</emphasis></entry>
+    <entry><emphasis effect="bold">Lithography, porosity (%)</emphasis></entry>
+    <entry><emphasis effect="bold">Permeability (mD)</emphasis></entry>
+    <entry><emphasis effect="bold">Oil recovery (OOIP,%)</emphasis></entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>500</entry>
+    <entry>25</entry>
+    <entry>209</entry>
+    <entry>Sandpack, 34.8%</entry>
+    <entry>4500</entry>
+    <entry>32.5%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>250</entry>
+    <entry>9</entry>
+    <entry>1140</entry>
+    <entry>Sandpack, 35.1%</entry>
+    <entry>5300</entry>
+    <entry>36.3%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>1500-2000</entry>
+    <entry>50-100</entry>
+    <entry>2000</entry>
+    <entry>Sandpack, 32%</entry>
+    <entry>1760</entry>
+    <entry>15%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>5644</entry>
+    <entry>76</entry>
+    <entry>1450</entry>
+    <entry>Sandpack, 35%</entry>
+    <entry>7000</entry>
+    <entry>19%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>2427</entry>
+    <entry>15.5</entry>
+    <entry>1450</entry>
+    <entry>Sandpack, 35%</entry>
+    <entry>7000</entry>
+    <entry>19.8%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>2895</entry>
+    <entry>22</entry>
+    <entry>1450</entry>
+    <entry>Sandpack, 35%</entry>
+    <entry>7000</entry>
+    <entry>20.9%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>1500</entry>
+    <entry>25</entry>
+    <entry>1600</entry>
+    <entry>Sandpack, 40%</entry>
+    <entry>5700</entry>
+    <entry>22%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>10000</entry>
+    <entry>n/a</entry>
+    <entry>1000</entry>
+    <entry>Sandpack, n/a</entry>
+    <entry>13000</entry>
+    <entry>27.2%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>10124</entry>
+    <entry>360</entry>
+    <entry>5500</entry>
+    <entry>Sandpack, 35%</entry>
+    <entry>7000</entry>
+    <entry>21%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>1500</entry>
+    <entry>25</entry>
+    <entry>950</entry>
+    <entry>Sandstone, 30%</entry>
+    <entry>1856</entry>
+    <entry>25%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>1000</entry>
+    <entry>50</entry>
+    <entry>764</entry>
+    <entry>Synthetic core, n/a</entry>
+    <entry>12000</entry>
+    <entry>44%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>4000</entry>
+    <entry>29</entry>
+    <entry>203</entry>
+    <entry>Sandpack, 32.8%</entry>
+    <entry>2350</entry>
+    <entry>12.9%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>1650</entry>
+    <entry>62</entry>
+    <entry>7000</entry>
+    <entry>Sandstone, 22%</entry>
+    <entry>2450</entry>
+    <entry>29.8%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>n/a</entry>
+    <entry>55</entry>
+    <entry>1904</entry>
+    <entry>Sandpack, n/a</entry>
+    <entry>4035</entry>
+    <entry>34.2%</entry>
+  </row>
+  <row>
+    <entry>HPAM</entry>
+    <entry>1500</entry>
+    <entry>85</entry>
+    <entry>18700</entry>
+    <entry>Sandpack, 39.6%</entry>
+    <entry>2825</entry>
+    <entry>39 %</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+
+
+</tgroup><caption>Experimental polymer flooding in heavy oil reservoirs. Reproduced with permission from H. Saboorian-Jooybari, M. Dejam, and Z. Chen, <emphasis effect="italics">J. Pet. Sci. Eng.</emphasis>, 2016, <emphasis effect="bold">142</emphasis>, 85. Copyright: Elsevier (2016). </caption>
+</table>
+
+
+</section>
+
+
+
+
+
+
+</section><section id="eip-33"><title>Polymer versus water flooding</title>
+
+<para id="eip-880">Polymer flooding has three main benefits when compared to water flooding; 
+
+</para>
+
+
+<list id="eip-792" list-type="enumerated" number-style="arabic"><item>creating a homogenous fluid displacement,</item>
+<item>lowers mobility ratio of water to oil,</item>
+<item>effective sweep divergence.</item>
+
+</list><para id="eip-709">On the other hand, when only water is injected into the reservoir, it surpasses the oil and leads to fluid viscous fingering. This phenomenon occurs when a fluid such as water with low viscosity diffuses faster than oil and consequently leads to remaining a large amount of oil throughout the pores and pore-throats. (<link target-id="eip-439"/> )</para><table id="eip-439" summary="Real waterflooding projects across the US.">
+<tgroup cols="6"><tbody>
+  <row>
+    <entry><emphasis effect="bold">Oilfield</emphasis></entry>
+    <entry><emphasis effect="bold">Rock porosity (%)</emphasis></entry>
+    <entry><emphasis effect="bold">Rock permeability (mD)</emphasis></entry>
+    <entry><emphasis effect="bold">Formation temperature (°C)</emphasis> </entry>
+    <entry><emphasis effect="bold">Oil gravity (API)</emphasis></entry>
+    <entry><emphasis effect="bold">Oil recovery (%)</emphasis></entry>
+  </row>
+  <row>
+    <entry>Court bakken</entry>
+    <entry>29</entry>
+    <entry>2100</entry>
+    <entry>30.8</entry>
+    <entry>17</entry>
+    <entry>30</entry>
+  </row>
+  <row>
+    <entry>Lloydminster</entry>
+    <entry>32</entry>
+    <entry>2000</entry>
+    <entry>22.2</entry>
+    <entry>15</entry>
+    <entry>1-2</entry>
+  </row>
+  <row>
+    <entry>Battrum</entry>
+    <entry>25</entry>
+    <entry>1300</entry>
+    <entry>37.2</entry>
+    <entry>16</entry>
+    <entry>6-9</entry>
+  </row>
+  <row>
+    <entry>Buffalo</entry>
+    <entry>24</entry>
+    <entry>767</entry>
+    <entry>25</entry>
+    <entry>13</entry>
+    <entry>4.1</entry>
+  </row>
+  <row>
+    <entry>Karamay</entry>
+    <entry>20</entry>
+    <entry>200</entry>
+    <entry>20</entry>
+    <entry>28.9</entry>
+    <entry>25</entry>
+  </row>
+  <row>
+    <entry>Viking</entry>
+    <entry>29</entry>
+    <entry>300</entry>
+    <entry>26.1</entry>
+    <entry>21</entry>
+    <entry>27</entry>
+  </row>
+  <row>
+    <entry>Provost</entry>
+    <entry>28</entry>
+    <entry>385</entry>
+    <entry>30</entry>
+    <entry>24</entry>
+    <entry>15</entry>
+  </row>
+  <row>
+    <entry>Suffield</entry>
+    <entry>26</entry>
+    <entry>n/a</entry>
+    <entry>32</entry>
+    <entry>14.23</entry>
+    <entry>10</entry>
+  </row>
+</tbody>
+
+
+
+
+</tgroup><caption>Real waterflooding projects across the US. Reproduced with permission from H. Saboorian-Jooybari, M. Dejam, and Z. Chen, <emphasis effect="italics">J. Pet. Sci. Eng.</emphasis>, 2016, <emphasis effect="bold">142</emphasis>, 85. Copyright: Elsevier (2016). </caption>
+</table><para id="eip-784">Eight successful polymer floodings across the world were reported and shown in Table 3. The maximum oil recovery and optimum polymer flooding (34%) were obtained in the Marmul oilfield, located in the southern part of Oman. The main reasons behind the high percentage of oil recovery in the Marmul oilfield are high rock permeability, high displaced (oil) viscosity, low saline formation water, and moderate reservoir oil which has resulted in sharp oil recovery. This polymer injection project was the first pilot polymer flooding test which was undertaken in the Middle East (1986).</para><table id="eip-982" summary="Successful oil recovery using polymer flooding across the US. (Saboorian-Jooybari et al.)">
+<tgroup cols="3"><tbody>
+  <row>
+    <entry><emphasis effect="bold">Oilfields</emphasis></entry>
+    <entry><emphasis effect="bold">Injected pore volume size (PV), bbl</emphasis></entry>
+    <entry><emphasis effect="bold">Oil recovery(%)</emphasis></entry>
+  </row>
+  <row>
+    <entry>Westcat canyon</entry>
+    <entry>2000 </entry>
+    <entry>15-20</entry>
+  </row>
+  <row>
+    <entry>Marmul</entry>
+    <entry>0.63</entry>
+    <entry>34</entry>
+  </row>
+  <row>
+    <entry>Bohai bay</entry>
+    <entry>0.3</entry>
+    <entry>7.6</entry>
+  </row>
+  <row>
+    <entry>Pelican lake</entry>
+    <entry>0.35</entry>
+    <entry>10-25</entry>
+  </row>
+  <row>
+    <entry>East bodo</entry>
+    <entry>n/a</entry>
+    <entry>0.9</entry>
+  </row>
+  <row>
+    <entry>Mooney</entry>
+    <entry>0.54</entry>
+    <entry>12</entry>
+  </row>
+  <row>
+    <entry>Suffield caen</entry>
+    <entry>0.6</entry>
+    <entry>10</entry>
+  </row>
+  <row>
+    <entry>Steal</entry>
+    <entry>0.1</entry>
+    <entry>5-6</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+
+
+</tgroup><caption>Successful heavy oil polymer flooding across the US. Reproduced with permission from H. Saboorian-Jooybari, M. Dejam, and Z. Chen, <emphasis effect="italics">J. Pet. Sci. Eng.</emphasis>, 2016, <emphasis effect="bold">142</emphasis>, 85. Copyright: Elsevier (2016). </caption>
+</table><para id="eip-348">A top-down understanding of successful polymer flooding has been illustrated in Figure 4.  The steps of this process have been agreed by all EOR companies. As we can see, the control points are defined according to the rock geology, fluid properties, brine-polymer compatibility, and finally the selection of potential types of polymer in the lab. The pass criteria are determined by the economic analysis and field-test design of polymer flooding.</para><figure id="cutedfxvfd-dog"><media id="dogdfbfddfbvrfpic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/success of eor projects.PNG" width="600" print-width="6in"/>
+        </media>
+      <caption>Steps of a successful polymer flooding scenario across the oil reservoirs. Reproduced with permission from H. Saboorian-Jooybari, M. Dejam, and Z. Chen, <emphasis effect="italics">J. Pet. Sci. Eng.</emphasis>, 2016, <emphasis effect="bold">142</emphasis>, 85. Copyright: Elsevier (2016). </caption></figure>
+
+
+
+</section>
+
+<section id="import-auto-idm1158650384"><title>Polymer-grafted nanoparticles (NPs)</title><para id="import-auto-idm1184996016">Polymer grafted nanoparticles (PG-NPs) or hairy NPs (HNPs) is an integrated molecule, made from joining layers of polymer chains covalently grafted on the NPs solid surface. This approach may be used in different EOR methods such as emulsification, gas/water/polymer flooding, and foam injection. The existing polymer has a profound effect on NPs stability in a harsh environment, which can result in higher stability in NPs via lower electrostatic forces between the polymer chains and high wettability alteration with lower adsorption on the rock, which is a suitable agent to sweep out trapped oil. NPs combination with surfactant is another useful approach similar to PG-NPs which results in higher stability of NPs within a solution. Some PG-NPs decrease the IFT values by order of magnitude from 25 to 1 mN/m. (<link target-id="import-auto-idm1135992288"/>) For instance, grafting silica nanoparticles with polyacrylamide led to the higher viscosity and improving thermal stability in comparison with HPAM sharp under HTHS condition (salinity: 32868 mg/L, at 85 °C). Earlier studies also confirmed grafted low chain polymer-NPs (0.1 wt.%) led to an increase in the system entropy and a decrease in its adsorptions on the rock in comparison with long-chain polymer-NPs.</para><figure id="import-auto-idm1135992288"><media id="import-auto-idm339331968" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-ef94.png" width="450" print-width="4.5in"/>
+        </media>
+      <caption>Photographic images showing the contact angle of (a) oil/air/rock before treatment, (b) oil/air/rock after treatment with silica NPs, (c) water/air/rock before treatment, and (d) water/air/rock after treatment with silica NP. Reproduced with permission from A. J. Worthen, S. L. Bryant, C. Huh, and K. P. Johnston, <emphasis effect="italics">AIChE J.</emphasis>, 2013, <emphasis effect="bold">59</emphasis>, 3490. Copyright: AICHE(2013). </caption></figure>
+
+
+
+</section>
+
+
+
+<section id="eip-894"><title>Some example of applicable polymers </title>
+
+
+<para id="eip-109">Several polymers such as biodegradable and synthetic polymers have been used based on a suitably functionalized series of biodegradable copolymer such as acrylamide (<link target-id="import-auto-idm355942800"/>a), acrylic acid (<link target-id="import-auto-idm355942800"/>b), konjac glucomannan (<link target-id="import-auto-idm1194701616"/>), and allyl polyoxyethylene (<link target-id="import-auto-idm1196376704"/>) when mixed with brine solution, increase the viscosity of displacing fluid, reduce the relative permeability, and finally increase the oil sweep efficiency. They observed the proper viscoelasticity and shear resistance, high stability in harsh condition (6700 mg/L salt solution at 65 °C), and proper biodegradability (degradation rate &gt; 60%).</para><figure id="import-auto-idm355942800"><media id="import-auto-idm1131290832" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-fe28.png" width="250" print-width="2.5in"/>
+        </media>
+      <caption>Structures of (a) acrylamide and (b) acrylic acid. </caption></figure><figure id="import-auto-idm1194701616"><media id="import-auto-idm348193840" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-1f85.png" width="500" print-width="5in"/>
+        </media>
+      <caption>The chemical structure of the water-soluble polysaccharide konjac glucomannan.</caption></figure><figure id="import-auto-idm1196376704"><media id="import-auto-idm345562128" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-6ffd.png" width="250" print-width="2.5in"/>
+        </media>
+      <caption>Structure of allyl polyoxyethylene. </caption></figure><para id="import-auto-idm335007648">polyoxyethylenes (<link target-id="import-auto-idm1198692064"/>), which are an ethylene glycol group made from various ethylene glycol units. Polyoxyethylenes are a unique emulsion stabilizer which can be used in saltwater over a long period.</para><figure id="import-auto-idm1198692064"><media id="import-auto-idm1103214240" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-1d22.png" width="125" print-width="1.25in"/>
+        </media>
+      <caption>Structure of polyoxyethylene. </caption></figure>
+
+
+
+
+</section><section id="eip-593"><title>Demulsifiction of W/O in oil reserves</title><para id="eip-141">In the oilfields, emulsification of oil and water is a dilemma. Natural oil components include resin, asphaltenes, wax, and carboxylic acids which performs as a surfactant, also making the oil-water mixture stabilize. The best way to get rid of emulsification is by using demulsifiers to break the emulsion phase before their transportation in the pipeline and refining process. Chemical demulsifiers are amphiphilic compounds (both hydrophilic and hydrophobic groups), which have been widely utilized for IFT reduction and phase separation. Some polymeric surfactants are demulsifiers. They can adsorb at the oil-water interface and make a uniform oil front in the rock formation. Nonionic, cationic and anionic demulsifiers can be employed in the reserves. Nonionic emulsifiers have been reported for their high stability in the harsh environments. Ethylcellulose (EC, <link target-id="import-auto-idm352343216"/>), branched poly(ethylene oxide)−poly(propylene oxide) (PEO−PPO) block copolymers, branched PEO−PPO copolymer with hydrophilic segments (EO and OH), polyethyleneimine (PEI, <link target-id="import-auto-idm396895552"/>) with various ethylene oxide (EO)-propylene oxide (PO) unit, and polyamidoamine (PAMAM, <link target-id="import-auto-idm1128980880"/>) are commercial demulsifiers to break water-in-diluted bitumen. Similarly to other demulsifiers, hyperbranched polyglycerol (HPG, <link target-id="import-auto-idm1279626864"/>) derivate is designed as a demulsifier with an average oil droplet size of &lt;2 μm (<link target-id="import-auto-idm1097381056"/>).</para><figure id="import-auto-idm352343216"><media id="import-auto-idm379693232" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-258b.png" width="150" print-width="1.5in"/>
+        </media>
+      <caption>Structure of ethyl cellulose, which is a derivative of cellulose in which some of the hydroxyl groups (R = H) on the repeating glucose units are converted into ethyl ether groups (R = C<sub>2</sub>H<sub>5</sub>).</caption></figure><figure id="import-auto-idm396895552"><media id="import-auto-idm1093577008" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-a805.png" width="350" print-width="3.5in"/>
+        </media>
+      <caption>Structure of branched polyethylenimine (PEI). </caption></figure><figure id="import-auto-idm1128980880"><media id="import-auto-idm389386160" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-b646.png" width="400" print-width="4in"/>
+        </media>
+      <caption>Structure of a generation 2 poly(amidoamine) (PAMAM) dendrimer. </caption></figure><figure id="import-auto-idm1279626864"><media id="import-auto-idm1093277328" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-da0f.png" width="250" print-width="2.5in"/>
+        </media>
+      <caption>Structure of hyperbranched polyglycerol (HPG). </caption></figure><figure id="import-auto-idm1097381056"><media id="import-auto-idm371644912" alt="">
+          <image mime-type="image/png" src="../../media/Picture 11-9953.png" width="350" print-width="3.5in"/>
+        </media>
+
+<caption>Schematic representation of the demulsification process: (a) O/W emulsion, (b) adding HPG-MA as a demulsifier, (c) aggregation and coalescence, and (d) separation. Reproduced with permission from L. Zhang, G. He, D. Ye, N. Zhan, Y. Guo, and W. Fang, <emphasis effect="italics">Energy Fuels</emphasis>, 2016, <emphasis effect="bold">30</emphasis>, 9939.</caption></figure><para id="import-auto-idm353513600">Ethylene oxide-propylene oxide (EO-PO, <link target-id="import-auto-idm396422480"/>) compound is one of the main demulsifiers which causes an increase in the film-thinning rate and reduces the stability of film that forms in oil-water emulsions. EO- hydrophilic and -PO hydrophobic units generate an amphiphilic property in the emulsion and break the interfacial layer whose surface activity is superior to that of the highly polar component such as resin and asphaltenes. Other derivatives of EO/PO, such as polyoxyalkylated diethylene triamine EO/PO, PPO–PDMS–PPO blocks copolymer, and α-γ-diamines of polyoxyethylene–polyoxypropylene–polyoxyethylene (POE–POP–POE) triblock copolymer, were also shown to be proper candidates for oil-water demulsification.</para><figure id="import-auto-idm396422480"><media id="import-auto-idm1175378848" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10-7f89.png" width="200" print-width="2in"/>
+        </media>
+      <caption>Structure of ethylene oxide-propylene oxide (EO-PO). </caption></figure>
+
+</section>
+
+<section id="import-auto-idm395978336">
+      <title>Bibliography</title>
+      <list id="import-auto-idm1413303792" list-type="bulleted"><item>A. M. Firozjaii and H. R. Saghafi, <emphasis effect="italics">Petroleum</emphasis>, 2019, DOI:10.1016/j.petlm.2019.09.003.</item>
+
+<item>P. D. Fletcher, L. D. Savory, F. Woods, A. Clarke, and A. M. Howe, <emphasis effect="italics">Langmuir</emphasis>, 2015, <emphasis effect="bold">31</emphasis>, 3076.</item>
+
+        <item>U. T. Gonzenbach, A. R. Studart, E. Tervoort, and L. J. Gauckler, <emphasis effect="italics">Angew. Chem., Int. Ed.</emphasis>, 2006, <emphasis effect="bold">45</emphasis>, 3526. </item>
+
+        <item>S. Gou, S. Li, M. Feng, Q. Zhang, Q. Pan, J. Wen, Y. Wu, and Q. Guo, <emphasis effect="italics">Ind. Eng. Chem. Res.</emphasis>, 2017, <emphasis effect="bold">56</emphasis>, 942.</item>
+
+        <item>R. K. Kainthan, E. B. Muliawan, S. G. Hatzikiriakos, and D. E. Brooks, <emphasis effect="italics">Macromolecules</emphasis>, 2006, <emphasis effect="bold">39</emphasis>, 7708. </item>
+
+        <item>S. K. Kumar, N. Jouault, B. Benicewicz, and T. Neely, <emphasis effect="italics">Macromolecules</emphasis>, 2013, <emphasis effect="bold">46</emphasis>, 3199. </item>
+
+        <item>V. F. Pacheco, L. Spinelli, E. F. Lucas, and C. R. Mansur, <emphasis effect="italics">Energy Fuels</emphasis>, 2011, <emphasis effect="bold">25</emphasis>, 1659. </item>
+
+        <item>H. Saboorian-Jooybari, M. Dejam, and Z. Chen, <emphasis effect="italics">J. Pet. Sci. Eng.</emphasis>, 2016, <emphasis effect="bold">142</emphasis>, 85. </item> 
+
+        <item>T. Saigal, H. Dong, K. Matyjaszewski, and R. D. Tilton, <emphasis effect="italics">Langmuir</emphasis>, 2010, <emphasis effect="bold">26</emphasis>, 15200. </item>
+
+        <item>T. Saigal, A. Yoshikawa, D. Kloss, M. Kato, P. L. Golas, K. Matyjaszewski, and R. D. Tilton, <emphasis effect="italics">J. Colloid Interface Sci.</emphasis>, 2013, <emphasis effect="bold">394</emphasis>, 284. </item>
+
+        <item>R. Singh and K. K. Mohanty, <emphasis effect="italics">Energy Fuels</emphasis>, 2015, <emphasis effect="bold">29</emphasis>, 467. </item>
+
+        <item>X. Su, M. F. Cunningham, and P. G. Jessop, <emphasis effect="italics">Chem. Commun.</emphasis>, 2013, <emphasis effect="bold">49</emphasis>, 2655. </item>
+
+        <item>A. Sunder, R. Hanselmann, H. Frey, and R. Mülhaupt, <emphasis effect="italics">Macromolecules</emphasis>, 1999, <emphasis effect="bold">32</emphasis>, 4240. </item>
+
+        <item>D. Wasan, A. Nikolov, and K. Kondiparty, <emphasis effect="italics">Curr. Opin. Colloid Interface Sci.</emphasis>, 2011, <emphasis effect="bold">16</emphasis>, 344. </item>
+
+        <item>A. J. Worthen, S. L. Bryant, C. Huh, and K. P. Johnston, <emphasis effect="italics">AIChE J.</emphasis>, 2013, <emphasis effect="bold">59</emphasis>, 3490. </item>
+
+        <item>L. Zhang, G. He, D. Ye, N. Zhan, Y. Guo, and W. Fang, <emphasis effect="italics">Energy Fuels</emphasis>, 2016, <emphasis effect="bold">30</emphasis>, 9939</item>
+
+        <item>J. Zhao, C. Dai, Q. Ding, M. Du, H. Feng, Z. Wei, A. Chen, and M. Zhao, <emphasis effect="italics">RSC Adv.</emphasis>, 2015, <emphasis effect="bold">5</emphasis>, 13993. </item>
+
+      </list>
+</section>
+
+</content>
+</document>

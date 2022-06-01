@@ -1,0 +1,213 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Overview of fluid flow transport</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m84177</md:content-id>
+  <md:title>Overview of fluid flow transport</md:title>
+  <md:abstract/>
+  <md:uuid>e30b2b8a-a97d-42df-a48c-5400abbe18a3</md:uuid>
+</metadata>
+
+<content>
+    <section xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm567043648"><title>Main parameters affecting EOR</title><para id="eip-771">In general, the main factors affecting successful enhanced oil recovery (EOR) projects are: 
+</para><list id="eip-152"><item>mobility ratio,</item>
+<item>fluid viscosity, </item>
+<item> salinity, </item>
+<item>pH, </item>
+<item>rock porosity, </item>
+<item>permeability, </item>
+<item>rock lithology, </item>
+<item>injected fluid, </item>
+<item>temperature. </item>
+
+
+
+
+</list><para id="eip-272">This section reviews the affect of microscopic and macroscopic displacement efficiency in the performance of oil recovery. In microscopic fluid displacement, maximum oil recovery is obtained when the mobility ratio between displaced and displacing fluid is less than 1. For macroscopic displacement, the key factor is the mobility ratio between injected fluid and oil. The factors determining this depend on the type of EOR implemented. It is important to note that optimal oil sweeping directly relates to miscible or immiscible injection in the reservoirs. For instance, higher water flooding leads to changes in capillary pressure and interfacial tension between fluids and consequently leads to lower relative wettability in the long term. </para><section id="eip-429"><title>Mobility ratio</title><para id="eip-773">Mobility ratio is one of the main parameters in microscopic oil displacement. Mobility ratio is the difference in displacement on rock surfaces between injected fluid and oil as defined by <link target-id="eip-165"/>, where λ<sub>i</sub> and λ<sub>o</sub> are fluid mobility, Κr<sub>i</sub> and Κr<sub>o</sub> are the relative permeability, and μ<sub>i</sub> and μ<sub>o</sub> are the fluid viscosity, of the injected fluid (i) and oil (o), respectively. Maximum oil displacement will be obtained by mobility ratio less than or equal to 1.</para><equation id="eip-165"><m:math display="block">
+          <m:semantics>
+            <m:mrow>
+              <m:mi>M</m:mi>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>λ</m:mi>
+                  <m:mi>i</m:mi>
+                </m:msub>
+                <m:msub>
+                  <m:mi>λ</m:mi>
+                  <m:mi>o</m:mi>
+                </m:msub>
+              </m:mfrac>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi mathvariant="italic">Kr</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                  <m:mo stretchy="false">/</m:mo>
+                  <m:msub>
+                    <m:mi>μ</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mrow>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi mathvariant="italic">Kr</m:mi>
+                    <m:mi>o</m:mi>
+                  </m:msub>
+                  <m:mo stretchy="false">/</m:mo>
+                  <m:msub>
+                    <m:mi>μ</m:mi>
+                    <m:mi>o</m:mi>
+                  </m:msub>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi mathvariant="italic">Kr</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                  <m:mi>.</m:mi>
+                  <m:msub>
+                    <m:mi>μ</m:mi>
+                    <m:mi>o</m:mi>
+                  </m:msub>
+                </m:mrow>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi mathvariant="italic">Kr</m:mi>
+                    <m:mi>o</m:mi>
+                  </m:msub>
+                  <m:mi>.</m:mi>
+                  <m:msub>
+                    <m:mi>μ</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0">M=  {{λ} rsub {i}} over {{λ} rsub {o}} =  {{{Kr} rsub {i}} / {{μ} rsub {i}}} over {{{Kr} rsub {o}} / {{μ} rsub {o}}} =  {{Kr} rsub {i} . {μ} rsub {o}} over {{Kr} rsub {o} . {μ} rsub {i}}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation></section>
+
+
+<section id="eip-663"><title>Fluid viscosity</title><para id="eip-965">Suitable fluid viscosity is one of the main factors in successful EOR flooding. Unfavourable fluid mixing leads to changes in the value of macroscopic oil sweep efficiency.  Therefore, proper control of flooding is associated with preventing viscous fingering. Viscous fingering occurs at a gas–oil interface when a less viscous fluid such as gas displaces a  high viscous fluid like water (see <link target-id="import-auto-idm610249904"/>). As a result of this hydrodynamic instability at low  Reynolds numbers, viscous fingering will be enhanced. Therefore, viscosity differences between gas-liquid are due to huge amounts of trapped oil in pore-throat (increasing mobility ratio and residual oil). Moreover, when the water breakthrough occurred by fluid viscous fingering, the water tends to push out more than oil, causing the least resistance in oil pathways. Fingering effect and gravitational segregation are the main reasons behind poor macroscopic sweep efficiencies. Early gas breakthrough often occurs in gas injection specifically by CO<sub>2</sub>. </para><figure id="import-auto-idm610249904"><media id="import-auto-idm517242192" alt="">
+          <image mime-type="image/png" src="../../media/Picture 12-adb3.png" width="400" print-width="4in"/>
+        </media>
+      
+<caption>A numerical simulation of viscous fingering seen when low-viscosity gas displaces higher viscosity oil. The viscosity ratio in this simulation is 10. Flow is from left to right. Reproduced with permission from A. Muggeridge, A. Cockin, K. Webb, H. Frampton, I. Collins, T. Moulds, and P. Salino, <emphasis effect="italics">Phil. Trans. R. Soc. A</emphasis>, 2014, <emphasis effect="bold">372</emphasis>, 20120320. Copyright: The Authors. Published by the Royal Society (2014). </caption></figure><para id="import-auto-idm716723440"><link target-id="import-auto-idm842733040"/> exemplifies the process of oil trapping based on water-wet systems through porous media. As can be seen, the pores are saturated with oil, after which, water flooding begins (capillary effects) resulting in a thick water film and finally, upon completing these stages, the water films join and oil continuity is lost, i.e., interfacial tension (IFT) reduction. </para><figure id="import-auto-idm842733040"><media id="import-auto-idm498347408" alt="">
+          <image mime-type="image/png" src="../../media/Picture 11-bb24.png" width="500" print-width="5in"/>
+        </media>
+      <caption>Schematic representation of the process of oil trapping based on water-wet systems through porous media.  (a) At discovery the sand grains are coated with a thin water film and the pores are filled with oil; (b) as water flooding progresses the water films become thicker until (c) the water films join and oil continuity is lost. Reproduced with permission from A. Muggeridge, A. Cockin, K. Webb, H. Frampton, I. Collins, T. Moulds, and P. Salino, <emphasis effect="italics">Phil. Trans. R. Soc. A</emphasis>, 2014, <emphasis effect="bold">372</emphasis>, 20120320. Copyright: The Authors. Published by the Royal Society (2014). </caption></figure></section>
+
+
+</section><section id="import-auto-idm499358960">
+      <title>Groundwater chemistry and rock properties</title>
+      <para id="import-auto-idm351950128">Groundwater in a rock formation is one of the most important parameters to improve the oil liberation on the host rock. The rock formation mostly composed of silica, carbonate and clay minerals with a variety of salts. Experimental studies have shown the importance of strong adhesion interactions such as the van der Waals for detachment of oil on the rock formation.  It is expected that strong affinities at the oil-rock interface would decrease by manipulating water flooding with optimum brine (low salinity water injection) in the presence and absence of nanoparticle, polymer and surfactant.  Their flooding leads to significantly changing in the chemistry of water and rock formation. They can be used as a promising EOR technique for light to mature hydrocarbon reservoirs where the oil production declined by the physicochemical interactions between solid-liquid and liquid-liquid and improve oil recovery by 5-25%.</para><para id="import-auto-idm497074544">Formation water mainly contains monovalent and divalent cations such as Na<sup>+</sup>, K<sup>+</sup>, Ca<sup>2+</sup>, Mg<sup>2+</sup>, Cl<sup>−</sup>, SO<sub>4</sub><sup>2-</sup>, NO<sub>3</sub><sup>2-</sup>. According to double layer expansion (DLE) and multi-component ion exchange (MIE) theory, these ions have a central role in a successful EOR method.  Because they have a dominant effect on rock wettability alteration and lead to chemical aggregation and consequently pore plugging through the pores. The cation exchange capacity on the rock is considered as one of the main equilibria between water-oil at reservoir rocks as it fluid injected, has recognized new equilibria with the formation. Typical divalent cations such as Mg<sup>2+</sup> and Ca<sup>2+</sup> in the reservoir can provide strong adsorption after fluid injection on rock surfaces due to multicomponent ion exchange (MIE) theory.  Multivalent cations at sand surfaces can be bonded to heavy oil polar components and formed organometallic complexes and hence the oil-wet condition of the rock surface.</para><para id="import-auto-idm809464224">The ideal water chemistry design should retain ion repulsive forces across the oil-sand interface because the kinetics of these forces can attribute the increase in adsorption of ions such as Na<sup>+</sup> and Ca<sup>2+</sup> on sand surfaces.  One of the most common surfactants, which have been utilized in water chemistry alteration is sodium dodecyl sulfate (SDS, <link target-id="import-auto-idm336416432"/>) that can mitigate adhesion force between fluid-rock interactions, and decrease in solid hydrophobicity.  In point of fact, since there is a polar component with electrolyte concentrations (mono- or di-valent), lead to making the remarkable oil-wet condition of the surface of rock reservoir. </para><figure id="import-auto-idm336416432"><media id="import-auto-idm511395216" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-72fe.png" width="350" print-width="3.5in"/>
+        </media>
+      <caption>The structure of sodium dodecyl sulfate (SDS). </caption></figure></section>
+    <section id="import-auto-idm714024928">
+      <title>Analysis of wettability alteration and interfacial tension</title><para id="import-auto-idm330707376">Wettability alteration has a major role in the location, flow, control and oil sweeping into porous media, and is strongly depended on geochemistry interactions between oil/water/brine, and geological host solids (clay, sand, rock).  The wetting phenomenon may be divided into the following categories based upon the measured contact angle: </para><list id="import-auto-idm870453088" list-type="bulleted"><item>hydrophilic (water-wet) = 0-30°, </item>
+        <item>hydrophobic (oil-wet) = 150-180°, </item>
+        <item>bi-wettable ≈ 90°.</item>
+      </list><para id="import-auto-idm602606224">Relative permeability (rel-perm) and core flooding experiments can be used as qualitative methods. Contact angle and IFT measurements (adhesive and cohesive forces) are common strategies to fully explore wetting degree by a force balance on solid-fluid and fluid-fluid interfaces (<link target-id="import-auto-idm862316032"/>).  IFT is described as the tendency of molecule adsorption at the surface by making a contact boundary, which refers to Gibbs-free energy equation.  Gibbs equation studies suggested that IFT measurements based on the pendant drop, spinning drop, or sessile drop in the presence of fluids. These IFT measurements are responsible for enhancing oil liberation from the rock surface.  Obviously, IFT among salinity, pH, acidic number, asphaltenes resin fractions, viscosity, and HPHT condition are the main factors to change the surface wettability.</para><table id="import-auto-idm862316032" summary="Summary of wetting in relation to experimental contact angle.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <thead>
+            <row>
+              <entry>Contact angle (°)</entry>
+              <entry>Degree of wetting</entry>
+              <entry>Strength of solid/liquid interactions</entry>
+              <entry>Strength of liquid/liquid interactions</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>θ = 0</entry>
+              <entry>Perfect wetting</entry>
+              <entry>Strong</entry>
+              <entry>Weak</entry>
+            </row>
+            <row>
+              <entry>0 &lt; θ &lt; 90°</entry>
+              <entry>High wettability</entry>
+              <entry>Strong </entry>
+              <entry>Strong </entry>
+            </row>
+            <row>
+              <entry>90° &lt; θ &lt; 180°</entry>
+              <entry>Low wettability</entry>
+              <entry>Weak </entry>
+              <entry>Weak </entry>
+            </row>
+            <row>
+              <entry>θ = 180°</entry>
+              <entry>Perfect non-wetting</entry>
+              <entry>Weak </entry>
+              <entry>Strong </entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Summary of wetting in relation to experimental contact angle. </caption>
+</table><para id="import-auto-idm511409744">Spontaneous imbibition method is the most common method for measuring the wettability of a core-plug. Assessing core plug using imbibition method extremely depends upon the fluid viscosities, temperature, salinity, relative permeability, and initial core saturation (<link target-id="import-auto-idm987252848"/>). 
+</para><figure id="import-auto-idm987252848"><media id="import-auto-idm668828224" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-6e8a.png" width="450" print-width="4.5in"/>
+        </media>
+      <caption>Wetting behaviour of two systems at the interfaces: (a) solid/water/air, and (b) solid/oil/water system. The contact angle is defined as an angle obtained by the Young equation when a droplet meets a solid substrate. Reproduced with permission from L. He, X. Li, G. Wu, F. Lin, and H. Sui, <emphasis effect="italics">Energy Fuels</emphasis>, 2013, <emphasis effect="bold">27</emphasis>, 4677.  Copyright: American Chemical Society (2013). </caption></figure><para id="import-auto-idm835667520">Through numerous experimental tests, the rock’s wettability can be modified by a thermal process or chemical additives such as saline injection and cation exchange, surfactants, nanoparticles, and polymers. Furthermore, physical properties such as fluid distribution, capillary pressure (P<sub>c</sub>), and relative permeability (Kr<sub>o</sub>) can be utilized to evaluate wettability alteration. Carboxylic groups (R-CO<sub>2</sub>H) in heavy and extra-heavy oils provide one of the most important acid-base interactions on the rock surfaces in carbonate reservoirs. Carboxylic interactions are a general approach to generating strong adsorption between rock-fluid. </para><para id="import-auto-idm764874832">A method for heavy oil liberation at the glass surface by kerosene and fatty acid methyl ester (FAME) has been explored, and found to be due to more bitumen liberation for both additives. Interestingly, the increase of the salt concentration in the fluid phase exhibits a decrease in oil-water IFT and viscosity reduction. There have been several reports of sand wettability that have detrimental role based on composition. In the case of the carbonated reservoir, these minerals are mainly contained feldspar, sand, calcite, magnesite, clay, and dolomite. Various factors are present on rock wettability which usually acts based on solid composition (crystal structure, surface heterogeneity and roughness), mineral size (from 1 mm to meters), fine particles in the presence of oil component and HPHT condition. For example, clays, sulfate, and polyvalent carbonates have been discovered in Athabasca oil formations. Subsequently, the way was in order to find particle-oil separation. Triton (<link target-id="import-auto-idm590895088"/>) as a non-ionic surfactant was used to identify main minerals such as phyllosilicates, including: calcite (CaCO<sub>3</sub>), kaolinite [Al<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub>], and muscovite [KAl<sub>2</sub>(AlSi<sub>3</sub>O<sub>10</sub>)(F,OH)<sub>2</sub>], as well as corundum (Al<sub>2</sub>O<sub>3</sub>) and halloysite [Al<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub>]. </para><figure id="import-auto-idm590895088"><media id="import-auto-idm688025856" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-2b5c.png" width="350" print-width="3.5in"/>
+        </media>
+      <caption>The structure of Triton X-100 nonionic surfactant.</caption></figure><para id="import-auto-idm497655200">Researchers have also found that the presence of TiO<sub>2</sub> and ZrO<sub>2</sub>, which are loaded into rocks as a proper agent in heavy oil liberation, and iron mineral forms and negative results on oil adsorption on the rock and higher affinity to make a heavy oil component such as resin and asphaltenes. The polar (hydrogen bonds) and non-polar components of resin (0.4 - 5.1% asphalt contents) and asphaltenes (heavy amount of V, Cu, Fe, and Ni) making oil-wet system with strong affinity for solid surfaces. The polar parts of resin molecules (aliphatic chains, aromatic hydrocarbon rings, and heteroatoms) allow them to be due to high water affinity on resin’s functional groups (benzothiophene, ester, hydroxyl and carboxyl, thiophene, pyrrole N-H, carbonyl, dibenzothiophene), and thus, naphthenic and sulfonic acids (less than 3 wt%) as main parts of natural surfactants in resin fractions.</para></section>
+    <section id="import-auto-idm354804400">
+      <title>Impact of EOR processes on rock mechanisms (porosity, permeability)</title>
+      <para id="import-auto-idm728073712">Considering the geochemical effects before and after injection make a remarkable improvement in the EOR process. Main parameters such as rock permeability, porosity, stress/strain changes (hydrostatic, uniaxial, and triaxial), and pore pressure through the pore-throats are the main geomechanical harbour nearly resulted in maximize recovery. Geochemical parameters and physicochemical reactions might take disadvantage, including disproportionate permeability reduction (DPR), fracturing, and blockage in the pore throat during the corrupted flooding.  For example, based on the natural impurity in solids, pore plugging and scaling can occur simultaneously during polymer flooding. Polymer flooding represents the ultimate oil recovery that is the whole interaction compatibility in rock-fluids. However, in most cases, performing an injection rate in the polymer will shift the stress changes in reservoir formation, and polymers are unable to tune their distribution by pore pressure; especially in unconsolidated sand. Therefore, it caused damage (shear failure) by increasing the oil viscosity and oil residual/resistance parameters. Furthermore, the high mobility of polymer can be undertaking negative fracking effects in pore-throats and pore pathways, which are pressurized by geomechanical factors such as subsidence, compaction, stress, and strain. This behaviour will especially occur for low permeability formation (shale and tight) or thick reservoirs. In this case, we lose much of the pores through the fractures by polymer diffusion and the presence of stress forces in the rocks. Moreover, high viscous flow in polymer flooding may be caused negative effects such as DPR, and thus, rock expansion and increasing in rock stress such as rock/formation failure. </para><para id="import-auto-idm341572512">In principle, any changes in fluid composition probably caused various stress behaviour in the rock reservoir. Thermal methods are faced with inter-well shear fractures as well. These perturbation parameters are different by rock/formation expansion, and fluids behaviour in the presence of stress and pore pressure profiles. Furthermore, in most documented cases for gas injection (especially CO<sub>2</sub>, and miscible gasses), geotechnical parameters are the main stresses forces in rock.  For instance, after CO<sub>2</sub> injection, chemical dissolution between gas and fluids caused bicarbonate ion (HCO<sub>3</sub><sup>-</sup>) production. Bicarbonate has a weak acid interaction with dissolves calcite (CaCO<sub>3</sub>), dolomite (CaMg(CO<sub>3</sub>)<sub>2</sub>), and anhydrite (CaSO<sub>4</sub>).  This conventional dissolution tends to change the rock permeability and caused instability and CO<sub>2</sub> breakthrough as negative effects. Understanding how this weakening interactions and stresses occurs between the fluid and the rock is complicated; however, the most important factors to solving this problem are considering the minerals types, fluid interactions, and fluid rate distribution.</para></section>
+    <section id="import-auto-idm735267440">
+      <title>Bibliography</title>
+      <list id="import-auto-idm667391568" list-type="bulleted"><item>W. Alameri, T. W. Teklu, R. M. Graves, and H. Kazemi, <emphasis effect="italics">SPE Asia Pacific Oil and Gas Conference and Exhibition, Adelaide, Australia</emphasis>, 2014, SPE-171529-MS.</item>
+
+
+
+<item>J. A. Ali, K. Kolo, A. K. Manshad, and A. H. Mohammadi, <emphasis effect="italics">Egypt. J. Pet.</emphasis>, 2018, <emphasis effect="bold">27</emphasis>, 1371. </item>
+
+<item>R. Al-Mjeni, S. Arora, P. Cherukupalli, J. van Wunnik, J. Edwards, B. J. Felber, O. Gurpinar, G. J. Hirasaki, C. A. Miller, and C. Jackson, <emphasis effect="italics">Oilfield Rev.</emphasis>, 2010, <emphasis effect="bold">22</emphasis>, 16. </item>
+
+        <item>J. S. Buckley and T. Fan, <emphasis effect="italics">Petrophysics</emphasis>, 2007, <emphasis effect="bold">48</emphasis>, 175. </item>
+
+        <item>Y. Chen, A. S. Elhag, L. Cui, A. J. Worthen, P. P. Reddy, A. J. Noguera, A. M. Ou, K. Ma, M. Puerto, and G. J. Hirasaki, <emphasis effect="italics">Ind. Eng. Chem. Res.</emphasis>, 2015, <emphasis effect="bold">54</emphasis>, 4252.</item>
+
+        <item>S. Doorwar and K. K. Mohanty, <emphasis effect="italics">SPE Journal</emphasis>, 2017, <emphasis effect="bold">22</emphasis>, SPE-173290-PA. </item>
+
+        <item>A. E. Bayat, R. Junin, A. Samsuri, A. Piroozian, and M. Hokmabadi, <emphasis effect="italics">Energy Fuels</emphasis>, 2014, <emphasis effect="bold">28</emphasis>, 6255. </item>
+
+        <item>R. Farajzadeh, B. L. Wassing, and L. W. Lake, <emphasis effect="italics">Energy Rep.</emphasis>, 2019, <emphasis effect="bold">5</emphasis>, 570. </item>
+
+        <item>F. Gassara, N. Suri, P. Stanislav, and G. Voordouw, <emphasis effect="italics">Environ. Sci. Technol.</emphasis>,  2015, <emphasis effect="bold">49</emphasis>, 12594. </item>
+
+        <item>L. He, X. Li, G. Wu, F. Lin, and H. Sui, <emphasis effect="italics">Energy Fuels</emphasis>, 2013, <emphasis effect="bold">27</emphasis>, 4677. </item>
+
+        <item>F. Moeini, A. Hemmati-Sarapardeh, M.-H. Ghazanfari, M. Masihi, and S. Ayatollahi, <emphasis effect="italics">Fluid Phase Equilib.</emphasis>, 2014, <emphasis effect="bold">375</emphasis>, 191. </item>
+
+        <item>R. N. Moghaddam, A. Bahramian, Z. Fakhroueian, A. Karimi, and S. Arya, <emphasis effect="italics">Energy Fuels</emphasis>, 2015, <emphasis effect="bold">29</emphasis>, 2111. </item>
+
+        <item>A. Muggeridge, A. Cockin, K. Webb, H. Frampton, I. Collins, T. Moulds, and P. Salino, <emphasis effect="italics">Phil. Trans. R. Soc. A</emphasis>, 2014, <emphasis effect="bold">372</emphasis>, 20120320. </item>
+
+        <item>P. C. Myint and A. Firoozabadi, <emphasis effect="italics">Curr. Opin. Colloid Interface Sci.</emphasis>, 2015, <emphasis effect="bold">20</emphasis>, 105. </item>
+
+        <item>R. A. Nasralla, M. A. Bataweel, and H. A. Nasr-El-Din, <emphasis effect="italics">J. Can. Petrol. Technol.</emphasis>, 2013, <emphasis effect="bold">52</emphasis>, 144. </item>
+
+        <item>E. Pouryousefy,Q. Xie, and A. Saeedi, <emphasis effect="italics">Petroleum</emphasis>, 2016, <emphasis effect="bold">2</emphasis>, 215. </item>
+
+        <item>M. Tagavifar, S. Herath, U. Weerasooriya, K. Sepehrnoori, and G. Pope,<emphasis effect="italics">SPE J.</emphasis>, 2018, <emphasis effect="bold">23</emphasis>, SPE-179672-PA. </item>
+
+        <item>S. Trabelsi, J.-F. O. Argillier, C. Dalmazzone, A. Hutin, B. Bazin, and D. Langevin, <emphasis effect="italics">Energy Fuels</emphasis>, 2011, <emphasis effect="bold">25</emphasis>, 1681. </item>
+
+        <item>K.-K. Yee, N. Reimer, J. Liu, S.-Y. Cheng, S.-M. Yiu, J. Weber, N. Stock, and Z. Xu, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 2013, <emphasis effect="bold">135</emphasis>, 7795.</item>
+
+        <item>P. Zhang, M. T. Tweheyo, and T. Austad, <emphasis effect="italics">Colloids Surf. A Physicochem. Eng. Asp.</emphasis>, 2007, <emphasis effect="bold">301</emphasis>, 1. </item></list></section>
+  </content>
+</document>

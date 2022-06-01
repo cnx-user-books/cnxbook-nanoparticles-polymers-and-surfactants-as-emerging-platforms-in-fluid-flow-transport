@@ -1,0 +1,78 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m83574</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>b603a0d4-6893-49c2-a829-3bf5f24df792</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm817125856">Despite a push by many nations towards green energy production, the global consumption of oil has not abated due to the increased economic demand of developing regions. Two general approaches are available to meet the demand for oil production:</para><list id="import-auto-idm951255472" list-type="bulleted">
+      <item>developing more reservoirs,</item>
+      <item>increasing the production of already in-place reserves. </item>
+    </list>
+    <para id="import-auto-idm791185040">The first of these requires increased exploration and production, which was traditionally costly and necessitates accessing new geographic locations, with attendant political and environmental implications. The development of unconventional shale oil has partially offset these issues in the US and Canada by opening up previously untapped reserves. In developing shale oil the industry has moved from a “difficult to find, easy to produce” to an “easy to find, difficult to produce” scenario. However, in many geographic regions, new reservoir opportunities are limited and if additional oil production is not developed then the concept of peak oil will become a reality, along with the economic, social and political changes that will transpire. </para><para id="import-auto-idm837968928">Oil production using the reservoir’s natural energy (natural pressure) and artificial lift (pump, gas lift) are categorized as <emphasis effect="italics">primary oil recovery</emphasis>. Unfortunately, natural driving forces are insufficient and primary oil recovery does not produce anywhere near the required amount of the original oil-in-place (OOIP); values are typically around 10%. Once oil production declines gas and water injection (waterflooding) play a major role in maintaining reservoir pressure. This <emphasis effect="italics">secondary oil recovery</emphasis> results in considerable amounts of trapped oil in the rock matrix being recovered (15-40% of OOIP).  Unfortunately, primary and secondary recoveries suffer from several limitations, including a rapid decrease in reservoir pressure and insufficient oil recovery due to the unfavourable mobility ratio (the difference between injected fluid and oil displacement on rock surfaces) among fluids, coning problems (water and gas), and lack of sufficient sweep efficiency. To overcome the above-mentioned issues <emphasis effect="italics">tertiary enhanced oil recovery</emphasis> (TEOR) methods are employed, some of which include chemical, thermal, and gas miscible displacement processes. The various levels of enhanced oil recovery (EOR) are represented schematically in <link target-id="import-auto-idm382325936"/>.</para><figure id="import-auto-idm382325936"><media id="import-auto-idm376930960" alt="">
+        <image mime-type="image/png" src="../../media/Picture 6-93c6.png" width="500" print-width="5in"/>
+      </media>
+    <caption>Schematic representation of EOR classification and injection into reservoir. Reproduced with permission from R. Al-Mjeni, S. Arora, P. Cherukupalli, J. van Wunnik, J. Edwards, B. J. Felber, O. Gurpinar, G. J. Hirasaki, C. A. Miller, and C. Jackson, <emphasis effect="italics">Oilfield Rev.</emphasis>, 2010, <emphasis effect="bold">2011</emphasis>, 4. Copyright: Schlumberger (2010). </caption></figure><para id="eip-106">The contemporary debate over oil production decline has its roots in the understanding of the strong chemical interactions between oil, rock, and other fluids such as connate water in the source rock. The subsidence of hydrocarbons over million years geological time elevates their temperature and pressure and lunches the process of organic hydrocarbon maturation. This process involves two fundamental sub-steps that firstly converts the mature organic compounds into insoluble supramolecule kerogen, and converts into lighter hydrocarbon fractions as organic maturation upsurges in the long term. It is to be noted that kerogen will break off to smaller hydrogen-rich substances with a liquid form in the second step. Today, many reservoirs have lost their lighter hydrocarbon fractions due to declining reservoir pressure and the current rate of oil production. The liberation of oil from the host rock typically commences at changing physicochemical interactions between solid-oil-water systems and continues by large oil displacement. The main interactions between the rock-oil-fluid systems have been illustrated in <link target-id="cute-srgrgrddog"/>. </para><figure id="cute-srgrgrddog"><media id="import-auto-idm356078000" alt="">
+          <image mime-type="image/png" src="../../media/main interactions in reserves.PNG" width="700" print-width="7in"/>
+        </media>
+      <caption>Main interactions for oil liberation through porous media with utilization of novel material: (a) liberation of unconventional oils from the surfaces of host solids/sands, which is mainly affected by parameters such as oil composition, oil surface heterogeneity, oil–water interfacial properties, solid surface characteristics and water chemistry; (b) separation of liberated unconventional petroleum from water, involving stabilization and destabilization of oil–water emulsions by chemicals or mineral particles. Reproduced with permission from L. He, F. Lin, X. Li, H. Sui, and Z. Xu, <emphasis effect="italics">Chem. Soc. Rev.</emphasis>, 2015, <emphasis effect="bold">44</emphasis>, 5446-5494. Copyright: Royal Society of Chemistry (2015). </caption></figure><para id="import-auto-idm949499200">Generally speaking, TEOR approaches can be described by one of two techniques: </para><list id="eip-748"><item>thermal,</item>
+<item>non-thermal.</item>
+
+
+</list><para id="eip-565">Thermal methods are essentially employed to reduce oil viscosity and have been utilized in heavy and extra-heavy oil reserves, as well as tar sands. On the other hand, non-thermal methods involve fluid (miscible or immiscible) injections to improve the mobility ratio ≤1. Miscible injection is the opposite approach to water flooding secondary recovery, in that instead of injecting water to displace the desired hydrocarbon, injection of a miscible compound (CO<sub>2</sub>) or solvent (LPG or alcohols) essentially dissolves the hydrocarbon creating a mixture with increased mobility. </para><para id="import-auto-idm384596096">Current chemical flooding methods are divided into three main classes: </para><list id="eip-520"><item>surfactant,</item>
+<item>polymer,</item>
+<item>alkaline flooding.</item>
+
+</list><para id="eip-668">In each case, the aim is to use chemicals to change the physicochemical interactions between the rock-fluid and fluid-fluid interactions. For example, by causing a significant change to the wettability of sandstone rock from oil-wet to water-wet. However, significant technical challenges remain, and it is in this field that nanoparticles, surfactants, and polymers show great potential.</para><para id="import-auto-idm931646032">Currently, the use of EOR methods have led to additional production of 2.5×10<sup>6</sup> barrels per day, and it is estimated that EOR could facilitate the extraction of as much as 3×10<sup>12</sup> barrels of trapped oil. <link target-id="import-auto-idm381463776"/> shows that the proposed future relative oil production, in the USA and the rest of the world, is influenced by EOR methods.  For example, in 2024, the EOR market size is expected to increase to over 25% (~$89 billion) due to higher demand within industries such as automobiles. Furthermore, it is expected that primary recovery will decrease while the amount of oil production employing secondary and tertiary methods will increase. The greater use of tertiary EOR methods in the USA as compared to the rest of the world is a function of the need to enhance recovery from shale reservoirs in the former. </para><figure id="import-auto-idm381463776"><media id="import-auto-idm815345104" alt="">
+        <image mime-type="image/png" src="../../media/Picture 7-6df1.png" width="500" print-width="5in"/>
+      </media>
+    <caption>Proposed future relative oil production, in the USA and the rest of the world, influenced by EOR methods. Reproduced with permission from R. Al-Mjeni, S. Arora, P. Cherukupalli, J. van Wunnik, J. Edwards, B. J. Felber, O. Gurpinar, G. J. Hirasaki, C. A. Miller, and C. Jackson, <emphasis effect="italics">Oilfield Rev.</emphasis>, 2010, <emphasis effect="bold">2011</emphasis>, 4. Copyright: Schlumberger (2010). </caption></figure><para id="eip-731"><link target-id="import-auto-id376"/> estimates the oil reserves including light, heavy, and extra-heavy oil across the world. A significant portion of the oil is produced by Saudi Arabia (266.8 billion barrels of oil) and its Ghawar Field (the largest oil reserve in the world) which appear to be running out as a result of the high-pressure drop in the reservoir. Saudi Arabia produces approximately 10 million oil barrels per day, this means they can only produce oil for the next 73 years (i.e., their reserves will be completely used by 2090). Running out of oil is shocking news for the world's population while other alternative fuels and technologies such as hydrogen, wind, and solar cell are still being brought on-line at a scale to provide the increasing global energy demands. According to World Energy Outlook (WEO), using EOR programmes has led to estimated jumps of 5 million barrel per day by the year 2030. Therefore, the need for affordable technologies using current and new chemicals to extract more than 60% of the remaining oil is imperative. </para><figure id="import-auto-id376"><media id="dogpic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/eor image.PNG" width="550" print-width="5.5in"/>
+  </media>
+  
+<caption>Distribution of heavy and light oil reservoirs across worldwide. Copyright: US Energy Information Administration (2008). </caption></figure><para id="eip-58">The main heavy and recoverable oil reservoirs are located in North America (<link target-id="cute-dog123"/>). Hydraulic fracturing (HF) is the main recovery technique available to sweep heavy oil out of tight and shale reservoirs. HF technique creates a microstructure within the reservoir formation and leads to a marked improvement in the permeability. However, it should be noted the oil recovery factor by HF is currently ~8%, the main reason behind this figure is the lack of rock permeability (0.001 to 0.0001 mD) in shale and tight reserves. The rock permeability in shale reservoirs is 1000 times less than the value of conventional reservoir rock.</para>
+
+
+
+
+
+<figure id="cute-dog123"><media id="catpick" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/lkmjl.png" width="550" print-width="5.5in"/>
+  </media>
+  
+<caption>Distribution of tight, shale, and heavy oil reservoirs depicts the main highly viscous oil resources are currently in the USA, Canada, Venezuela, and Russia. (US Energy Information Administration, 2011)</caption></figure><para id="eip-722"><link target-id="cutejkhkjhk-dog"/> illustrates predicted global all-liquids production by 2035 across the world according to the International Energy Agency (IEA) report. The IEA reports anticipate a decrease in crude oil production per day by 42.4  million barrels from 2011 to 2035 in existing oilfields. However, it expects a slight decrease in total oil production due to adding and developing further undiscovered oil reserves. In general, IEA suggested no remarkable decline in oil production before 2035.
+
+</para><figure id="cutejkhkjhk-dog"><media id="dogpichgff" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/Capture.PNG" width="550" print-width="5.5in"/>
+  </media><caption>Predicted global petroleum production by 2035. Reproduced from R. G. Miller and S. R. Sorrell, <emphasis effect="italics">Philos. Trans. A Math. Phys. Eng. Sci.</emphasis>, 2014, <emphasis effect="bold">372</emphasis>, 20130301.  Copyright: The Authors Published by the Royal Society (2013). </caption></figure><para id="eip-934">Laboratory studies, as well as pilot experiments, have shown that polymer, surfactant, and nanoparticles are the most effective chemicals in the reservoirs for maximum oil recovery. Furthermore, some advantages, such as minimal scaling and emulsification, have recently come to fruition in simulated reservoirs. This demonstrates the potential for groundbreaking results within oil recovery via these synthetic novel chemicals.
+</para><section id="import-auto-idm729107328">
+      <title>Bibliography</title>
+      <list id="import-auto-idm813730448" list-type="bulleted"><item>S. M. Ali and S. Thomas, <emphasis effect="italics">J. Can. Pet. Tech.</emphasis>, 1996, <emphasis effect="bold">35</emphasis>, PETSOC-96-07-07. </item>
+
+<item>R. Al-Mjeni, S. Arora, P. Cherukupalli, J. van Wunnik, J. Edwards, B. J. Felber, O. Gurpinar, G. J. Hirasaki,  C. A. Miller, and C. Jackson, <emphasis effect="italics">Oilfield Rev.</emphasis>, 2010/2011, <emphasis effect="bold">22</emphasis>, 16. </item>
+
+<item>D. W. Green and G. P. Willhite, <emphasis effect="italics">Enhanced Oil Recovery</emphasis>, Henry L. Doherty Memorial Fund of AIME, Society of Petroleum Engineers, Richardson, Texas (1998).</item>
+
+
+        <item>L. He, F. Lin, X. Li, H. Sui, and Z. Xu, <emphasis effect="italics">Chem. Soc. Rev.</emphasis>, 2015, <emphasis effect="bold">44</emphasis>, 5446. </item>
+
+
+<item>S. Lago, H. Rodríguez, M. K. Khoshkbarchi, A. Soto, and A. Arce, <emphasis effect="italics">RSC Adv.</emphasis>, 2012, <emphasis effect="bold">2</emphasis>, 9392.</item>
+
+<item>A. Muggeridge, A. Cockin, K. Webb, H. Frampton, I. Collins, T. Moulds, and P. Salino, <emphasis effect="italics">Philos. T.  R. Soc. A</emphasis>, 2014, <emphasis effect="bold">372</emphasis>, 20120320. </item>
+
+        <item>R. G. Miller and S. R. Sorrell, <emphasis effect="italics">Philos. Trans. A Math. Phys. Eng. Sci.</emphasis>, 2014, <emphasis effect="bold">372</emphasis>, 20130301. </item>
+
+        <item>I. Sandrea and R. Sandrea, <emphasis effect="italics">Oil Gas J.</emphasis>, 2007, <emphasis effect="bold">105</emphasis>, 44. </item>
+
+        <item>S. Thomas, <emphasis effect="italics">Oil Gas Sci. Technol., Rev. IFP</emphasis>, 2008, <emphasis effect="bold">63</emphasis>,9. </item>
+
+        <item><emphasis effect="italics"> US Energy Information Administration (EIA)</emphasis>, 2008. </item>
+
+
+</list></section>
+  </content>
+</document>

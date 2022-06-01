@@ -1,0 +1,309 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Emerging technologies and future outlook</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m84182</md:content-id>
+  <md:title>Emerging technologies and future outlook</md:title>
+  <md:abstract/>
+  <md:uuid>bca7a3a6-d25a-436f-9cba-34a2b2415cc7</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm1027354752">
+      <title>Introduction</title>
+      <para id="import-auto-idm1003362800">The global demand for energy supply is increasing and few doubts remain that the world resources (renewable and fossil fuels) are adequately available. Because low efficiency and the high expense of renewable energy resources, currently their usage is not rational. And yet, for the world, the hydrocarbon resources remain as the main source of energy. However, most of the recoverable hydrocarbon resources have run out and using new technologies to recover ~70 % of remaining hydrocarbon is required. The best option, in reality, is using both conventional and unconventional resources including heavy and extra-heavy oil reserves, oil shale, tar sands, shale gas, tight gas, coal-bed methane, and natural-gas hydrates in the coming years. With the technical assistance of reservoir engineers, technologies will be increased and be performing within a few years (<link target-id="import-auto-idm1025264720 "/>). Currently, using low saline water, steam, miscible gas injection, polymer, and SAGD flooding process are being implemented in real reservoir environments. Given this, various technologies including smart water, acid gas injection, high-pressure air injection (HPAI), microbial, and foam must be developed over time.</para><figure id="import-auto-idm1025264720"><media id="import-auto-idm371355968" alt="">
+          <image mime-type="image/png" src="../../media/Picture 22.png" width="500" print-width="5in"/>
+        </media><caption>Summary of IOR/EOR technology which can be utilized in real condition of the oil reservoirs. Production curve of CBM, with volumes of methane and water production over time. Reproduced with permission from T. Babadagli, <emphasis effect="italics">J. Pet. Sci. Eng.</emphasis>, 2020, <emphasis effect="bold">188</emphasis>, 106930. Copyright: The Authors. Published by Elsevier (2020).</caption></figure></section>
+    <section id="import-auto-idm1311424240"><title>Medium and light oil reserves</title><section id="eip-313"><title>Low salinity waterflooding</title><para id="eip-333">Ionic water content in the reservoir formation poses a problem. Low salinity water flooding, as a smart EOR flooding, is a promising technology designed to modify injected brine solution according to the reservoir’s properties. The main goal of this method is changing the wettability of rock from an oil-wet to a water-wet state. Because water flooding can result in various types of formation damage (e.g., fluids-rock incompatibility, organic and inorganic precipitation, and pore plugging), using smart water technology, an advanced water flooding, is a blueprint for the future. However, according to data from the literature, in some cases, scaling issues arise in the reserves. The main reason for this phenomenon is the use of unsuitable EOR agents such as calcium carbonate when the temperature of oil formation rises and the rate of salt precipitation increases. Typically, sodium chloride (NaCl), sulphate (BaSO<sub>4</sub>, SrSO<sub>4</sub>, CaSO<sub>4</sub>), carbonate (CaCO<sub>3</sub>, FeCO<sub>3</sub>, BaCO<sub>3</sub>, SrCO<sub>3</sub>, MgCO<sub>3</sub>, ZnCO<sub>3</sub>, PbCO<sub>3</sub>), and sulphide (PbS, ZnS, FeS<sub>x</sub>) leads to scaling problems such as pore blocking and tubing flow restriction, especially in carbonate rocks. Basically, higher scaling tends to take place in the presence of heavy metals such as Ba<sup>2+</sup>, SO<sub>4</sub><sup>2-</sup>, BO<sub>3</sub><sup>3-</sup>, Sr<sup>2+</sup>, and PO<sub>4</sub><sup>3-</sup>. On the other hand, adding lauric acid (<link target-id="cute-dog"/>) and benzoic acid (<link target-id="cusdfvdeste-dog"/>),  to low saline water flooding increased fluid adsorption on surfaces due to the oil wetness characteristics as opposed to water-wet in oil reservoirs. All this means that using different salts to decrease strong chemical adsorption on the rock surface is extremely problematic.</para>
+
+
+
+
+
+
+
+
+
+<figure id="cute-dog"><media id="import-auto-idm3dsfv8872656" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-b874.png" width="300" print-width="3in"/>
+        </media>
+      <caption>Structure lauric acid.   </caption></figure>
+
+
+
+
+
+
+<figure id="cusdfvdeste-dog"><media id="import-auto-idm10sdcv26023488" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-0449.png" width="100" print-width="1in"/>
+        </media>
+      <caption>Structure of benzoic acid.   </caption></figure>
+
+
+
+
+
+<para id="import-auto-idm1026617056">Modified seawater formulation significantly changes the adsorption of oil molecules on the rock surface by breaking down strong chemical reactions. Phosphate and polyphosphate compounds such as sodium hexametaphosphate (SHMP) are promising additives in smart water which can reduce scaling problems at higher temperatures. However, the strong reaction of salts with water and rock surface generally occurs when sulphate being entered to the oil reserves. It was found that strong scaling tended to happen as a result of the precipitation and pore-blocking upon mixing with water.</para><para id="import-auto-idm1026984208">To prepare reservoirs for the next flooding with, for example, smart water such as smart water, engineers must optimise and assess the chemical interactions between the fluid-fluid and solid-fluid. Integrated methods such as low salinity waterflooding is an economical and environmentally friendly method which can be applied, providing good geological properties are there (<link target-id="import-auto-idm324746400"/>). Researchers, based on laboratory experiments, have realised the importance of multivalent cations (such as calcium and magnesium) for successful smart water flooding. They are now focusing on manipulating brines before each flooding to form a positive wettability alteration with lower adsorption on the rock surface. Before applying any smart water flooding, chemists aim to decrease the strong chemical interactions (e.g., carboxylic group) of polar oil on the rock. Therefore, finding optimal ionic strength can be a catalyst to decrease the strong adsorption between oil and rock surface. The different reactions of mono/divalent cations in water and on the carbonated rock (Chalk) was carried out using spontaneous imbibition experiments. While complex interactions between oil-water formed, the addition of a defined amount of water needed to decrease bonding. Coreflooding experiments on non-wet rock revealed a 3-5% surge in original oil in place (OOIP) and 16-21% after water and LoSal water flooding, respectively. Typically, low salinity water-flooding can be used in both carbonated and sandstone reservoirs such as the North Sea and Middle East oilfields. High oil recovery (26%) was obtained after flooding optimal saline water solution in the Endicott oilfield, Alaska by BP (British petroleum). In 2016, BP, ConocoPhillips, Chevron, and Shell will initiate the largest offshore low salinity waterflooding project Clair Ridge oilfield (in the North Sea). Clair Ridge is expected to produce more than 40 million barrels of additional oil at relatively low cost.</para>
+
+
+<figure id="import-auto-idm324746400"><media id="import-auto-idm1034531648" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-2161.png" width="800" print-width="5in"/>
+        </media>
+      <caption>Schematic of the low salinity waterflooding EOR. Reproduced with permission from Ayirala. S. S, Saleh. S. H, Yousef. A. A, <emphasis effect="italics">SPE Improved Oil Recovery Conference</emphasis>, 2016, <emphasis effect="bold"/>. Copyright: The Authors. Published by Elsevier (2016).</caption></figure>
+
+
+
+<section id="eip-711"><title>Would seawater flooding work instead?</title><para id="eip-203">The short answer is no. Seawater is a solution containing a large amount of divalent and monovalent cation and anions. It has already been confirmed that using seawater increases the binding energy between salt/oil/rock.  To use seawater safely, engineers need desalination equipment. A desalination unit performs as a membrane that is able to tune water chemistry. High oil recovery can be achieved if the optimal low salinity water flooding is there.  Polymers and other EOR additives are also able to be added to low brine solution to decrease the cost of EOR operations by recycling and desalting produced water. Therefore, a sharp increase in oil recovery (5-7%) is feasible by using the in-site desalination unit on seawater solution (under 5000 ppm brine). </para><para id="eip-745">Companies are working to build a highly efficient desalination unit using new technologies. Forward/reverse osmosis and membranes are the main methods proposed to improve desalination performance. On the other hand, some nanomaterials such as carbon nanotubes, graphene oxide, and metal nanoparticles (NPs) can potentially be used.</para></section>
+
+
+
+<section id="eip-134"><title>The mechanism of low salinity water flooding</title><para id="eip-850">LoSal water flooding mechanism is still an unanswered question. However, researchers mostly explain this as changing rock wetting properties which can be described by two theories: (a) multicomponent ion exchange (MIE), and (b) expansion of electrical double layer (DLE). The reservoir pH can be fine-tuned by flooding optimal low salinity. Typically, ionic exchange on the rock matrix sites is described by MIE theory. According to MIE theory, unfavourable cation adsorption takes place in the presence of Mg<sup>2+</sup> and Ca<sup>2+</sup> on the rock and decreases the oil liberation. According to MIE theory, polar organic and organometallic complexes can be removed from the surfaces and be replaced with other cation charges such as Na<sup>+</sup>. The main reason for oil liberation is the presence of weak Van der Waals interactions on a surface. In clay-based formations, cationic exchange mostly takes place via quaternary ammonium compounds or heterocyclic ring with metal cation’s on the clay. Low salinity water-flooding can remove the Ca<sup>2+</sup> and Mg<sup>2+</sup>, decrease residual oil saturation (5.6%-7.6%) in the Clair’s oilfield. Microscopic displacement efficiency improved by eliminating strong chemical bindings between brine-oil-rock, rock wettability alteration.</para><para id="eip-794">The most important reactions between rock surface-fluid in different scenarios are shown in <link target-id="import-auto-idm1003478576"/>. In LoSal injection, cation/ligand exchange and cation/water bridging will be greatly affected during low salinity.</para>
+
+<table id="import-auto-idm1003478576" summary="Mechanism of association organic functional groups-soil minerals">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <thead>
+            <row>
+              <entry>
+                <emphasis effect="bold">Mechanism</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Organic functional group involved</emphasis>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Cation exchange</entry>
+              <entry>Amino, ring NH, heterocyclic N (aromatic ring)</entry>
+            </row>
+            <row>
+              <entry>Protonation</entry>
+              <entry>Amino, heterocyclic N, carbonyl, carboxylate</entry>
+            </row>
+            <row>
+              <entry>Anion exchange</entry>
+              <entry>Carboxylate</entry>
+            </row>
+            <row>
+              <entry>Water bridging</entry>
+              <entry>Amino, carboxylate, carbonyl, alcoholic OH</entry>
+            </row>
+            <row>
+              <entry>Cation bridging</entry>
+              <entry>Amines, carboxylate, carbonyl, alcoholic OH</entry>
+            </row>
+            <row>
+              <entry>Ligand exchange</entry>
+              <entry>Carboxylate</entry>
+            </row>
+            <row>
+              <entry>Hydrogen bonding</entry>
+              <entry>Amino, carboxylate, carbonyl, phenolic OH</entry>
+            </row>
+            <row>
+              <entry>van der Waal interactions</entry>
+              <entry>Uncharged organic units</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Mechanism of association organic functional groups-soil minerals</caption>
+</table>
+
+
+</section>
+
+</section>
+
+
+
+<section id="eip-347"><title>Alkaline flooding</title><para id="eip-921">Alkaline flooding (caustic flooding) is an EOR method similar to low salinity water flooding. However, in this process only an alkaline solution such as NH<sub>3</sub>.H<sub>2</sub>O, NH<sub>4</sub>OH, Na<sub>2</sub>CO<sub>3</sub> and NaOH can be used.  Forming surfactant consists of alkaline interaction with oil. Therefore, the idea behind surfactant is decreasing IFT between oil and water which is an ideal scenario for oil recovery. Flooding alkaline solution in carbonated reservoirs is not recommended because it produces hydroxide precipitation and leads to the attachment of caustics, scaling, and finally pore plugging in carbonate rocks. This situation in the reservoir will occur in porous media when calcium and magnesium are in abundance. </para></section>
+
+<section id="eip-415"><title>NPs flooding</title><para id="eip-846">Research on the use of new technologies in oil recovery has continued. For a decade researcher focused on applying NPs as an agent inside the pores. The addition of NPs to rock alters the fluid-fluid and rock-fluid interfaces and improves wetting properties of rock to increase oil sweeping. NPs flooding might also be combined with surfactant and polymer flooding to increase oil relative permeability (rel-perm) and decrease water rel-perm. In this approach, water-cut would be decreased inside the pores and pore-throats. Moreover, it might be possible to employ as a catalyst at a higher temperature in highly viscous reserves using In-situ oil recovery approach. So that they make a reservoir an underground refinery which minimizes viscosities of heavy and extra-heavy oil e.g., shale or bitumen. W, Ni, and Mo oxides are possible choices to decrease viscosities of unconventional oil resources. TiO<sub>2</sub> nanofluid (0.01 wt. %) improve the rock wettability in the presence of heavy oil and lead to an increase of 49% in oil recovery after waterflooding. Researchers have explored adding –OH groups (on the NPs) which caused a decrease in chemical interactions between oil-rock and decrease NPs tendency to absorb on the rock substrate. </para><section id="eip-709"><title>NPs flooding obstacles</title><para id="eip-682">Traditional EOR methods (water, gas, steam, and polymer flooding) have been in use for a long time, but significant technical, operational and economic factors continue to limit their application. Several completely new technologies such as highly stable polymers, surfactants, and NPs have been developed to improve oil recovery. These additives have shown great effectiveness on EOR parameters, but they are, at present, not cost-effective in comparison to current EOR techniques. Developing the facile injection scenario based on NPs is an important approach for oil companies. A low-cost preparation method, eco-friendly precursor, mass-production scalable, and high stability based on the reservoir mediums are still mandatory to develop EOR procedures. Effective use of NPs across a wide range of EOR applications rely on particle stability through oil-pathways in inter-connected pores. Therefore, considerable research efforts have built stabilized NPs in the reservoir. Fine migration represents the best example of the issue. When the fine particles are highly precipitated in the reservoir, their interactions result in plugging of the pores and reducing rock permeability. </para></section></section></section><section id="import-auto-idm977841792"><title>Heavy and extra heavy oil reserves</title><section id="eip-512"><title>In-situ combustion</title><para id="eip-119">In-situ combustion is a mixture of fire with air or O<sub>2</sub> injection to generate heat in-place and higher temperatures to decrease fluid viscosity into the reservoir. In-situ combustion is divided into two subgroups: wet and dry combustion. If the water added to air makes an oil front zone in the vicinity of the wellbore, it is called <emphasis effect="italics">wet combustion</emphasis>. On the other hand, if only the air is utilized for ignition it is called <emphasis effect="italics">dry combustion</emphasis>. Understanding the continuous air injection mechanism aids the creation of a burning front zone and complete liquid sweeping toward the wellbore. Non-thermal methods are a potential route for light and moderate oil reservoirs (100-2000 cp) these methods are not appropriate for thermal injection. However, scientists have claimed using in-situ combustion leads to corrosion and generates toxic gasses in the reserves. </para><para id="eip-450">Researchers classified the trapped oil in reservoirs based on their viscosity. Light oil (API gravity &gt;22), the heavy (API gravity 10-20), and extra heavy (API gravity &lt;10).  are too viscous and do not have the mobility to flow through the porous media. The reason that oil is classified as a heavy and extra heavy is due to a considerable amount of sulphur, nitrogen, oxygen, and high C/H unit ratio.</para></section><section id="eip-816"><title>Bitumen recovery</title><para id="eip-476">Many efforts have been made to decrease the number of aromatics, resins, and asphaltenes in the reserves. Some applicable technologies such as cycle steam simulator (CSS), steam flooding, steam-assisted gravity drainage (SAGD), and in-situ combustion (ISC) work by breaking interactions between highly polar components, oil, and rock with decreasing oil viscosity. Bitumen extraction methods such as injecting steam and heat are effective in reducing viscosity. Researchers also have explored techniques using VAPEX, ES-SAGD, and SAGP to decrease heavy oil viscosity, but their applications thus far are not cost-effective. The presence of solvent gas (ethane, propane, and butane) with a carrier gas (N<sub>2</sub> or CO<sub>2</sub>) instead of steam, is called VAPEX. Combining low steam value (10%) with the solvent gas leads to a solvent expansion in the VAPEX; therefore, it is called expanding solvent SAGD (ES-SAGD). CH<sub>4</sub> or N<sub>2</sub> is injected with steam to push gas into SAGD, this is called steam and gas push (SAGP). The N<sub>2</sub> injection can be considered as a sweeping agent in the high-pressure reservoir, e.g., Cantarell field in Mexico as the largest N<sub>2</sub> injection in the world.</para><para id="eip-716">Moreover, ionic liquids (ILs) and organic solvents can be used to increase the amount of bitumen extraction in tar sands. Particle size, shape, surface area, sorption properties, and active surface sites are the main parameters in oil upgrading. Ultra-dispersed nanosized catalysts can be injected into the reservoir at minimal heat requirement owing to easily bitumen transportation via pipelines. Moreover, the effect of cerium oxide nanoparticles (CeO) has been investigated by catalytic cracking reaction and supercritical water in Canadian oil sand bitumen (<link target-id="cukjnte-dog"/>).</para>
+
+<figure id="cukjnte-dog"><media id="import-auto-idm1pokpo037798208" alt="">
+            <image mime-type="image/png" src="../../media/Picture 9-be6f.png" width="300" print-width="3in"/>
+          </media><caption>Schematic representation of in-situ upgrading with ultra-dispersed nanoparticles in sand oil. Reproduced with permission from R. Hashemi, N. N. Nassar, P. P. Almao, <emphasis effect="italics">Applied Energy</emphasis>, 2014, <emphasis effect="bold">133</emphasis>, 374-387.</caption></figure>
+
+</section>
+
+
+
+
+
+
+<section id="eip-654"><title>Desulfurization and emulsification</title><para id="eip-621">Desulfurization and emulsification can enhance the viscosity of heavy oil. Oil-oxidative desulfurization (ODS) method as a demulsification method can decrease the polarity of heavy oil components and upgrade oil for oil sands derived bitumen. ODS has been developed with oxidization of sulfur using Canadian Cold Lake bitumen. An emulsification method was deployed in the presence of polyvinyl alcohol (<link target-id="cufete-dog"/>) and evaluated the effect of surfactant molecular weight and degree of hydrolysis for reducing the viscosity of Canadian heavy oil.</para>
+
+
+<figure id="cufete-dog"><media id="imporkljlkt-auto-idm1002722256" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-6768.png" width="100" print-width="1in"/>
+        </media>
+      <caption>Structure of polyvinyl alcohol (PVA).</caption></figure>
+
+</section>
+
+
+
+
+
+
+<section id="eip-317"><title>Tar sand</title><para id="eip-147">Over previous decades, progress in the extraction of tar sand (<link target-id="cute-dfvfdog"/>) has emerged as the fastest-growing area around the world. Mostly, oil sand consists of sand-clay (86%), and bitumen-water (14%). In situ mining and surface, mining has been applied successfully to recover trapped oil in the oil sand. Currently, cycle steam simulator (CSS-steam), steam-assisted gravity drainage (SAGD-hot steam), and supercritical water (SCW) are methods that can recover bitumen from deep underground locations. However, specialist equipment should be used for the separation of approximately 90% bitumen from the rock. It exhibited many advantages for converting (upgrading) bitumen or heavy oil to lighter fractions (synthetic crude oil). It should be noted that adding hydrogen to higher components (hydrocracking) or carbon removing (coking) simplifies the process for obtaining valuable light fractions of oil. The importance of environmental footprints, CO<sub>2</sub> emissions, wastewater, and oil-sands infrastructure should be considered.  </para>
+
+<figure id="cute-dfvfdog"><media id="import-auto-idm1259rdffg128064" alt="">
+          <image mime-type="image/png" src="../../media/Image1.png" width="400" print-width="4in"/>
+        </media>
+      <caption>Oil sands on the banks of the Athabasca River (c. 1900 - 1930). (Library and Archives Canada)</caption></figure>
+
+
+</section>
+
+
+
+
+
+
+<section id="eip-309"><title>Shale oil</title><para id="eip-792">Shale oil is a class of mature oil. The majority of shale oil are kerogen (a solid polymer) and organic bitumen, which are located in low permeability formation at shallow depths. The conversion of kerogen to oil requires high temperatures in the absence of oxygen.</para><section id="eip-587"><title>Hydraulic fracturing</title><para id="eip-465">Hydraulic fracturing (or fracking) is the main method to boost shale oil production in low/ultralow permeability pores (ranging from 10 to hundred nanometers). Hydraulic fracturing consists of pumping a fluid into wells in order to increase pressure and produce fractures within the formation rock. To keep the fracture open after the injection stops, sand with high permeability is added to the fracture.  The schematic of fluid transport into the shale reservoir is shown in <link target-id="cufvte-dog"/>. </para>
+
+
+
+
+
+
+
+<figure id="cufvte-dog"><media id="import-autvfo-idm934738016" alt="">
+          <image mime-type="image/png" src="../../media/Picture 14.png" width="400" print-width="4in"/>
+        </media>
+      <caption>Hydrocarbon accumulation patterns in shale measures. Reproduced with permission from Caineng. Z, Zhi. Y, Jingwei. C, Rukai. Z, Lianhua. H, Shizhen. T, Xuanjun. Y, Songtao. W, Senhu. L, Lan. W, <emphasis effect="italics">Petrol. Explor. Dev.</emphasis>, 2013, <emphasis effect="bold">40</emphasis>, 15.
+</caption></figure>
+
+
+
+<para id="eip-531">Functionalised aluminate such as polymers/resin proppants, resin-coated sand, sintered bauxite and gel compositions are highly effective chemicals in keeping fractures open and suspend the functionalized aluminate structure. To combat high interfacial tension caused by adding aluminate components, linear/crosslinked guar gum (<link target-id="cfdvute-dog"/>), viscoelastic surfactants, and energized fluids (a large fraction of gas) can be used to reduce IFT and increase the fluid transport. “slickwater” is another approach by which adding a low concentration of polyacrylamide (<link target-id="cufvrdte-dog"/>) and linear gel (reducer) is carried out to control the conductivity damage through the fractures. The main focus of the materials used in hydraulic fracturing is developing a cost-effective and HPHT stable chemicals similar to guar gum and polyacrylamides.</para>
+
+
+
+<figure id="cfdvute-dog"><media id="import-auto-idm1310dsc295216" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10-426a.png" width="300" print-width="3in"/>
+        </media>
+      <caption>Structure of a guaran unit of guar gum.</caption></figure>
+
+
+
+
+
+<figure id="cufvrdte-dog">
+
+<media id="import-autfvfo-idm369609808" alt="">
+          <image mime-type="image/png" src="../../media/Picture 11-0788.png" width="150" print-width="1.5in"/>
+        </media>
+      <caption>Structure of polyacrylamide.</caption></figure>
+
+
+
+<para id="eip-763">Adding nanoparticle to shale reservoirs improve the viscoelasticity of injected fluid during a water loss. Recently, it was suggested that the silica nanofluids can be utilized as an agent in low permeability rocks (shale oil). The surface of silica NPs was modified with vinyltriethoxysilane (<link target-id="cutfve-dog"/>) and 2-mercaptobenzimidazole (<link target-id="cufdste-dog"/>). It showed good stability in different pH and NaCl concentrations, proper interface tension (IFT) and wettability alteration toward a water-wet state. </para>
+
+
+
+<figure id="cutfve-dog"><media id="import-auto-idmc357994672" alt="">
+          <image mime-type="image/png" src="../../media/Picture 12-24be.png" width="150" print-width="1.5in"/>
+        </media>
+      <caption>Structure of vinyltriethoxysilane.   </caption></figure>
+
+
+
+
+
+<figure id="cufdste-dog"><media id="import-auto-idmfvf1033025360" alt="">
+          <image mime-type="image/png" src="../../media/Picture 13-dbcb.png" width="150" print-width="1.5in"/>
+        </media>
+      <caption>Structure of 2-mercaptobenzimidazole.  </caption></figure>
+
+
+
+<para id="eip-45">Oil shale pyrolysis using a solid heat carrier (SHC) method is a useful technique in changing shale oil viscosity in a circulating fluidized bed (CFB). In SHC, shale would be refluxed by a heater inside the well. Based on this system, the oil will be boiled and vaporized through the shale reservoirs and consequently, extracted as light fractions of the surface as shown in <link target-id="cutfvfe-dog"/>. Researchers revealed using SHC led to the formation of lighter oil fractions via electrical heaters in vertically drilled wells. Inducing heat in the shale reservoir transformed lighter fractions of shale and high oil recovery after 2-3 years.  </para>
+
+
+
+<figure id="cutfvfe-dog"><media id="import-aufto-idm371107120" alt="">
+          <image mime-type="image/png" src="../../media/Picture 16.png" width="300" print-width="3in"/>
+        </media>
+      <caption>Schematic representation of refluxing oil in oil shale formation. Reproduced with permission from Burnham. A. K, Day. R. L, Hardy. M. P, Wallman. P. H, <emphasis effect="italics">Oil Shale: A Solution to the Liquid Fuel Dilemma</emphasis>, Ed. O. I. Ogunsola, A. M. Hartstein, and O. Ogunsola, Oxford University Press: Oxford (2010).  </caption>
+</figure>
+
+
+
+
+
+</section>
+</section>
+
+<section id="eip-411"><title>Tight gas</title><para id="eip-324">The production of natural gas from low permeability mediums (below 0.1 mD) in tight rock is called tight gas. Moreover, gas production from shale formation is called shale gas. In recent years, gas production from the tight reservoirs has drastically increased. Vertical wells are not suitable for gas extraction because they are unsuitable in low permeable reservoirs. For this reason, the horizontal wells are a good choice to increase the amount of gas recovery. Production of tight and shale gas requires hydraulic fracturing or horizontal wells. Horizontal wells provide higher contact with deposit shale compared to vertical wells and enables effective gas transfer. Today’s technology is only suitable for onshore production and offers a maximum recovery rate of 20% of the volume in place.</para><para id="eip-139">In coal deposits, significant amounts of methane-rich gas are generated and stored within the coal structure. The gas is normally released during mining, although more recent research aimed to capture more gas. This process is applied not only for economic exploitation, but also safety and environmental reasons. Coal-bed methane (CBM), however, is typically methane gas trapped within coal deposits that are not profitable for extraction due to high depths or poor coal quality. Coal beds have low permeability that reduces with increasing depth. Therefore, hydraulic fracturing and/ or horizontal wells are required ease the fluid to flow through a well. Because of the pressure, water permeates into coal and traps the gas. It is then extracted again thus reducing the pressure and enabling methane to flow out of the coal through the well. <link target-id="import-auto-idm345957472"/> shows a typical production curve of CBM, with volumes of methane and water production over time. In the first phase, a large amount of contaminated water is produced, which is usually re-injected into the formations. Today’s research efforts aim to develop techniques based on CO<sub>2</sub> injections into coal bed formations to enhance methane production. The easy CO<sub>2</sub> adsorption of coal helps release methane and offers significant potential for CO<sub>2</sub> geological storage and reduction of CO<sub>2</sub> in the atmosphere.</para>
+
+
+
+<figure id="cutsdve-dog"><media id="import-auto-idm3420dv11968" alt="">
+          <image mime-type="image/png" src="../../media/coalbed methane.PNG" width="500" print-width="3in"/>
+        </media><caption>Production curve of CBM, with volumes of methane and water production over time. Reproduced with permission from Ritter. D, Vinson. D, Barnhart. E, Akob. D. M, Fields. M. W, Cunningham. A. B, Orem. W, McIntosh. J. C, <emphasis effect="italics">Int. J. Coal Geo.</emphasis>, 2015, <emphasis effect="bold">146</emphasis>, 28-41. Copyright: The Authors. Published by Elsevier (2015).   </caption></figure>
+
+
+
+<para id="eip-104">The swelling of smectite clays in the inter burden rock layers of coal seam gas wells results in spalling of fine particles that may negatively impact gas production through damage to the well's pump and/or the permeability of the coal layers. One cause of the clay swelling is the change in water chemistry at the wellbore location due to drilling fluids and the influx of produced water. The method used to mitigate the swelling of smectite clays in oil and gas reservoirs is to stabilize the clay using a brine such as 4% KCl, although this technology is relatively low cost and initially effective, the mitigation of clay swelling is temporary because K<sup>+</sup> ions are easily washed off the clay when the well is brought into production. An alternative approach recently reported is the use of nanoparticles and nanofluids to control clay swelling.</para><para id="eip-381">Five commercially available NPs (SiO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub>, ZnO, Fe<sub>2</sub>O<sub>3,</sub> and ZrO<sub>2</sub>) have been evaluated for the prevention of swelling of natural bentonite clay, rich in sodium montmorillonite ((Na,Ca)<sub>0.33</sub>(Al,Mg)<sub>2</sub>(Si<sub>4</sub>O<sub>10</sub>)(OH)<sub>2</sub>·nH<sub>2</sub>O). The effectiveness of the nanoparticles to prevent clay swelling was measured with a visual swelling index method based on ASTM D5890-11 and compared to the swelling of the clay in 4% KCl brine. In the initial nanoparticle screening tests performed in distilled water, all the NPs except for the ZnO exhibited some potential to mitigate the swelling of bentonite. The next stage of screening experiments was performed in model formation water solutions containing 2500 mg /L and 9000 mg/L of Na ions at pHs of 5 and 9. In the model formation water tests, the SiO<sub>2</sub> was the most effective nanoparticle to mitigate clay swelling across the range of conditions examined. These results suggest NPs may be a potential solution to mitigate clay swelling and spalling in coal seam gas reservoirs as well as other types of reservoirs. Further research is required to elucidate the mechanism of swelling inhibition with SiO<sub>2</sub> NPs and to develop practical methods to deploy NPs into a coal seam gas (CSG) well.</para></section>
+
+
+
+<section id="eip-510"><title>Natural-gas hydrates</title><para id="eip-262">Natural-gas hydrates (also known as methane clathrates) are crystalline materials in which gas molecules are surrounded by a lattice of water molecules. They are formed by water and natural gas (methane) at high pressures and low temperatures. In such conditions, they are stable and only dissociate very slowly. At present, within the oil and gas industry, natural gas hydrates are seen as a problem rather than as a resource. Formation of “snow-like” hydrates can damage oil and gas pipelines and cause problems in drilling pipes. However, the vast potential of gas trapped within hydrates offers a large resource.</para><para id="eip-48">Three basic methods exist for gas hydrate exploitation as an energy resource: depressurisation, thermal injection and inhibitor injection. In some cases, hydrates are located above gas reservoirs and dissociate as the production from natural gas reduces the underground pressure. Depressurisation is, therefore, the easiest method to extract hydrates but does come with a few technical challenges. However, well depressurisation does not necessarily reduce the pressure of the entire hydrate layer. Thermal injection techniques involve the injection of steam or hot water into the well to decompose the hydrates and thus generate the gas. One challenge in this process is that hydrates are often found at deep locations and injected fluids are cooled before reaching the hydrate layer. Inhibitor injection techniques are used to collapse the crystalline hydrate in offshore natural-gas pipelines to prevent hydrate formation. Inhibitors such as methanol dissolve methane from the hydrate, and the gas is released.</para><para id="eip-997">The average hydrate composition is 1 mole of CH<sub>4</sub> for every 5.75 moles of H<sub>2</sub>O (i.e., 4CH<sub>4</sub>·23H<sub>2</sub>O), though this is dependent on how many methane molecules "fit" into the various cage structures of the water lattice. The observed density is around 0.9 g/cm<sup>3</sup>. One volume of methane hydrate solid would, therefore, contain, on average, 168 volumes of CH<sub>4</sub> gas.</para></section>
+
+</section><section id="import-auto-idm371179664">
+      <title>Bibliography</title>
+      <list id="import-auto-idm943165856" list-type="bulleted"><item>Abdulbaki. M, Huh. C, Sepehrnoori. K, Delshad. M, Varavei. A, <emphasis effect="italics">J. Petrol. Sci. Eng.</emphasis>, 2014, <emphasis effect="bold">122</emphasis>, 741. </item>
+        <item>Ayirala. S. S, Saleh. S. H, Yousef. A. A, <emphasis effect="italics">SPE Improved Oil Recovery Conference</emphasis>, 2016, <emphasis effect="bold"/>. </item> 
+        <item>Akhtarmanesh. S, Shahrabi. M. A, Atashnezhad. A, <emphasis effect="italics">J. Petrol. Sci. Eng.</emphasis>, 2013, <emphasis effect="bold">112</emphasis>, 290. </item>
+        <item>Almao. P. P, <emphasis effect="italics">Can. J. Chem. Eng.</emphasis>, 2012, <emphasis effect="bold">90</emphasis>, 320. </item>
+        <item>Al-Murayri. M. T, Maini. B. B, Harding. T. G, Oskouei. J, <emphasis effect="italics">Energy Fuels</emphasis>, 2016, <emphasis effect="bold">30</emphasis>, 2604. </item>
+        <item>Alvarado. V, Manrique. E, <emphasis effect="italics">Energies</emphasis>, 2010, <emphasis effect="bold">3</emphasis>, 1529. </item>
+        <item>Austad. T, Shariatpanahi. S. F, Strand. S, Aksulu. H, Puntervold. T, <emphasis effect="italics">Energy Fuels</emphasis>, 2015, <emphasis effect="bold">29</emphasis>, 6903. </item>
+        <item>Babadagli. T, <emphasis effect="italics">J. Pet. Sci. Eng.</emphasis>, 2020, <emphasis effect="bold">188</emphasis>, 106930. </item>
+        <item>Bhatia. K. H, Chacko. L. P, <emphasis effect="italics">Society of Petroleum Engineers, Brasil Offshore, Macaé, Brazil, 2011</emphasis>, SPE-143159-MS. </item>
+        <item>Brandt. A. R, <emphasis effect="italics">Environ. Sci. Technol.</emphasis>, 2008, <emphasis effect="bold">42</emphasis>, 7489. </item>
+        <item>Burnham. A. K, Day. R. L, Hardy. M. P, Wallman. P. H, <emphasis effect="italics">Oil Shale: A Solution to the Liquid Fuel Dilemma</emphasis>, Ed. O. I. Ogunsola, A. M. Hartstein, and O. Ogunsola, Oxford University Press: Oxford (2010). </item>
+        <item>Caineng. Z, Zhi. Y, Jingwei. C, Rukai. Z, Lianhua. H, Shizhen. T, Xuanjun. Y, Songtao. W, Senhu. L, Lan. W, <emphasis effect="italics">Petrol. Explor. Dev.</emphasis>, 2013, <emphasis effect="bold">40</emphasis>, 15. </item>
+        <item>Caputo. G, Nobile. C, Kipp. T, Blasi. L, Grillo. V, Carlino. E, Manna. L, Cingolani. R, Cozzoli. P. D, Athanassiou. A, <emphasis effect="italics">J. Phys. Chem. C</emphasis>, 2008, <emphasis effect="bold">112</emphasis>, 701. </item>
+        <item>Cheraghian. G, Hemmati. M, Masihi. M, Bazgir. S, <emphasis effect="italics">J. Nanostructure Chem.</emphasis>, 2013, <emphasis effect="bold">3</emphasis>, 78.</item>
+        <item>Cohen-Tanugi. D, Grossman. J. C, <emphasis effect="italics">Nano letters</emphasis>, 2012, <emphasis effect="bold">12</emphasis>, 3602. </item>
+        <item>Dong. M, Liu. Q, Li. A, <emphasis effect="italics">Particuology</emphasis>, 2012, <emphasis effect="bold">10</emphasis>, 298.</item>
+        <item>Duan. M, Ma. Y, Fang. S, Shi. P, Zhang. J, Jing. B, <emphasis effect="italics">Sep. Purif. Technol.</emphasis>, 2014, <emphasis effect="bold">133</emphasis>, 160. </item>
+        <item>Ehtesabi. H, Ahadian. M. M, Taghikhani. V, Ghazanfari. M. H, <emphasis effect="italics">Energy Fuels</emphasis>, 2013, <emphasis effect="bold">28</emphasis>, 423. </item>
+        <item>Fathi. S. J, Austad. T, Strand. S, <emphasis effect="italics">Energy Fuels</emphasis>, 2010, <emphasis effect="bold">24</emphasis>, 2514. </item>
+        <item>Flury. C, Afacan. A, Tamiz Bakhtiari. M, Sjoblom. J, Xu. Z, <emphasis effect="italics">Energy Fuels</emphasis>, 2013, <emphasis effect="bold">28</emphasis>, 431. </item>
+        <item>Gomez. V, Alexander. S, Barron. A. R, <emphasis effect="italics">Colloids Surf. A</emphasis>, 2017, <emphasis effect="bold">513</emphasis>, 297. </item>
+        <item>Jafarnezhad. M, Giri. M. S, Alizadeh. M, <emphasis effect="italics">Energ. Source. Part A</emphasis>, 2017, <emphasis effect="bold">39</emphasis>, 121. </item>
+        <item>Kokal. S, Al-Kaabi. A, <emphasis effect="italics"> World Petroleum Council- Official Publication </emphasis>, 2010, <emphasis effect="bold">64</emphasis></item>
+        <item>Martínez-Palou. R, de Lourdes Mosqueira. M, Zapata-Rendón. B, Mar-Juárez. E, Bernal-Huicochea. C, de la Cruz Clavel-López. J, Aburto. J, <emphasis effect="italics">J. Petrol. Sci. Eng.</emphasis>, 2011, <emphasis effect="bold">75</emphasis>, 274. </item>
+        <item>Hashemi. R, Nassar. N. N, Pereira-Almao. P, <emphasis effect="italics">Energy Fuels</emphasis>, 2013, <emphasis effect="bold">27</emphasis>, 2194. </item>
+        <item>Hosseini. Z, Taghavinia. N, Sharifi. N, Chavoshi. M, Rahman. M, <emphasis effect="italics">J. Phys. Chem. C</emphasis>, 2008, <emphasis effect="bold">112</emphasis>, 18686. </item>
+        <item>Li. S, Li. Z, Lu. T, Li. B, <emphasis effect="italics">Energy Fuels</emphasis>, 2012, <emphasis effect="bold">26</emphasis>, 6332. </item>
+        <item>Li. K, Hou. B, Wang. L, Cui. Y, <emphasis effect="italics">Nano Lett.</emphasis>, 2014, <emphasis effect="bold">14</emphasis>, 3002. </item>
+        <item>Mahani. H, Keya. A. L, Berg. S, Bartels. W.-B, Nasralla. R, Rossen. W. R, <emphasis effect="italics">Energy Fuels</emphasis>, 2015, <emphasis effect="bold">29</emphasis>, 1352. </item>
+        <item>Nassar. N. N, Husein. M. M, Pereira-Almao. P, <emphasis effect="italics">Exploration and Production: Oil and Gas Review</emphasis>, 2011, <emphasis effect="bold">9</emphasis>, 46. </item>
+        <item>Nguyen. D Balsamo. V, <emphasis effect="italics">Energy Fuels</emphasis>, 2013, <emphasis effect="bold">27</emphasis>, 1736. </item>
+        <item>Painter. P, Williams. P, Mannebach. E, <emphasis effect="italics">Energy Fuels</emphasis>, 2009, <emphasis effect="bold">24</emphasis>, 1094. </item>
+        <item>Patel. A, Goh. C, Towler. B, Rudolph. V, Rufford. T. E, <emphasis effect="italics">International Petroleum Technology Conference, Bangkok, Thailand, </emphasis>2016, IPTC-18713-MS. </item>
+        <item>Pei. H, Zhang. G, Ge. J, Tang. M, Zheng. Y, <emphasis effect="italics">Energy Fuels</emphasis>, 2012, <emphasis effect="bold">26</emphasis>, 2911. </item>
+        <item>Peluso. E, <emphasis effect="italics">Energy Fuels</emphasis>, 2011, <emphasis effect="bold">2011</emphasis>. </item>
+        <item>Prince. J, Bhuvana. S, Anbharasi. V, Ayyanar. N, Boodhoo. K, Singh. G, <emphasis effect="italics">Sci. Reports</emphasis>, 2014, <emphasis effect="bold">4</emphasis>, 6555. </item>
+        <item>Puntervold. T, Strand. S, Austad. T, <emphasis effect="italics">Energy Fuels</emphasis>, 2007, <emphasis effect="bold">21</emphasis>, 3425. </item>
+        <item>Ritter. D, Vinson. D, Barnhart. E, Akob. D. M, Fields. M. W, Cunningham. A. B, Orem. W, McIntosh. J. C, <emphasis effect="italics">Int. J. Coal Geo.</emphasis>, 2015, <emphasis effect="bold">146</emphasis>, 28–41. </item>
+        <item>Shariatpanahi. S. F, Hopkins. P, Aksulu. H, Strand. S, Puntervold. T, Austad. T, <emphasis effect="italics">Energy Fuels</emphasis>, 2016, <emphasis effect="bold">30</emphasis>, 180. </item>
+        <item>Shariatpanahi. S. F, Strand. S, Austad. T, <emphasis effect="italics">Energy Fuels</emphasis>, 2011, <emphasis effect="bold">25</emphasis>, 3021. </item>
+        <item>Sheng. J, <emphasis effect="italics">Enhanced oil recovery field case studies</emphasis>, Gulf Professional Publishing (2013). </item>
+        <item>Shirtcliffe. N. J, McHale. G, Newton. M. I, Perry. C. C, Roach. P, <emphasis effect="italics">Chem. Commun.</emphasis>, 2005, 3135. </item>
+        <item>Sohal. M. A, Thyne. G, Søgaard. E. G, <emphasis effect="italics">Energy Fuels</emphasis>, 2016, <emphasis effect="bold">30</emphasis>, 1904. </item>
+        <item>Trabelsi. S, Argillier. J.-F. O, Dalmazzone. C, Hutin. A, Bazin. B, Langevin. D, <emphasis effect="italics">Energy Fuels</emphasis>, 2011, <emphasis effect="bold">25</emphasis>, 1681. </item>
+        <item>Wang. J, Liu. G, Wang. L, Li. C, Xu. J, Sun. D, <emphasis effect="italics">Colloids Surf. A</emphasis>, 2010, <emphasis effect="bold">353</emphasis>, 117</item>
+        <item>Xiao. B, Jiang. T, Zhang. S, <emphasis effect="italics">J. Energy Resour. Technol</emphasis>., 2016, <emphasis effect="bold">139</emphasis>, 022906. </item>
+        <item>Yadali Jamaloei. B, Dong. M, Mahinpey. N, Maini. B. B, <emphasis effect="italics">Energy Fuels</emphasis>, 2012, <emphasis effect="bold">26</emphasis>, 2865. </item>
+        <item>Yahya. N, M. Kashif. M, Nasir. N, Akhtar. M. N, Yusof. N. M, <emphasis effect="italics">J. Nano Res.</emphasis>, 2012, <emphasis effect="bold">17</emphasis>, 115.</item>
+        <item>Zhang. Z, Yang. X, Jia. H, Zhang. H, <emphasis effect="italics">Energy Fuels</emphasis>, 2016, <emphasis effect="bold">30</emphasis>, 2841. </item>
+      </list></section>
+  </content>
+</document>

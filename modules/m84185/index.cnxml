@@ -1,0 +1,223 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Surfactant enhanced oil recovery</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m84185</md:content-id>
+  <md:title>Surfactant enhanced oil recovery</md:title>
+  <md:abstract/>
+  <md:uuid>18df2c07-cf79-4424-82a0-2624eda01d5a</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-836"><title>Introduction</title><para id="eip-559">Surfactants are amphiphilic organic molecules which are widely used in many practical applications such as cosmetics, biological systems and petroleum processing. Increasing the flow rate of trapped oil in a reservoir lies at the centre of all EOR methods. Surfactant is an efficient chemical to use when a very high oil recovery. Leading surfactants currently in the oil reservoirs include cationic, anionic, non-ionic, bio-surfactant, and zwitterionic (<link target-id="cute-dog"/>). However, there are certain drawbacks associated with the use of surfactant through the oil reservoirs. These main drawbacks lie with the chemical interactions between the fluids and rock. In this chapter, criteria for choosing the best surfactants in the oil recovery process are considered.</para>
+
+
+
+<figure id="cute-dog"><media id="dogpsdvdsferic" alt="A dog svdfsitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/surfactan types.PNG" width="500" print-width="5in"/>
+        </media>
+<caption>Molecular structure and classification of various surfactant molecules. Reproduced with permission from Y. Nakama, <emphasis effect="italics">Cosm. Sci. Tech.</emphasis>, 2017, <emphasis effect="bold">15</emphasis>, 231-244. Copyright: The Authors. Published by the Elsevier (2017).</caption></figure>
+
+</section><section id="eip-498"><title>Surfactant classification</title><section id="eip-949"><title>What makes an exceptional changes at the surface/interface?</title><para id="eip-826">In Greek <emphasis effect="italics"> amphi </emphasis> means “from both sides” and <emphasis effect="italics"> phile </emphasis> expresses “affinity”. Therefore, an amphiphilic compound depicts a double affinity of a chemical which has polar-apolar duality. A typical surfactant molecule includes a polar head and a non-polar tail. The main polar head groups are alcohol, acid, ester, phosphate, thiol, ether, sulfate, sulfonate, amine, and amide and a surfactant tail is an array of hydrocarbon chain including alkyl, alkylbenzene, a halogen atom, or sometimes with nonionized oxygen atoms. The polar part shows a high affinity for polar solvents such as water (hydrophilic) and an apolar part which displays a strong affinity to less polar solvents (hydrophobic or lipophilic) (<link target-id="cute-dog"/>).
+As a result of its dual affinity, the surfactant molecule is inefficient in any polar or non-polar solvent. Therefore, the reason that surfactant molecules tends to migrate to the surface/interface is due to the orientation of the polar head group in solvents such as water and the apolar group in oil. As a result of the new arrangement of surfactants at the interfaces, the surface tension decreases. Reducing surface tension using surfactant is the basis of its applicability in detergent, wetting agent, soap, foaming agent, corrosion inhibitor, and antistatic agent. Surfactants are mainly categorized into three particular groups according to the charge of the head group: anionic, nonionic, and cationic (<link target-id="cute-dog"/>).</para>
+
+
+
+<para id="eip-365">Anionic surfactants are often considered as “the common” class of applicable amphiphiles (50% of total surfactant production). They are mainly synthesized from a number of amphiphilic anions and alkaline metal (Na+, K+) or quaternary ammonium. The anion in the head group can be changed for an array of negatively charged substances,  creating wetting agents (di-alkyl sulfosuccinates), foaming agent (lauryl sulfates), detergent (alkylbenzene sulfonates), soaps(fatty acids), dispersants (lignosulfonates)and so on. Anionic surfactants are used frequently through the oil wells as a wetting agent to lift and suspend oil droplets in micelles. (<link target-id="eip-231"/>). In sandstone reservoirs, using anionic surfactant has been recognized as a cost-effective chemical with lower micelle adsorption. Various types of amphiphilic head groups such as sulfonate (R-SO<sub>3</sub>-), phosphate (R-O-[PO<sub>4</sub>]<sub>3</sub>-), sulfate (R-O-SO<sub>3</sub>-), and carboxylate (R-CO<sub>2</sub>-) can be used in EOR process. The sulfonate group has been displayed to enhance the thermal stability of the surfactant at reservoir temperature (60 - 200 °C), as well as reducing the interfacial tension (IFT), altering the rock wettability, and having a lower tendency to adsorb on the surface of sandstone reservoirs. In contrast, phosphate and sulfated groups have been shown to give low IFTs and have better performance at lower temperatures, while carboxylated groups have been developed to improve the surfactant stability at high temperatures and high salinity.</para><para id="eip-125">Cationic surfactants are composed of an amphiphilic cation and anions such as halogen elements (e.g., Cl, Br). A major portion of the cationic head group is nitrogen compounds like fatty amine salts and quaternary ammoniums, while often one or more long chains of the alkyls are available as a tail. However, the synthesizing of anionic are much more cost-effective than cationic surfactants due to the high-pressure hydrogenation reaction which occurs during the synthesis. Various literature proposes the use of cationic surfactant as a good candidate in order to get obtain higher oil recoveries in a carbonated reservoir. The main reasons for using cationic surfactants in a carbonated reservoir are their higher stability, lower chemical interaction with rock substrate, and higher thermal stability (up to 100 C).
+
+A nonionic surfactant is formed during the polycondensation reaction of a polyethene glycol chain with the hydrophilic group such as alcohol, phenol, ether, ester, or amide. Once in contact with an aqueous solution, it does not ionize due to its hydrophilic group which is a nondissociable group. The most commonly used nonionic surfactants in the market are sugar-based (glucoside) head groups with very low toxicity. 
+
+Designing nonionic surfactants with the ethoxy group and Poly (Ethylene/Propylene) glycol ether makes them highly stabilized and thermally stable in high salinity, respectively.
+
+A zwitterionic or amphoteric molecule is a single surfactant molecule which holds simultaneously both anionic and cationic charges on its hydrophilic head group and carries a hydrophobic tail. The main properties of these structures are their low toxicity, high stability in hard water, antibacterial properties, and high compatibility with different types of surfactants.</para><table id="eip-231" summary="Applicable surfactant in the oilfields.">
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><emphasis effect="bold">Surfactant type</emphasis></entry>
+    <entry><emphasis effect="bold">Advantages</emphasis></entry>
+  </row>
+  <row>
+    <entry>Anionic</entry>
+    <entry>IFT reduction, espcially applicable for sandstone resrvoirs</entry>
+  </row>
+  <row>
+    <entry>Cationic</entry>
+    <entry>IFT reduction, Highly stabilize in harsh condition and applicable for carbonated resrvoirs</entry>
+  </row>
+  <row>
+    <entry>Nonionic</entry>
+    <entry>IFT reduction, Highly applicable in harsh reservoir condition</entry>
+  </row>
+  <row>
+    <entry>zwitterionic</entry>
+    <entry>IFT reduction, improve wettability alteration, Highly stabilize in High pressure high temperature (HPHT), suitable surfactant foam stabilizer</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+
+
+
+</tgroup><caption>Applicable surfactant in the oilfields.</caption>
+</table><section id="eip-203"><title>What makes an exceptional oil displacement?</title><para id="eip-396">Typically, the residual oil saturation will be within a range of 20–30% OOIP upon contacting 100% of the given oil zone via water flooding. The oil is immobile at in this saturation range due to the surface tension between oil and water. Also, the additional pressure alone cannot overcome the high capillary pressure in order to move oil out from pores. In general, surfactant leads to changes in the boundary condition of the interfaces. In general, surfactants have the lowest surface tension between surface and interfaces, amongst other materials. (<link target-id="cutsdfdree-dog"/>) However, the surfactants can reduce the interfacial tension, thereby decreasing capillary pressure and allowing water to remove the trapped oil as a result of the water bypass. Furthermore, a surfactant can encourage the wettability of the reservoir as well as causing the attached oil film to lift away from the pore wall, thus decreasing residual oil saturation and enhancing oil recovery (<link target-id="cutsdfewre-dog"/>).</para>
+
+
+
+<figure id="cutsdfdree-dog"><media id="dogpferic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/oilrecovery.png" width="500" print-width="5in"/>
+        </media>
+      <caption>Decreasing and increasing interfacial tension (IFT). Synthesis and physiochemical characterization of zwitterionic surfactant for application in enhanced oil recovery. Adopted with permission from A. Kumar and A. Mandal, <emphasis effect="italics"> J. Mol. Liq.</emphasis>, 2017, <emphasis effect="bold">243</emphasis>, 61.  Copyright: Elsevier (2017). </caption></figure><para id="eip-317">General principles of a surfactant molecule are decreasing IFT and changing the wetting properties of a substrate (<link target-id="cutsdfdree-dog"/>) and shifting reservoir wettability towards strongly water-wets (<link target-id="cutsdfewre-dog"/>). However, without knowing the reservoir conditions such as pressure, temperature, salinity, and rock geology, the reservoir will face unfavourable chemical reactions and blockages of pores.</para>
+
+
+
+<figure id="cutsdfewre-dog"><media id="dogwefdspic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/wettability alteration.png" width="600" print-width="5in"/>
+        </media>
+      
+<caption>Proposed schematic of wettability alteration with (a) a non-ionic nonylphenol ethoxylate (C15H23(OCH2CH2)n) surfactant and (b) a cationic Cetyltrimethylammonium bromide (CTAB,C19H42BrN) surfactant. Reproduced with permission from A. Telmadarreie and J. J. Trivedi, <emphasis effect="italics">SPE J.</emphasis>, 2016, <emphasis effect="bold">21</emphasis>, 5. Copyright: The Authors. Published by the Society of Petroleum Engineers (2016). </caption></figure>
+
+
+
+
+
+<para id="eip-206">Asphaltene is recognized as the ‘cholesterol’ of crude oil within oil reservoirs. This supramolecular hydrocarbon component of crude oil comprises of polycyclic aromatic hydrocarbon (PAH) and acidic compounds. Currently, many reservoirs across the world are highly viscous and the presence of asphaltene is leading to a high deposition of oil droplets on the rock surface and causing a significant decrease in the reservoir fluid pressure. In order to alleviate asphaltene aggregation, surfactant molecules can be added to increase its solubility. <link target-id="cutesdfds-dog"/> The hyperbranched chains on the tail of low surface energy surfactants (LSES) causes a lowering of surface free energy and rock wettability alteration, offering significant improvement in oil recovery in asphaltene oil reservoirs. Kiani et al. reported adding hyperbranched LSES yielded a significant increase in the original-oil-in-place (OOIP) recovery (58%) relative to brine flooding (25%), even in the presence of asphaltene.</para>
+
+
+
+<figure id="cutesdfds-dog"><media id="dogpcvdfic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/wettability of asphaltene aggregates.PNG" width="450" print-width="5in"/>
+        </media>
+      <caption>Wettability alteration in heavy oil reservoirs. Proposed interactions between rock, asphaltene, and surfactant molecules. Reproduced with permission from F. Hajibagheri, M. Lashkarbolooki, S. Ayatollahi, and A. Hashemi, <emphasis effect="italics">Colloid. Surf. A: Phys. Eng. Asp. </emphasis>, 2017, <emphasis effect="bold">513</emphasis>, 422. Copyright: The Authors. Published by Elsevier (2017). </caption></figure>
+
+
+
+
+
+
+
+</section>
+
+
+
+</section>
+
+<section id="eip-822"><title>Main factors in a successful surfactant flooding: IFT</title><para id="eip-820">The term IFT is typically associated with the molecular forces that exist at the interface between two immiscible fluids. The binding energy of two immiscible fluids are largely changed by the addition of surfactant leading to a decrease in the IFT value (<link target-id="cutsdfdree-dog"/>). Besides, decreasing IFT leads to an increase in capillary forces amongst the pore spaces and causes significant oil recovery.</para>
+
+
+
+<section id="eip-481"><title>Main factors in a successful surfactant flooding: IFT</title><para id="eip-617">The term IFT is typically associated with the molecular forces that exist at the interface between two immiscible fluids. The binding energy of two immiscible fluids are largely changed by the addition of surfactant leading to a decrease in the IFT value (<link target-id="cutsdfdree-dog"/>). Besides, decreasing IFT leads to an increase in capillary forces amongst the pore spaces and causes significant oil recovery.</para></section><section id="eip-218"><title>Temperature</title><para id="eip-3">
+Surfactant molecules are temperature-based compounds which, affects their performance in various applications. Both critical micelle concentration (CMC) and IFT are changed by temperature. Hydrophilic-lipophilic balance (HLB), cloud point, and Krafft point are three common indicators used when designing a surfactant in a particular application such as EOR. Hydrophilic-lipophilic balance (HLB) is the balance between the hydrophilic and the lipophilic group's capacity. According to the HLB scale range (0-20) surfactants can be used in various applications such as W/O emulsion (3.5-6) (<link target-id="cute-sdfvfvdog"/>).
+</para><figure id="cute-sdfvfvdog"><media id="dodflkxfvdmlkfgpic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/HLB.PNG" width="350" print-width="4in"/>
+        </media>
+      
+<caption>HLB scale range for choosing proper surfactant in different applications. Reproduced with permission from Y. Nakama, <emphasis effect="italics">Cosm. Sci. Tech.</emphasis>, 2017, <emphasis effect="bold">15</emphasis>, 231-244. Copyright: The Authors. Published by the Elsevier (2017).</caption></figure>
+
+
+
+
+</section>
+
+<section id="eip-246"><title>Cloud point</title><para id="eip-384">
+The temperature that surfactant separation occurs in within the solution is called cloud point. Cloud point is an index to measure the solubility amount of a surfactant. (<link target-id="cutdsfsbdfe-dog"/>) Understanding the cloud point of each surfactant plays a critical role in preventing molecule aggregation.
+</para><figure id="cutdsfsbdfe-dog"><media id="dodflkxfvdfvmlkfgpic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/cloud point.PNG" width="500" print-width="5in"/>
+        </media>
+      
+
+<caption>Effect of increasing temperature in cloud point of polyoxyethylene surfactants. Reproduced with permission from Y. Nakama, <emphasis effect="italics">Cosm. Sci. Tech.</emphasis>, 2017, <emphasis effect="bold">15</emphasis>, 231-244. Copyright: The Authors. Published by the Elsevier (2017).</caption></figure>
+
+
+</section>
+
+<section id="eip-122"><title>Krafft point</title><para id="eip-215">The Krafft point is defined as the point at which surfactant reaches its highest solubility in water. The surfactant solution at a lower Krafft point would form a bilayer structure of hydrated solid and in higher Krafft point, form micelles. Molecular structures of surfactants have the main effect in the precise determination of the Krafft point (<link target-id="cutfvdfve-dog"/>).</para><figure id="cutfvdfve-dog"><media id="dodflkmlkfgpic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/krafft point.PNG" width="450" print-width="5in"/>
+        </media>
+      
+
+<caption>The cloud point, Krafft point, and CMC value in the concentration-temperature curve. Reproduced with permission from Y. Nakama, <emphasis effect="italics">Cosm. Sci. Tech.</emphasis>, 2017, <emphasis effect="bold">15</emphasis>, 231-244. Copyright: The Authors. Published by the Elsevier (2017).</caption></figure>
+
+
+
+
+
+</section>
+
+
+<section id="eip-989"><title>Brine effect on surfactant </title><para id="eip-616">The solubilization potential of amphiphilic substances follows their structure, inorganic salts, and temperature. Typically, the maximum surfactant solubilization is obtained by long hydrophobic groups. However, surfactants are highly sensitive to the addition of salt and it suppresses the electrostatic repulsive forces between the hydrophilic head groups.</para></section>
+
+</section>
+
+
+<section id="eip-97"><title>Ideal surfactant</title><para id="eip-197">Many efforts have been made in order to create the ideal surfactant system with high synergistic properties to effectively push oil out. However, using a particular surfactant in field-scale is not an effective solution to heal oil transport through the pore space and it should be used via alternative chemicals such as polymers and alkaline. A successful surfactant should ideally be highly salt, tolerant, possess high thermal stability, polymer compatibility, and be cost-effective for the EOR process.</para></section><section id="eip-337"><title>Branched surfactants</title><para id="eip-469">Oil displacement by branched surfactant has proven to be a potential remedy to the difficulties in oil sweeping and fluid flow viscous fingering. For example, a branched C<sub>16-17</sub> propoxy sulfate has been shown to be stable in high-pressure high temperature (HPHT), resulting in more than 90% oil recovery. Despite this result, two major problems still remain in surfactant flooding: expense and environmental impact.</para></section></section><section id="eip-865"><title>Foam EOR scenario</title><section id="eip-913"><title>Foam flooding</title><para id="eip-266">Fluid displacement is “hard” geological work, where more than 60% of oil remains unproduced due to the unfortunate decline in natural forces and pressure. Enhancing oil displacement with chemicals, especially foam, where the appropriate surfactant is selected, is shown to be a potential solution in addressing these problems. Foam is the dispersion of a high volume of gas (99 wt.%, N<sub>2</sub>, CO<sub>2</sub>, and air) into a small volume of liquid (1 wt.%). Gas purging and entrapment within surfactant solution leads to adsorption of surfactant molecules into the gas-liquid interface. As a result, this generates a continuous foam bubble with a thin-stable liquid/gas interface called lamellae. The effectiveness of foam in porous media is far greater than water and gas. This leads to reduced gas relative permeability by bubble trapping and causes an increase in the gas viscosity which provides stable and robust foam (<link target-id="cdfrfute-dog"/>). Furthermore, foam can potentially help to improve oil sweep efficiency and reduce gas mobility by forcing more gas from a small to a highly penetrable area. <link target-id="cdfrfute-dog"/> provides a comparison between continuous gas, water-alternate-gas, and foam=assisted WAG injection in the oil reservoirs.</para><figure id="cdfrfute-dog"><media id="dodffgpic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/foam.PNG" width="500" print-width="5in"/>
+        </media>
+      
+
+<caption>Comparsion of the gas, water alternate gas (WAG), and foam assisted WAG flooding across the oilfield. Reproduced with permission from M. Sagir, M. Mushtaq, M. S. Tahir, M. B. Tahir, N. Abbas, and M. Pervaiz, <emphasis effect="italics"> CO<sub>2</sub> Capture, Storage, and Enhanced Oil Recovery Applications</emphasis>, 2018, <emphasis effect="bold">3</emphasis>, 52-58. Copyright: The Authors. Published by Elsevier (2018).
+</caption></figure></section><section id="eip-226"><title>Foam stability</title><para id="eip-80">Stability is one of the most important characteristics of foam. Foam coalescence occurred occurs via three different mechanisms. The first being liquid drainage as a result of gravity force, the second is coarsening of foam caused by gas diffusion among bubbles which generates differing capillary pressures (lamellae film getting thinner), and lastly, the bubble coalescence occurs through gas diffusion from smaller bubbles with high pressure to larger bubbles with low pressure amid neighbouring bubbles. This leads to reduced foam numbers by gravity and capillary forces and causes breakage in lamellae to plateau border and merging of the two smaller bubbles, forming a larger bubble. The rate of liquid drainage and critical film thickness is dependent on the surfactant charge-concentration, surface-liquid viscosity, and surface elasticity.</para></section><section id="eip-757"><title>Impact of oil in foam stability</title><para id="eip-993">Oil has also been shown to have a detrimental effect on foam stability. Various studies have shown the difficulty in generating foam and obtaining stability in the presence of different types of oil. However, this is a highly contradictory subject in terms of the results obtained by various researchers. It has been demonstrated that the use of light oil causes the collapse of foam formation and generation. Other researchers believe stable foam in medium and heavy oil is a result of using the proper surfactant. It has been demonstrated previously that the use of light oil alkene chain hydrocarbons causes a drastic decrease in the half-time stability of a single foam bubble, this demonstrates the direct relationship between oil type and foam stability. Clearly, the same approach for long-term pseudostabilized foam film can be observed with inherent physicochemical interactions of surfactant in foam-oil interfaces. The underlying process for these interactions amongst oil-bubble can be described in three steps. The first being access of oil to the interface, then spreading on the interface, and finally creating an unstable bridge across the lamellae-thin film.</para></section><section id="eip-834"><title>Surfactant impact on foam generation</title><para id="eip-150">Surfactant has a key role in stabilizing foam. The presence of surfactant creates a new layer on the fluid-fluid and solid-fluid interfaces via new chemical interactions such as van der Waals, π-π, electrostatic, steric, acid-base, etc. Therefore, enhancing surfactant diffusion on the interfaces is shown to facilitate oil separation (decreasing IFT) thus reducing the capillary pressure forces (Pc). However, as a result of large surface areas, their efficiency is inadequate due to foam instability and coalescence of bubbles in oil (seminal problems). Therefore, researchers’ efforts have been focused on generating a thermodynamically high stable foam using surfactants, nanoparticles, and polymers in an effort to improve oil displacement with stabilized foam.  Based on these results, most foam stability is controlled by surface tension, IFT, viscoelastic behaviour, composition and various types of chemicals, namely surfactants. However, regarding abovementioned analyses, further studies are needed to obtain a full understanding of monomer arrangements and their structures within a solution. This provides clear evidence that the surfactant formation, creates a strong thin film around bubbles in the foam. Clearly, small-angle neutron analysis (SANS) can distinguish between aggregation and formation of surfactant in order to see the potential formation of a thin film. Figure 9 shows the comparison of CO<sub>2</sub> EOR and CO<sub>2</sub>-foam flooding. Foam leads to decrease CO<sub>2</sub> gas fingering across the oilfield (<link target-id="cutdfde-dog"/>).</para><figure id="cutdfde-dog"><media id="dogdfdfpic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/foam3.PNG" width="450" print-width="4.5in"/>
+        </media><caption>Comparision of the gas and foam flooding. Foam leads to decrease CO<sub>2</sub> gas fingering across the oilfield. (Patil et al.) Reproduced with permission from M. Sagir, M. Mushtaq, M. S. Tahir, M. B. Tahir, N. Abbas, and M. Pervaiz, <emphasis effect="italics">CO2 Capture, Storage, and Enhanced Oil Recovery Applications</emphasis>, Encyclopedia of Renewable and Sustainable Materials, <emphasis effect="bold">3</emphasis>, 52-58. Copyright: The Authors. Published by Elsevier (2018). </caption></figure></section><section id="eip-254"><title>Surface and interfacial tension (IFT) effect on foam stability</title><para id="eip-738">It is generally believed that optimum surface and interfacial tension values have a positive effect on foam stability. It seems there is a direct link between the charges on the head of surfactants and foam generation-stabilization. This provides an effective thin film around the bubble. In this case, selecting a good surfactant results in homogenous stretching forces in a thin film. This increases foam stabilization by reducing the local surface tensions (Gibbs energy) amongst bubbles. It is generally believed that optimum surface and interfacial tension values have a positive effect on foam stability. Over the past decade, different viscoelastic surfactants (VES) were synthesized and developed to increase the viscosity of solutions, as well as control the rheological properties in different industrial applications e.g., drilling fluid, hydraulic fracturing, and EOR methods.</para></section><section id="eip-204"><title>Surfactant type and size</title><para id="eip-525">Additionally, surfactant size needs further investigation in order to observe the stability and aggregations to generate a homogenous foam displacement system. Using this information, we can see how surfactants size and stabilities can have a significant effect on foam displacement, a piston-like effect, even. The composition and charges of surfactant in foam are intended to make a homogenous foam front. This greatly affects the adsorption of monomer layers between bubble, surfactant, and oil. Thus, creating higher external fluid displacement. In addition to this, it is observed that the type of surfactant used i.e., the charge and composition, can have an effect on foam systems, in that it creates a weak or strong interaction.</para></section><section id="eip-621"><title>Marangoni flow and bubble coalscence</title><para id="eip-634">Surfactant molecules create bulk film layers of the monomers at interfaces that make it resistant to the extension. However, this cannot distribute homogeneously over entire foam bubble surfaces. This is due to insufficient monomer around the foam bubble, resulting in local resistance to extension. This generates a flow against local surface forces and toward the depleted areas (this took place after stretching) called Marangoni flow. In the foam systems, Marangoni flow relates to surface elasticity within foam solutions. In the foam systems, surface elasticity has a dominating effect leading to a decrease in the stability of thin liquid films. By selecting a good viscoelastic surfactant, bubble coalescence (film rupture) by Ostwald ripening can be rendered at low elasticity. Furthermore, there is a relationship between surfactant solution, its concentration, and foam generation with both viscosity and shear stress factors in bulk solution.</para><figure id="cutsdve-dog"><media id="dogdfdlkfpic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/manarngoni.PNG" width="450" print-width="4.5in"/>
+        </media><caption>Schematic of  Marangoni-effect between two  bubbles  in  a  foam. Reproduced with permission from M. Mellema, J. Benjamins, <emphasis effect="italics">Colloid Surf. A: Physicochem. Eng. Asp.</emphasis>,<emphasis effect="bold">237</emphasis>, 113–118. Copyright: The Authors. Published by Elsevier (2004).</caption></figure></section></section><section id="eip-991"><title>Bibliography</title><list id="eip-503"><item>A. Bera, K. Ojha, T. Kumar, and A. Mandal,<emphasis effect="italics"> Colloid Surf. A Physicochem. Eng. Asp.</emphasis>, 2012, <emphasis effect="bold">404</emphasis>, 70-77. </item>
+
+<item>A. Bera, K. Ojha, T. Kumar, and A. Mandal,<emphasis effect="italics"> Colloid Surf. A Physicochem. Eng. Asp.</emphasis>, 2012, <emphasis effect="bold">383 (1-3)</emphasis>, 114-119. </item>
+
+<item>N. Chegenizadeh, A. Saeedi, and X. Quan,<emphasis effect="italics"> Petroleum</emphasis>, 2017, <emphasis effect="bold">3(2)</emphasis>, 197-211. </item>
+
+<item>L. Co, Z. Zhang, Q. Ma, G. Watts, L. Zhao, and P.J. Shuler,<emphasis effect="italics"> J. Petroleum Sci. Eng., </emphasis>, 2015, <emphasis effect="bold">134</emphasis>, 167-175. </item>
+
+<item>K.-O. Choi, N.P. Aditya, and S. Ko,<emphasis effect="italics"> Food Chem.,</emphasis>, 2014, <emphasis effect="bold">147</emphasis>, 239-244. </item>
+
+<item>L. Daoshan, L. Shouliang, L. Yi, and W. Demin,<emphasis effect="italics"> Colloid Surf. A Physicochem. Eng. Asp.,</emphasis>, 2004, <emphasis effect="bold">244 (1-3)</emphasis>, 53-60. </item>
+
+<item>C. Glover, M. Puerto, J. Maerker, and E. Sandvik,<emphasis effect="italics"> SPE J.,</emphasis>, 1979, <emphasis effect="bold">19 (03)</emphasis>, 183-193. </item>
+
+<item>F. Hajibagheri, M. Lashkarbolooki, S. Ayatollahi, and A. Hashemi, <emphasis effect="italics"> Colloid. Surf. A: Phys. Eng. Asp.</emphasis>, 2017, <emphasis effect="bold">513</emphasis>, 422. </item>
+
+<item>G. Hirasaki, C.A. Miller, and M. Puerto, <emphasis effect="italics"> SPE J.</emphasis>, 2011<emphasis effect="bold"/>. </item>
+
+<item>W. Karnanda, M.S. Benzagouta, A. AlQuraishi, M.M. Amro,<emphasis effect="italics"> Arab. J. Geosci.</emphasis>, 2013, <emphasis effect="bold">6(9)</emphasis>, 3535-3544. </item>
+
+<item>S. Kiani, D. R.Jones, S. Alexander, and A. R.Barron, <emphasis effect="italics"> J. Colloid Interf. Sci.</emphasis>, 2020, <emphasis effect="bold">571</emphasis>, 307-317. </item>
+
+<item>S. Kiani, S. E. Rogers, M. Sagisaka, S. Alexander, and A. R.Barron, <emphasis effect="italics"> Energy Fuels</emphasis>, 2019, <emphasis effect="bold">33 (4)</emphasis>, 3162-3175. </item>
+
+
+<item>A. Kumar and A. Mandal, <emphasis effect="italics"> J. Mol. Liq.</emphasis>, 2017, <emphasis effect="bold">243</emphasis>, 61. </item>
+
+<item>M. Mellema, J. Benjamins, <emphasis effect="italics">Colloid Surf. A: Physicochem. Eng. Asp.</emphasis>, 2004, <emphasis effect="bold">237</emphasis>, 113-118. </item>
+
+<item>Y. Nakama, <emphasis effect="italics">Cosm. Sci. Tech.</emphasis>, 2017, <emphasis effect="bold">15</emphasis>, 231-244. </item>
+
+<item>P. D. Patil, T. Knight, A. Katiyar, P. Vanderwal, J. Scherlin, P. Rozowski, M. Ibrahim, G. B. Sridhar, and Q. P. Nguyen, <emphasis effect="italics"> SPE Improved Oil Recovery Conference, 14-18 April, Tulsa, Oklahoma, USA</emphasis>,2018, SPE-190312-MS.</item>
+
+<item>M. Sagir, M. Mushtaq, M. S. Tahir, M. B. Tahir, N. Abbas, and M. Pervaiz, <emphasis effect="italics"> Encyclopedia of Renewable and Sustainable Materials </emphasis>, 2018, <emphasis effect="bold">3</emphasis>,52-58. </item>
+
+<item>R. Sen,<emphasis effect="italics"> Prog. Energy Combust. Sci.,</emphasis>, 2008, <emphasis effect="bold">34 (6)</emphasis>, 714-724. </item>
+
+<item>J. J. Sheng, <emphasis effect="italics">Petroleum</emphasis>, 2015, <emphasis effect="bold">1 (2)</emphasis>, 97-105. </item>
+
+<item>L. Torres, A. Moctezuma, J.R. Avendaño, A. Muñoz, and J. Gracida, <emphasis effect="italics">J. Pet. Sci. Eng.,</emphasis>, 2011, <emphasis effect="bold">76 (1-2)</emphasis>, 6-11. </item>
+
+
+<item>A. Telmadarreie and J. J. Trivedi, <emphasis effect="italics"> SPE J.</emphasis>, 2016, <emphasis effect="bold">21</emphasis>, 5. </item>
+
+<item>H. Vatanparast, A.H. Alizadeh, A. Bahramian, and H. Bazdar, <emphasis effect="italics"> Pet. Sci. Tech., </emphasis>, 2011, <emphasis effect="bold">29 (18)</emphasis>, 1873-1884. </item>
+
+<item>K. R. Wormuth, S. Zushma, <emphasis effect="italics"> Langmuir</emphasis>, 2016, <emphasis effect="bold">7 (10)</emphasis>, 2048-2053. </item>
+
+<item>J. Wu, Y. Xu, T. Dabros, and H. Hamza, <emphasis effect="italics"> Colloid Surf. A Physicochem. Eng. Asp, </emphasis>, 2005, <emphasis effect="bold">252(1)</emphasis>, 79-85. </item>
+
+<item>Z. Ye, F. Zhang, L. Han, P. Luo, J. Yang, and H. Chen, <emphasis effect="italics"> Colloid Surf. A Physicochem. Eng. Asp, </emphasis>, 2008, <emphasis effect="bold">322(1)</emphasis>, 138-141. </item>
+
+<item>J. Zhang, Q.P. Nguyen, A. Flaaten, G.A. Pope, <emphasis effect="italics"> SPE J., </emphasis>, 2009, <emphasis effect="bold">12(06)</emphasis>, 912-920. </item>
+
+<item>Q.-Q. Zhang, B.-X. Cai, W.-J. Xu, H.-Z. Gang, J.-F. Liu, and S.-Z. Yang,<emphasis effect="italics"> Colloid Surf. A Physicochem. Eng. Asp, </emphasis>, 2015, <emphasis effect="bold">483</emphasis>, 87-95. </item>
+</list></section></content>
+
+</document>
